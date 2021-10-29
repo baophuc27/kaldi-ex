@@ -1,0 +1,4943 @@
+!SIL 1.0	sil
+<UNK> 1.0	spn
+4 1.0	4
+a 1.0	a
+ai 1.0	a i
+am 1.0	a m
+an 1.0	a n
+ang 1.0	a n g
+anh 1.0	a n h
+ao 1.0	a o
+au 1.0	a u
+b 1.0	b
+ba 1.0	b a
+ban 1.0	b a n
+bang 1.0	b a n g
+banh 1.0	b a n h
+bao 1.0	b a o
+bay 1.0	b a y
+be 1.0	b e
+ben 1.0	b e n
+beng 1.0	b e n g
+bi 1.0	b i
+bia 1.0	b i a
+binh 1.0	b i n h
+biên 1.0	b i e e n
+biêng 1.0	b i e e n g
+biếc 1.0	b i e e s c
+biếm 1.0	b i e e s m
+biến 1.0	b i e e s n
+biếng 1.0	b i e e s n g
+biết 1.0	b i e e s t
+biếu 1.0	b i e e s u
+biền 1.0	b i e e f n
+biển 1.0	b i e e r n
+biểu 1.0	b i e e r u
+biện 1.0	b i e e j n
+biệt 1.0	b i e e j t
+bo 1.0	b o
+boa 1.0	b o a
+bom 1.0	b o m
+bon 1.0	b o n
+bong 1.0	b o n g
+bu 1.0	b u
+bung 1.0	b u n g
+buôn 1.0	b u o o n
+buông 1.0	b u o o n g
+buýt 1.0	b u y s t
+buốt 1.0	b u o o s t
+buồn 1.0	b u o o f n
+buồng 1.0	b u o o f n g
+buổi 1.0	b u o o r i
+buộc 1.0	b u o o j c
+bà 1.0	b a f
+bài 1.0	b a f i
+bàn 1.0	b a f n
+bàng 1.0	b a f n g
+bành 1.0	b a f n h
+bào 1.0	b a f o
+bàu 1.0	b a f u
+bày 1.0	b a f y
+bá 1.0	b a s
+bác 1.0	b a s c
+bách 1.0	b a s c h
+bái 1.0	b a s i
+bám 1.0	b a s m
+bán 1.0	b a s n
+báng 1.0	b a s n g
+bánh 1.0	b a s n h
+báo 1.0	b a s o
+bát 1.0	b a s t
+báu 1.0	b a s u
+bâng 1.0	b a a n g
+bâu 1.0	b a a u
+bây 1.0	b a a y
+bã 1.0	b a x
+bãi 1.0	b a x i
+bão 1.0	b a x o
+bè 1.0	b e f
+bèn 1.0	b e f n
+bèo 1.0	b e f o
+bé 1.0	b e s
+bén 1.0	b e s n
+béng 1.0	b e s n g
+béo 1.0	b e s o
+bét 1.0	b e s t
+bê 1.0	b e e
+bên 1.0	b e e n
+bênh 1.0	b e e n h
+bêu 1.0	b e e u
+bì 1.0	b i f
+bìa 1.0	b i f a
+bình 1.0	b i f n h
+bìu 1.0	b i f u
+bí 1.0	b i s
+bích 1.0	b i s c h
+bính 1.0	b i s n h
+bíu 1.0	b i s u
+bò 1.0	b o f
+bó 1.0	b o s
+bóc 1.0	b o s c
+bói 1.0	b o s i
+bón 1.0	b o s n
+bóng 1.0	b o s n g
+bóp 1.0	b o s p
+bót 1.0	b o s t
+bôi 1.0	b o o i
+bông 1.0	b o o n g
+bõm 1.0	b o x m
+bõng 1.0	b o x n g
+bù 1.0	b u f
+bùa 1.0	b u f a
+bùi 1.0	b u f i
+bùn 1.0	b u f n
+bùng 1.0	b u f n g
+bú 1.0	b u s
+búa 1.0	b u s a
+bún 1.0	b u s n
+búng 1.0	b u s n g
+búp 1.0	b u s p
+bút 1.0	b u s t
+băn 1.0	b a w n
+băng 1.0	b a w n g
+bĩnh 1.0	b i x n h
+bĩu 1.0	b i x u
+bũm 1.0	b u x m
+bơ 1.0	b o w
+bơi 1.0	b o w i
+bơm 1.0	b o w m
+bưng 1.0	b u w n g
+bưu 1.0	b u w u
+bươi 1.0	b u w o w i
+bươm 1.0	b u w o w m
+bươu 1.0	b u w o w u
+bước 1.0	b u w o w s c
+bướng 1.0	b u w o w s n g
+bưởi 1.0	b u w o w r i
+bạ 1.0	b a j
+bạc 1.0	b a j c
+bạch 1.0	b a j c h
+bại 1.0	b a j i
+bạn 1.0	b a j n
+bạo 1.0	b a j o
+bạt 1.0	b a j t
+bả 1.0	b a r
+bản 1.0	b a r n
+bảng 1.0	b a r n g
+bảnh 1.0	b a r n h
+bảo 1.0	b a r o
+bảy 1.0	b a r y
+bấc 1.0	b a a s c
+bấm 1.0	b a a s m
+bấp 1.0	b a a s p
+bất 1.0	b a a s t
+bấu 1.0	b a a s u
+bấy 1.0	b a a s y
+bầm 1.0	b a a f m
+bần 1.0	b a a f n
+bầu 1.0	b a a f u
+bầy 1.0	b a a f y
+bẩm 1.0	b a a r m
+bẩn 1.0	b a a r n
+bẫy 1.0	b a a x y
+bậc 1.0	b a a j c
+bận 1.0	b a a j n
+bập 1.0	b a a j p
+bật 1.0	b a a j t
+bậy 1.0	b a a j y
+bắc 1.0	b a w s c
+bắn 1.0	b a w s n
+bắng 1.0	b a w s n g
+bắp 1.0	b a w s p
+bắt 1.0	b a w s t
+bằm 1.0	b a w f m
+bằng 1.0	b a w f n g
+bẵng 1.0	b a w x n g
+bặm 1.0	b a w j m
+bặt 1.0	b a w j t
+bẹ 1.0	b e j
+bẹo 1.0	b e j o
+bẹp 1.0	b e j p
+bẹt 1.0	b e j t
+bẽn 1.0	b e x n
+bế 1.0	b e e s
+bến 1.0	b e e s n
+bếp 1.0	b e e s p
+bết 1.0	b e e s t
+bề 1.0	b e e f
+bền 1.0	b e e f n
+bềnh 1.0	b e e f n h
+bều 1.0	b e e f u
+bể 1.0	b e e r
+bệ 1.0	b e e j
+bệch 1.0	b e e j c h
+bện 1.0	b e e j n
+bệnh 1.0	b e e j n h
+bệt 1.0	b e e j t
+bệu 1.0	b e e j u
+bỉ 1.0	b i r
+bỉnh 1.0	b i r n h
+bỉu 1.0	b i r u
+bị 1.0	b i j
+bịa 1.0	b i j a
+bịch 1.0	b i j c h
+bịn 1.0	b i j n
+bịt 1.0	b i j t
+bịu 1.0	b i j u
+bọ 1.0	b o j
+bọc 1.0	b o j c
+bọn 1.0	b o j n
+bọng 1.0	b o j n g
+bọp 1.0	b o j p
+bọt 1.0	b o j t
+bỏ 1.0	b o r
+bố 1.0	b o o s
+bốc 1.0	b o o s c
+bối 1.0	b o o s i
+bốn 1.0	b o o s n
+bống 1.0	b o o s n g
+bồ 1.0	b o o f
+bồi 1.0	b o o f i
+bồn 1.0	b o o f n
+bồng 1.0	b o o f n g
+bổ 1.0	b o o r
+bổn 1.0	b o o r n
+bổng 1.0	b o o r n g
+bỗ 1.0	b o o x
+bỗng 1.0	b o o x n g
+bộ 1.0	b o o j
+bộc 1.0	b o o j c
+bội 1.0	b o o j i
+bộng 1.0	b o o j n g
+bột 1.0	b o o j t
+bới 1.0	b o w s i
+bớt 1.0	b o w s t
+bờ 1.0	b o w f
+bời 1.0	b o w f i
+bờm 1.0	b o w f m
+bở 1.0	b o w r
+bởi 1.0	b o w r i
+bỡ 1.0	b o w x
+bợ 1.0	b o w j
+bợm 1.0	b o w j m
+bợn 1.0	b o w j n
+bụa 1.0	b u j a
+bục 1.0	b u j c
+bụi 1.0	b u j i
+bụng 1.0	b u j n g
+bụt 1.0	b u j t
+bủa 1.0	b u r a
+bủm 1.0	b u r m
+bức 1.0	b u w s c
+bứt 1.0	b u w s t
+bừa 1.0	b u w f a
+bừng 1.0	b u w f n g
+bửu 1.0	b u w r u
+bữa 1.0	b u w x a
+bự 1.0	b u w j
+bực 1.0	b u w j c
+c 1.0	c
+ca 1.0	c a
+cai 1.0	c a i
+cam 1.0	c a m
+can 1.0	c a n
+canh 1.0	c a n h
+cao 1.0	c a o
+cay 1.0	c a y
+cha 1.0	c h a
+chai 1.0	c h a i
+chan 1.0	c h a n
+chang 1.0	c h a n g
+chanh 1.0	c h a n h
+chao 1.0	c h a o
+chay 1.0	c h a y
+che 1.0	c h e
+chem 1.0	c h e m
+chen 1.0	c h e n
+cheng 1.0	c h e n g
+cheo 1.0	c h e o
+chi 1.0	c h i
+chia 1.0	c h i a
+chim 1.0	c h i m
+chinh 1.0	c h i n h
+chiu 1.0	c h i u
+chiêm 1.0	c h i e e m
+chiên 1.0	c h i e e n
+chiêng 1.0	c h i e e n g
+chiêu 1.0	c h i e e u
+chiếc 1.0	c h i e e s c
+chiếm 1.0	c h i e e s m
+chiến 1.0	c h i e e s n
+chiếng 1.0	c h i e e s n g
+chiết 1.0	c h i e e s t
+chiếu 1.0	c h i e e s u
+chiền 1.0	c h i e e f n
+chiều 1.0	c h i e e f u
+chiểu 1.0	c h i e e r u
+cho 1.0	c h o
+choang 1.0	c h o a n g
+chong 1.0	c h o n g
+choàng 1.0	c h o a f n g
+choáng 1.0	c h o a s n g
+choèn 1.0	c h o e f n
+choạc 1.0	c h o a j c
+choạng 1.0	c h o a j n g
+choảng 1.0	c h o a r n g
+choắt 1.0	c h o a w s t
+chu 1.0	c h u
+chua 1.0	c h u a
+chui 1.0	c h u i
+chum 1.0	c h u m
+chung 1.0	c h u n g
+chuyên 1.0	c h u y e e n
+chuyến 1.0	c h u y e e s n
+chuyền 1.0	c h u y e e f n
+chuyển 1.0	c h u y e e r n
+chuyện 1.0	c h u y e e j n
+chuôi 1.0	c h u o o i
+chuông 1.0	c h u o o n g
+chuẩn 1.0	c h u a a r n
+chuốc 1.0	c h u o o s c
+chuối 1.0	c h u o o s i
+chuốt 1.0	c h u o o s t
+chuồi 1.0	c h u o o f i
+chuồn 1.0	c h u o o f n
+chuồng 1.0	c h u o o f n g
+chuỗi 1.0	c h u o o x i
+chuộc 1.0	c h u o o j c
+chuộng 1.0	c h u o o j n g
+chuột 1.0	c h u o o j t
+chà 1.0	c h a f
+chài 1.0	c h a f i
+chàm 1.0	c h a f m
+chàng 1.0	c h a f n g
+chành 1.0	c h a f n h
+chào 1.0	c h a f o
+chày 1.0	c h a f y
+chác 1.0	c h a s c
+chái 1.0	c h a s i
+chán 1.0	c h a s n
+chánh 1.0	c h a s n h
+cháo 1.0	c h a s o
+chát 1.0	c h a s t
+cháu 1.0	c h a s u
+cháy 1.0	c h a s y
+châm 1.0	c h a a m
+chân 1.0	c h a a n
+châu 1.0	c h a a u
+chã 1.0	c h a x
+chão 1.0	c h a x o
+chè 1.0	c h e f
+chèn 1.0	c h e f n
+chèo 1.0	c h e f o
+ché 1.0	c h e s
+chém 1.0	c h e s m
+chén 1.0	c h e s n
+chéo 1.0	c h e s o
+chép 1.0	c h e s p
+chét 1.0	c h e s t
+chê 1.0	c h e e
+chêm 1.0	c h e e m
+chênh 1.0	c h e e n h
+chì 1.0	c h i f
+chìm 1.0	c h i f m
+chìu 1.0	c h i f u
+chí 1.0	c h i s
+chích 1.0	c h i s c h
+chín 1.0	c h i s n
+chính 1.0	c h i s n h
+chít 1.0	c h i s t
+chíu 1.0	c h i s u
+chò 1.0	c h o f
+chòm 1.0	c h o f m
+chòng 1.0	c h o f n g
+chó 1.0	c h o s
+chóe 1.0	c h o s e
+chói 1.0	c h o s i
+chóng 1.0	c h o s n g
+chót 1.0	c h o s t
+chôn 1.0	c h o o n
+chông 1.0	c h o o n g
+chù 1.0	c h u f
+chùa 1.0	c h u f a
+chùi 1.0	c h u f i
+chùm 1.0	c h u f m
+chú 1.0	c h u s
+chúa 1.0	c h u s a
+chúc 1.0	c h u s c
+chúi 1.0	c h u s i
+chúng 1.0	c h u s n g
+chút 1.0	c h u s t
+chăm 1.0	c h a w m
+chăn 1.0	c h a w n
+chăng 1.0	c h a w n g
+chĩn 1.0	c h i x n
+chũi 1.0	c h u x i
+chũn 1.0	c h u x n
+chơ 1.0	c h o w
+chơi 1.0	c h o w i
+chư 1.0	c h u w
+chưa 1.0	c h u w a
+chưng 1.0	c h u w n g
+chương 1.0	c h u w o w n g
+chước 1.0	c h u w o w s c
+chướng 1.0	c h u w o w s n g
+chườm 1.0	c h u w o w f m
+chược 1.0	c h u w o w j c
+chạch 1.0	c h a j c h
+chạm 1.0	c h a j m
+chạn 1.0	c h a j n
+chạnh 1.0	c h a j n h
+chạp 1.0	c h a j p
+chạy 1.0	c h a j y
+chả 1.0	c h a r
+chải 1.0	c h a r i
+chảo 1.0	c h a r o
+chảy 1.0	c h a r y
+chấm 1.0	c h a a s m
+chấn 1.0	c h a a s n
+chấp 1.0	c h a a s p
+chất 1.0	c h a a s t
+chấu 1.0	c h a a s u
+chầm 1.0	c h a a f m
+chầu 1.0	c h a a f u
+chẩm 1.0	c h a a r m
+chẩn 1.0	c h a a r n
+chậm 1.0	c h a a j m
+chập 1.0	c h a a j p
+chật 1.0	c h a a j t
+chậu 1.0	c h a a j u
+chắc 1.0	c h a w s c
+chắm 1.0	c h a w s m
+chắn 1.0	c h a w s n
+chắp 1.0	c h a w s p
+chắt 1.0	c h a w s t
+chằm 1.0	c h a w f m
+chằn 1.0	c h a w f n
+chằng 1.0	c h a w f n g
+chẳng 1.0	c h a w r n g
+chẵn 1.0	c h a w x n
+chặn 1.0	c h a w j n
+chặng 1.0	c h a w j n g
+chặt 1.0	c h a w j t
+chẹn 1.0	c h e j n
+chẹo 1.0	c h e j o
+chẹp 1.0	c h e j p
+chẻ 1.0	c h e r
+chẽ 1.0	c h e x
+chẽn 1.0	c h e x n
+chế 1.0	c h e e s
+chết 1.0	c h e e s t
+chề 1.0	c h e e f
+chềnh 1.0	c h e e f n h
+chểnh 1.0	c h e e r n h
+chệch 1.0	c h e e j c h
+chỉ 1.0	c h i r
+chỉnh 1.0	c h i r n h
+chị 1.0	c h i j
+chịt 1.0	c h i j t
+chịu 1.0	c h i j u
+chọc 1.0	c h o j c
+chọi 1.0	c h o j i
+chọn 1.0	c h o j n
+chọt 1.0	c h o j t
+chỏ 1.0	c h o r
+chỏm 1.0	c h o r m
+chỏn 1.0	c h o r n
+chốc 1.0	c h o o s c
+chối 1.0	c h o o s i
+chốn 1.0	c h o o s n
+chống 1.0	c h o o s n g
+chốt 1.0	c h o o s t
+chồi 1.0	c h o o f i
+chồm 1.0	c h o o f m
+chồn 1.0	c h o o f n
+chồng 1.0	c h o o f n g
+chổi 1.0	c h o o r i
+chỗ 1.0	c h o o x
+chộp 1.0	c h o o j p
+chớ 1.0	c h o w s
+chới 1.0	c h o w s i
+chớp 1.0	c h o w s p
+chờ 1.0	c h o w f
+chờn 1.0	c h o w f n
+chở 1.0	c h o w r
+chợ 1.0	c h o w j
+chợp 1.0	c h o w j p
+chợt 1.0	c h o w j t
+chục 1.0	c h u j c
+chụm 1.0	c h u j m
+chụp 1.0	c h u j p
+chủ 1.0	c h u r
+chủng 1.0	c h u r n g
+chứ 1.0	c h u w s
+chứa 1.0	c h u w s a
+chức 1.0	c h u w s c
+chứng 1.0	c h u w s n g
+chừ 1.0	c h u w f
+chừng 1.0	c h u w f n g
+chửa 1.0	c h u w r a
+chửi 1.0	c h u w r i
+chửng 1.0	c h u w r n g
+chữ 1.0	c h u w x
+chữa 1.0	c h u w x a
+chững 1.0	c h u w x n g
+chực 1.0	c h u w j c
+co 1.0	c o
+coi 1.0	c o i
+con 1.0	c o n
+cong 1.0	c o n g
+cu 1.0	c u
+cua 1.0	c u a
+cun 1.0	c u n
+cung 1.0	c u n g
+cuông 1.0	c u o o n g
+cuốc 1.0	c u o o s c
+cuối 1.0	c u o o s i
+cuốn 1.0	c u o o s n
+cuống 1.0	c u o o s n g
+cuồn 1.0	c u o o f n
+cuồng 1.0	c u o o f n g
+cuỗm 1.0	c u o o x m
+cuộc 1.0	c u o o j c
+cuội 1.0	c u o o j i
+cuộn 1.0	c u o o j n
+cà 1.0	c a f
+cài 1.0	c a f i
+càng 1.0	c a f n g
+cành 1.0	c a f n h
+cào 1.0	c a f o
+càu 1.0	c a f u
+cày 1.0	c a f y
+cá 1.0	c a s
+các 1.0	c a s c
+cách 1.0	c a s c h
+cái 1.0	c a s i
+cám 1.0	c a s m
+cán 1.0	c a s n
+cáng 1.0	c a s n g
+cánh 1.0	c a s n h
+cáo 1.0	c a s o
+cáp 1.0	c a s p
+cát 1.0	c a s t
+cáu 1.0	c a s u
+cáy 1.0	c a s y
+câm 1.0	c a a m
+cân 1.0	c a a n
+câu 1.0	c a a u
+cây 1.0	c a a y
+cãi 1.0	c a x i
+cò 1.0	c o f
+còi 1.0	c o f i
+còm 1.0	c o f m
+còn 1.0	c o f n
+còng 1.0	c o f n g
+có 1.0	c o s
+cóc 1.0	c o s c
+cói 1.0	c o s i
+cóng 1.0	c o s n g
+cóp 1.0	c o s p
+cót 1.0	c o s t
+cô 1.0	c o o
+côi 1.0	c o o i
+côm 1.0	c o o m
+côn 1.0	c o o n
+công 1.0	c o o n g
+cõi 1.0	c o x i
+cõng 1.0	c o x n g
+cù 1.0	c u f
+cùi 1.0	c u f i
+cùn 1.0	c u f n
+cùng 1.0	c u f n g
+cú 1.0	c u s
+cúc 1.0	c u s c
+cúi 1.0	c u s i
+cúm 1.0	c u s m
+cúng 1.0	c u s n g
+cúp 1.0	c u s p
+cút 1.0	c u s t
+căm 1.0	c a w m
+căn 1.0	c a w n
+căng 1.0	c a w n g
+cũ 1.0	c u x
+cũi 1.0	c u x i
+cũn 1.0	c u x n
+cũng 1.0	c u x n g
+cơ 1.0	c o w
+cơi 1.0	c o w i
+cơm 1.0	c o w m
+cơn 1.0	c o w n
+cư 1.0	c u w
+cưa 1.0	c u w a
+cưng 1.0	c u w n g
+cưu 1.0	c u w u
+cương 1.0	c u w o w n g
+cước 1.0	c u w o w s c
+cưới 1.0	c u w o w s i
+cướp 1.0	c u w o w s p
+cười 1.0	c u w o w f i
+cườm 1.0	c u w o w f m
+cường 1.0	c u w o w f n g
+cưỡi 1.0	c u w o w x i
+cưỡng 1.0	c u w o w x n g
+cạc 1.0	c a j c
+cạch 1.0	c a j c h
+cạm 1.0	c a j m
+cạn 1.0	c a j n
+cạnh 1.0	c a j n h
+cạo 1.0	c a j o
+cạp 1.0	c a j p
+cạu 1.0	c a j u
+cạy 1.0	c a j y
+cả 1.0	c a r
+cải 1.0	c a r i
+cảm 1.0	c a r m
+cản 1.0	c a r n
+cảng 1.0	c a r n g
+cảnh 1.0	c a r n h
+cảo 1.0	c a r o
+cấm 1.0	c a a s m
+cấp 1.0	c a a s p
+cất 1.0	c a a s t
+cấu 1.0	c a a s u
+cấy 1.0	c a a s y
+cầm 1.0	c a a f m
+cần 1.0	c a a f n
+cầu 1.0	c a a f u
+cầy 1.0	c a a f y
+cẩm 1.0	c a a r m
+cẩn 1.0	c a a r n
+cẩu 1.0	c a a r u
+cẫng 1.0	c a a x n g
+cận 1.0	c a a j n
+cập 1.0	c a a j p
+cật 1.0	c a a j t
+cậu 1.0	c a a j u
+cậy 1.0	c a a j y
+cắc 1.0	c a w s c
+cắm 1.0	c a w s m
+cắn 1.0	c a w s n
+cắp 1.0	c a w s p
+cắt 1.0	c a w s t
+cằm 1.0	c a w f m
+cằn 1.0	c a w f n
+cẳng 1.0	c a w r n g
+cặm 1.0	c a w j m
+cặn 1.0	c a w j n
+cặp 1.0	c a w j p
+cọ 1.0	c o j
+cọc 1.0	c o j c
+cọn 1.0	c o j n
+cọng 1.0	c o j n g
+cọp 1.0	c o j p
+cọt 1.0	c o j t
+cỏ 1.0	c o r
+cỏi 1.0	c o r i
+cỏm 1.0	c o r m
+cố 1.0	c o o s
+cốc 1.0	c o o s c
+cối 1.0	c o o s i
+cốm 1.0	c o o s m
+cống 1.0	c o o s n g
+cốt 1.0	c o o s t
+cồ 1.0	c o o f
+cồm 1.0	c o o f m
+cồn 1.0	c o o f n
+cồng 1.0	c o o f n g
+cổ 1.0	c o o r
+cổng 1.0	c o o r n g
+cỗ 1.0	c o o x
+cỗi 1.0	c o o x i
+cộ 1.0	c o o j
+cội 1.0	c o o j i
+cộng 1.0	c o o j n g
+cộp 1.0	c o o j p
+cột 1.0	c o o j t
+cớ 1.0	c o w s
+cờ 1.0	c o w f
+cời 1.0	c o w f i
+cởi 1.0	c o w r i
+cỡ 1.0	c o w x
+cỡi 1.0	c o w x i
+cỡn 1.0	c o w x n
+cợt 1.0	c o w j t
+cụ 1.0	c u j
+cục 1.0	c u j c
+cụi 1.0	c u j i
+cụm 1.0	c u j m
+cụp 1.0	c u j p
+cụt 1.0	c u j t
+củ 1.0	c u r
+của 1.0	c u r a
+củi 1.0	c u r i
+củng 1.0	c u r n g
+cứ 1.0	c u w s
+cứa 1.0	c u w s a
+cứng 1.0	c u w s n g
+cứu 1.0	c u w s u
+cừ 1.0	c u w f
+cừu 1.0	c u w f u
+cử 1.0	c u w r
+cửa 1.0	c u w r a
+cửi 1.0	c u w r i
+cửu 1.0	c u w r u
+cữ 1.0	c u w x
+cự 1.0	c u w j
+cựa 1.0	c u w j a
+cực 1.0	c u w j c
+cựu 1.0	c u w j u
+d 1.0	d
+da 1.0	d a
+dai 1.0	d a i
+dan 1.0	d a n
+dang 1.0	d a n g
+danh 1.0	d a n h
+dao 1.0	d a o
+di 1.0	d i
+dim 1.0	d i m
+dinh 1.0	d i n h
+diêm 1.0	d i e e m
+diên 1.0	d i e e n
+diêu 1.0	d i e e u
+diếc 1.0	d i e e s c
+diết 1.0	d i e e s t
+diếu 1.0	d i e e s u
+diều 1.0	d i e e f u
+diễm 1.0	d i e e x m
+diễn 1.0	d i e e x n
+diệc 1.0	d i e e j c
+diệm 1.0	d i e e j m
+diện 1.0	d i e e j n
+diệp 1.0	d i e e j p
+diệt 1.0	d i e e j t
+diệu 1.0	d i e e j u
+do 1.0	d o
+doanh 1.0	d o a n h
+doi 1.0	d o i
+dong 1.0	d o n g
+doãn 1.0	d o a x n
+du 1.0	d u
+dua 1.0	d u a
+dung 1.0	d u n g
+duy 1.0	d u y
+duyên 1.0	d u y e e n
+duyệt 1.0	d u y e e j t
+duỗi 1.0	d u o o x i
+dà 1.0	d a f
+dài 1.0	d a f i
+dàn 1.0	d a f n
+dàng 1.0	d a f n g
+dành 1.0	d a f n h
+dào 1.0	d a f o
+dày 1.0	d a f y
+dác 1.0	d a s c
+dám 1.0	d a s m
+dán 1.0	d a s n
+dáng 1.0	d a s n g
+dáo 1.0	d a s o
+dát 1.0	d a s t
+dâm 1.0	d a a m
+dân 1.0	d a a n
+dâng 1.0	d a a n g
+dâu 1.0	d a a u
+dây 1.0	d a a y
+dã 1.0	d a x
+dãi 1.0	d a x i
+dãng 1.0	d a x n g
+dãy 1.0	d a x y
+dè 1.0	d e f
+dép 1.0	d e s p
+dê 1.0	d e e
+dì 1.0	d i f
+dìu 1.0	d i f u
+dí 1.0	d i s
+dính 1.0	d i s n h
+dò 1.0	d o f
+dòi 1.0	d o f i
+dòm 1.0	d o f m
+dòng 1.0	d o f n g
+dó 1.0	d o s
+dóc 1.0	d o s c
+dóm 1.0	d o s m
+dôi 1.0	d o o i
+dông 1.0	d o o n g
+dõi 1.0	d o x i
+dõng 1.0	d o x n g
+dù 1.0	d u f
+dùi 1.0	d u f i
+dùng 1.0	d u f n g
+dúi 1.0	d u s i
+dúm 1.0	d u s m
+dún 1.0	d u s n
+dăm 1.0	d a w m
+dăn 1.0	d a w n
+dăng 1.0	d a w n g
+dĩ 1.0	d i x
+dĩa 1.0	d i x a
+dũng 1.0	d u x n g
+dơi 1.0	d o w i
+dư 1.0	d u w
+dưa 1.0	d u w a
+dưng 1.0	d u w n g
+dương 1.0	d u w o w n g
+dưới 1.0	d u w o w s i
+dường 1.0	d u w o w f n g
+dưỡng 1.0	d u w o w x n g
+dược 1.0	d u w o w j c
+dượt 1.0	d u w o w j t
+dạ 1.0	d a j
+dạc 1.0	d a j c
+dại 1.0	d a j i
+dạm 1.0	d a j m
+dạn 1.0	d a j n
+dạng 1.0	d a j n g
+dạo 1.0	d a j o
+dạt 1.0	d a j t
+dạy 1.0	d a j y
+dả 1.0	d a r
+dải 1.0	d a r i
+dấm 1.0	d a a s m
+dấn 1.0	d a a s n
+dấp 1.0	d a a s p
+dấu 1.0	d a a s u
+dấy 1.0	d a a s y
+dầm 1.0	d a a f m
+dần 1.0	d a a f n
+dầu 1.0	d a a f u
+dẩn 1.0	d a a r n
+dẫm 1.0	d a a x m
+dẫn 1.0	d a a x n
+dẫu 1.0	d a a x u
+dẫy 1.0	d a a x y
+dậm 1.0	d a a j m
+dập 1.0	d a a j p
+dậy 1.0	d a a j y
+dắt 1.0	d a w s t
+dằn 1.0	d a w f n
+dằng 1.0	d a w f n g
+dẳng 1.0	d a w r n g
+dặc 1.0	d a w j c
+dặm 1.0	d a w j m
+dặn 1.0	d a w j n
+dặt 1.0	d a w j t
+dẹp 1.0	d e j p
+dẹt 1.0	d e j t
+dẻo 1.0	d e r o
+dế 1.0	d e e s
+dề 1.0	d e e f
+dềnh 1.0	d e e f n h
+dễ 1.0	d e e x
+dệt 1.0	d e e j t
+dị 1.0	d i j
+dịch 1.0	d i j c h
+dịp 1.0	d i j p
+dịu 1.0	d i j u
+dọa 1.0	d o j a
+dọc 1.0	d o j c
+dọn 1.0	d o j n
+dỏng 1.0	d o r n g
+dốc 1.0	d o o s c
+dối 1.0	d o o s i
+dốt 1.0	d o o s t
+dồi 1.0	d o o f i
+dồn 1.0	d o o f n
+dỗ 1.0	d o o x
+dỗi 1.0	d o o x i
+dội 1.0	d o o j i
+dột 1.0	d o o j t
+dớ 1.0	d o w s
+dời 1.0	d o w f i
+dờn 1.0	d o w f n
+dở 1.0	d o w r
+dỡ 1.0	d o w x
+dụ 1.0	d u j
+dục 1.0	d u j c
+dụng 1.0	d u j n g
+dứa 1.0	d u w s a
+dứt 1.0	d u w s t
+dừa 1.0	d u w f a
+dừng 1.0	d u w f n g
+dử 1.0	d u w r
+dửng 1.0	d u w r n g
+dữ 1.0	d u w x
+dự 1.0	d u w j
+dựa 1.0	d u w j a
+dực 1.0	d u w j c
+dựng 1.0	d u w j n g
+e 1.0	e
+em 1.0	e m
+eo 1.0	e o
+ga 1.0	g a
+gai 1.0	g a i
+gam 1.0	g a m
+gan 1.0	g a n
+gang 1.0	g a n g
+ganh 1.0	g a n h
+gao 1.0	g a o
+gay 1.0	g a y
+gen 1.0	g e n
+ghe 1.0	g h e
+ghen 1.0	g h e n
+ghi 1.0	g h i
+ghim 1.0	g h i m
+ghiền 1.0	g h i e e f n
+ghè 1.0	g h e f
+ghèn 1.0	g h e f n
+ghé 1.0	g h e s
+ghém 1.0	g h e s m
+ghép 1.0	g h e s p
+ghét 1.0	g h e s t
+ghê 1.0	g h e e
+ghì 1.0	g h i f
+ghìm 1.0	g h i f m
+ghẹ 1.0	g h e j
+ghẹo 1.0	g h e j o
+ghẻ 1.0	g h e r
+ghẽ 1.0	g h e x
+ghế 1.0	g h e e s
+ghề 1.0	g h e e f
+ghềnh 1.0	g h e e f n h
+ghểnh 1.0	g h e e r n h
+ghệt 1.0	g h e e j t
+gia 1.0	g i a
+giai 1.0	g i a i
+giam 1.0	g i a m
+gian 1.0	g i a n
+giang 1.0	g i a n g
+gianh 1.0	g i a n h
+giao 1.0	g i a o
+gieo 1.0	g i e o
+gion 1.0	g i o n
+giua 1.0	g i u a
+giun 1.0	g i u n
+già 1.0	g i a f
+giàn 1.0	g i a f n
+giành 1.0	g i a f n h
+giàu 1.0	g i a f u
+giày 1.0	g i a f y
+giá 1.0	g i a s
+giác 1.0	g i a s c
+giám 1.0	g i a s m
+gián 1.0	g i a s n
+giáng 1.0	g i a s n g
+giáo 1.0	g i a s o
+giáp 1.0	g i a s p
+giây 1.0	g i a a y
+giã 1.0	g i a x
+giãn 1.0	g i a x n
+giãy 1.0	g i a x y
+gièm 1.0	g i e f m
+gié 1.0	g i e s
+giêng 1.0	g i e e n g
+giò 1.0	g i o f
+giòn 1.0	g i o f n
+gió 1.0	g i o s
+gión 1.0	g i o s n
+gióng 1.0	g i o s n g
+giô 1.0	g i o o
+giông 1.0	g i o o n g
+giùm 1.0	g i u f m
+giú 1.0	g i u s
+giúp 1.0	g i u s p
+giăm 1.0	g i a w m
+giăng 1.0	g i a w n g
+giũ 1.0	g i u x
+giũa 1.0	g i u x a
+giơ 1.0	g i o w
+giương 1.0	g i u w o w n g
+giướng 1.0	g i u w o w s n g
+giường 1.0	g i u w o w f n g
+giạt 1.0	g i a j t
+giả 1.0	g i a r
+giải 1.0	g i a r i
+giảm 1.0	g i a r m
+giản 1.0	g i a r n
+giảng 1.0	g i a r n g
+giảnh 1.0	g i a r n h
+giảo 1.0	g i a r o
+giấc 1.0	g i a a s c
+giấm 1.0	g i a a s m
+giấp 1.0	g i a a s p
+giấu 1.0	g i a a s u
+giấy 1.0	g i a a s y
+giầm 1.0	g i a a f m
+giần 1.0	g i a a f n
+giầy 1.0	g i a a f y
+giẫm 1.0	g i a a x m
+giậm 1.0	g i a a j m
+giận 1.0	g i a a j n
+giập 1.0	g i a a j p
+giật 1.0	g i a a j t
+giắt 1.0	g i a w s t
+giằm 1.0	g i a w f m
+giằn 1.0	g i a w f n
+giằng 1.0	g i a w f n g
+giặc 1.0	g i a w j c
+giặm 1.0	g i a w j m
+giặn 1.0	g i a w j n
+giặt 1.0	g i a w j t
+giẹo 1.0	g i e j o
+giếm 1.0	g i e e s m
+giếng 1.0	g i e e s n g
+giết 1.0	g i e e s t
+giềng 1.0	g i e e f n g
+giễu 1.0	g i e e x u
+giọ 1.0	g i o j
+giọng 1.0	g i o j n g
+giọt 1.0	g i o j t
+giỏ 1.0	g i o r
+giỏi 1.0	g i o r i
+giỏn 1.0	g i o r n
+giống 1.0	g i o o s n g
+giồng 1.0	g i o o f n g
+giỗ 1.0	g i o o x
+giới 1.0	g i o w s i
+giờ 1.0	g i o w f
+giời 1.0	g i o w f i
+giở 1.0	g i o w r
+giỡn 1.0	g i o w x n
+giụa 1.0	g i u j a
+giục 1.0	g i u j c
+giủi 1.0	g i u r i
+giữ 1.0	g i u w x
+giữa 1.0	g i u w x a
+giựt 1.0	g i u w j t
+go 1.0	g o
+gom 1.0	g o m
+gu 1.0	g u
+guốc 1.0	g u o o s c
+guộc 1.0	g u o o j c
+gà 1.0	g a f
+gài 1.0	g a f i
+gàn 1.0	g a f n
+gàng 1.0	g a f n g
+gành 1.0	g a f n h
+gào 1.0	g a f o
+gàu 1.0	g a f u
+gác 1.0	g a s c
+gái 1.0	g a s i
+gán 1.0	g a s n
+gánh 1.0	g a s n h
+gáo 1.0	g a s o
+gáp 1.0	g a s p
+gáy 1.0	g a s y
+gân 1.0	g a a n
+gây 1.0	g a a y
+gã 1.0	g a x
+gãi 1.0	g a x i
+gãy 1.0	g a x y
+gì 1.0	g i f
+gìn 1.0	g i f n
+gí 1.0	g i s
+gò 1.0	g o f
+gòn 1.0	g o f n
+góa 1.0	g o s a
+góc 1.0	g o s c
+gói 1.0	g o s i
+góp 1.0	g o s p
+gót 1.0	g o s t
+gô 1.0	g o o
+gôn 1.0	g o o n
+gông 1.0	g o o n g
+gõ 1.0	g o x
+gù 1.0	g u f
+gú 1.0	g u s
+gút 1.0	g u s t
+găm 1.0	g a w m
+gũi 1.0	g u x i
+gươm 1.0	g u w o w m
+gương 1.0	g u w o w n g
+gườm 1.0	g u w o w f m
+gường 1.0	g u w o w f n g
+gượng 1.0	g u w o w j n g
+gạ 1.0	g a j
+gạch 1.0	g a j c h
+gạn 1.0	g a j n
+gạo 1.0	g a j o
+gạt 1.0	g a j t
+gả 1.0	g a r
+gảy 1.0	g a r y
+gấp 1.0	g a a s p
+gấu 1.0	g a a s u
+gấy 1.0	g a a s y
+gầm 1.0	g a a f m
+gần 1.0	g a a f n
+gầu 1.0	g a a f u
+gầy 1.0	g a a f y
+gẫm 1.0	g a a x m
+gẫu 1.0	g a a x u
+gập 1.0	g a a j p
+gật 1.0	g a a j t
+gậy 1.0	g a a j y
+gắm 1.0	g a w s m
+gắn 1.0	g a w s n
+gắng 1.0	g a w s n g
+gắp 1.0	g a w s p
+gắt 1.0	g a w s t
+gằn 1.0	g a w f n
+gặm 1.0	g a w j m
+gặn 1.0	g a w j n
+gặng 1.0	g a w j n g
+gặp 1.0	g a w j p
+gặt 1.0	g a w j t
+gỉ 1.0	g i r
+gọi 1.0	g o j i
+gọn 1.0	g o j n
+gọt 1.0	g o j t
+gỏi 1.0	g o r i
+gỏng 1.0	g o r n g
+gốc 1.0	g o o s c
+gối 1.0	g o o s i
+gốm 1.0	g o o s m
+gồ 1.0	g o o f
+gồm 1.0	g o o f m
+gồng 1.0	g o o f n g
+gổ 1.0	g o o r
+gỗ 1.0	g o o x
+gội 1.0	g o o j i
+gộp 1.0	g o o j p
+gớm 1.0	g o w s m
+gờm 1.0	g o w f m
+gởi 1.0	g o w r i
+gỡ 1.0	g o w x
+gợi 1.0	g o w j i
+gợn 1.0	g o w j n
+gợt 1.0	g o w j t
+gụ 1.0	g u j
+gục 1.0	g u j c
+gửi 1.0	g u w r i
+h 1.0	h
+ha 1.0	h a
+hai 1.0	h a i
+ham 1.0	h a m
+han 1.0	h a n
+hang 1.0	h a n g
+hao 1.0	h a o
+hay 1.0	h a y
+he 1.0	h e
+hem 1.0	h e m
+hen 1.0	h e n
+heo 1.0	h e o
+hi 1.0	h i
+hia 1.0	h i a
+hiu 1.0	h i u
+hiên 1.0	h i e e n
+hiêng 1.0	h i e e n g
+hiếm 1.0	h i e e s m
+hiến 1.0	h i e e s n
+hiếp 1.0	h i e e s p
+hiếu 1.0	h i e e s u
+hiền 1.0	h i e e f n
+hiểm 1.0	h i e e r m
+hiển 1.0	h i e e r n
+hiểu 1.0	h i e e r u
+hiện 1.0	h i e e j n
+hiệp 1.0	h i e e j p
+hiệu 1.0	h i e e j u
+ho 1.0	h o
+hoa 1.0	h o a
+hoan 1.0	h o a n
+hoang 1.0	h o a n g
+hoay 1.0	h o a y
+hoi 1.0	h o i
+hom 1.0	h o m
+hoà 1.0	h o a f
+hoài 1.0	h o a f i
+hoàn 1.0	h o a f n
+hoàng 1.0	h o a f n g
+hoành 1.0	h o a f n h
+hoá 1.0	h o a s
+hoác 1.0	h o a s c
+hoãn 1.0	h o a x n
+hoét 1.0	h o e s t
+hoạ 1.0	h o a j
+hoạch 1.0	h o a j c h
+hoại 1.0	h o a j i
+hoạn 1.0	h o a j n
+hoạnh 1.0	h o a j n h
+hoạt 1.0	h o a j t
+hoải 1.0	h o a r i
+hoảng 1.0	h o a r n g
+hoắc 1.0	h o a w s c
+hoắt 1.0	h o a w s t
+hoẳn 1.0	h o a w r n
+hoặc 1.0	h o a w j c
+hu 1.0	h u
+hun 1.0	h u n
+hung 1.0	h u n g
+huy 1.0	h u y
+huynh 1.0	h u y n h
+huyên 1.0	h u y e e n
+huyết 1.0	h u y e e s t
+huyền 1.0	h u y e e f n
+huyễn 1.0	h u y e e x n
+huyện 1.0	h u y e e j n
+huyệt 1.0	h u y e e j t
+huân 1.0	h u a a n
+huê 1.0	h u e e
+huýt 1.0	h u y s t
+huơ 1.0	h u o w
+huấn 1.0	h u a a s n
+huế 1.0	h u e e s
+huếch 1.0	h u e e s c h
+huề 1.0	h u e e f
+huệ 1.0	h u e e j
+huống 1.0	h u o o s n g
+huỳnh 1.0	h u y f n h
+huỷ 1.0	h u y r
+hy 1.0	h y
+hà 1.0	h a f
+hài 1.0	h a f i
+hàm 1.0	h a f m
+hàn 1.0	h a f n
+hàng 1.0	h a f n g
+hành 1.0	h a f n h
+hào 1.0	h a f o
+hàu 1.0	h a f u
+há 1.0	h a s
+hái 1.0	h a s i
+hám 1.0	h a s m
+hán 1.0	h a s n
+háng 1.0	h a s n g
+háo 1.0	h a s o
+hát 1.0	h a s t
+hâm 1.0	h a a m
+hân 1.0	h a a n
+hãi 1.0	h a x i
+hãn 1.0	h a x n
+hãng 1.0	h a x n g
+hãnh 1.0	h a x n h
+hão 1.0	h a x o
+hãy 1.0	h a x y
+hè 1.0	h e f
+hèn 1.0	h e f n
+hé 1.0	h e s
+héo 1.0	h e s o
+hét 1.0	h e s t
+hên 1.0	h e e n
+hênh 1.0	h e e n h
+hì 1.0	h i f
+hình 1.0	h i f n h
+hí 1.0	h i s
+hít 1.0	h i s t
+hò 1.0	h o f
+hòa 1.0	h o f a
+hòn 1.0	h o f n
+hóa 1.0	h o s a
+hóc 1.0	h o s c
+hói 1.0	h o s i
+hóm 1.0	h o s m
+hóng 1.0	h o s n g
+hót 1.0	h o s t
+hô 1.0	h o o
+hôi 1.0	h o o i
+hôm 1.0	h o o m
+hôn 1.0	h o o n
+hông 1.0	h o o n g
+hùa 1.0	h u f a
+hùn 1.0	h u f n
+hùng 1.0	h u f n g
+hú 1.0	h u s
+húc 1.0	h u s c
+húi 1.0	h u s i
+húng 1.0	h u s n g
+húp 1.0	h u s p
+hút 1.0	h u s t
+húy 1.0	h u s y
+hăm 1.0	h a w m
+hăng 1.0	h a w n g
+hĩnh 1.0	h i x n h
+hũ 1.0	h u x
+hũm 1.0	h u x m
+hơi 1.0	h o w i
+hơn 1.0	h o w n
+hư 1.0	h u w
+hưng 1.0	h u w n g
+hưu 1.0	h u w u
+hương 1.0	h u w o w n g
+hươu 1.0	h u w o w u
+hước 1.0	h u w o w s c
+hướm 1.0	h u w o w s m
+hướng 1.0	h u w o w s n g
+hường 1.0	h u w o w f n g
+hưởng 1.0	h u w o w r n g
+hượm 1.0	h u w o w j m
+hạ 1.0	h a j
+hạc 1.0	h a j c
+hạch 1.0	h a j c h
+hại 1.0	h a j i
+hạm 1.0	h a j m
+hạn 1.0	h a j n
+hạng 1.0	h a j n g
+hạnh 1.0	h a j n h
+hạo 1.0	h a j o
+hạp 1.0	h a j p
+hạt 1.0	h a j t
+hả 1.0	h a r
+hải 1.0	h a r i
+hảm 1.0	h a r m
+hảo 1.0	h a r o
+hấng 1.0	h a a s n g
+hấp 1.0	h a a s p
+hất 1.0	h a a s t
+hấu 1.0	h a a s u
+hầm 1.0	h a a f m
+hầu 1.0	h a a f u
+hầy 1.0	h a a f y
+hẩm 1.0	h a a r m
+hẫng 1.0	h a a x n g
+hận 1.0	h a a j n
+hập 1.0	h a a j p
+hậu 1.0	h a a j u
+hắc 1.0	h a w s c
+hắn 1.0	h a w s n
+hắng 1.0	h a w s n g
+hắt 1.0	h a w s t
+hằn 1.0	h a w f n
+hằng 1.0	h a w f n g
+hẳn 1.0	h a w r n
+hẵng 1.0	h a w x n g
+hặc 1.0	h a w j c
+hẹ 1.0	h e j
+hẹn 1.0	h e j n
+hẹp 1.0	h e j p
+hẻm 1.0	h e r m
+hến 1.0	h e e s n
+hết 1.0	h e e s t
+hề 1.0	h e e f
+hể 1.0	h e e r
+hển 1.0	h e e r n
+hểnh 1.0	h e e r n h
+hễ 1.0	h e e x
+hệ 1.0	h e e j
+hệt 1.0	h e e j t
+hỉ 1.0	h i r
+hỉnh 1.0	h i r n h
+họ 1.0	h o j
+họa 1.0	h o j a
+học 1.0	h o j c
+họe 1.0	h o j e
+họng 1.0	h o j n g
+họp 1.0	h o j p
+hỏa 1.0	h o r a
+hỏi 1.0	h o r i
+hỏm 1.0	h o r m
+hỏng 1.0	h o r n g
+hố 1.0	h o o s
+hốc 1.0	h o o s c
+hối 1.0	h o o s i
+hốt 1.0	h o o s t
+hồ 1.0	h o o f
+hồi 1.0	h o o f i
+hồn 1.0	h o o f n
+hồng 1.0	h o o f n g
+hổ 1.0	h o o r
+hổi 1.0	h o o r i
+hổm 1.0	h o o r m
+hổn 1.0	h o o r n
+hổng 1.0	h o o r n g
+hỗ 1.0	h o o x
+hỗn 1.0	h o o x n
+hộ 1.0	h o o j
+hộc 1.0	h o o j c
+hội 1.0	h o o j i
+hộn 1.0	h o o j n
+hộp 1.0	h o o j p
+hột 1.0	h o o j t
+hớ 1.0	h o w s
+hớn 1.0	h o w s n
+hớp 1.0	h o w s p
+hớt 1.0	h o w s t
+hờn 1.0	h o w f n
+hở 1.0	h o w r
+hởi 1.0	h o w r i
+hợi 1.0	h o w j i
+hợm 1.0	h o w j m
+hợp 1.0	h o w j p
+hụ 1.0	h u j
+hục 1.0	h u j c
+hụi 1.0	h u j i
+hụt 1.0	h u j t
+hủ 1.0	h u r
+hủy 1.0	h u r y
+hứa 1.0	h u w s a
+hức 1.0	h u w s c
+hứng 1.0	h u w s n g
+hừ 1.0	h u w f
+hừng 1.0	h u w f n g
+hữu 1.0	h u w x u
+hự 1.0	h u w j
+hực 1.0	h u w j c
+hựu 1.0	h u w j u
+i 1.0	i
+im 1.0	i m
+in 1.0	i n
+inh 1.0	i n h
+k 1.0	k
+ka 1.0	k a
+kem 1.0	k e m
+ken 1.0	k e n
+keo 1.0	k e o
+kha 1.0	k h a
+khai 1.0	k h a i
+khan 1.0	k h a n
+khang 1.0	k h a n g
+khanh 1.0	k h a n h
+khao 1.0	k h a o
+khe 1.0	k h e
+khen 1.0	k h e n
+kheo 1.0	k h e o
+khi 1.0	k h i
+khinh 1.0	k h i n h
+khiêm 1.0	k h i e e m
+khiên 1.0	k h i e e n
+khiêng 1.0	k h i e e n g
+khiêu 1.0	k h i e e u
+khiếm 1.0	k h i e e s m
+khiến 1.0	k h i e e s n
+khiếp 1.0	k h i e e s p
+khiết 1.0	k h i e e s t
+khiếu 1.0	k h i e e s u
+khiển 1.0	k h i e e r n
+kho 1.0	k h o
+khoa 1.0	k h o a
+khoai 1.0	k h o a i
+khoan 1.0	k h o a n
+khoang 1.0	k h o a n g
+khoanh 1.0	k h o a n h
+khoe 1.0	k h o e
+khom 1.0	k h o m
+khoá 1.0	k h o a s
+khoác 1.0	k h o a s c
+khoái 1.0	k h o a s i
+khoán 1.0	k h o a s n
+khoát 1.0	k h o a s t
+khoèo 1.0	k h o e f o
+khoét 1.0	k h o e s t
+khoăn 1.0	k h o a w n
+khoải 1.0	k h o a r i
+khoản 1.0	k h o a r n
+khoảng 1.0	k h o a r n g
+khoảnh 1.0	k h o a r n h
+khoắt 1.0	k h o a w s t
+khoẻ 1.0	k h o e r
+khu 1.0	k h u
+khua 1.0	k h u a
+khum 1.0	k h u m
+khung 1.0	k h u n g
+khuy 1.0	k h u y
+khuya 1.0	k h u y a
+khuynh 1.0	k h u y n h
+khuyên 1.0	k h u y e e n
+khuyến 1.0	k h u y e e s n
+khuyết 1.0	k h u y e e s t
+khuân 1.0	k h u a a n
+khuâng 1.0	k h u a a n g
+khuây 1.0	k h u a a y
+khuôn 1.0	k h u o o n
+khuất 1.0	k h u a a s t
+khuấy 1.0	k h u a a s y
+khuẩn 1.0	k h u a a r n
+khuỳnh 1.0	k h u y f n h
+khuỷu 1.0	k h u y r u
+khà 1.0	k h a f
+khàn 1.0	k h a f n
+khàng 1.0	k h a f n g
+khá 1.0	k h a s
+khác 1.0	k h a s c
+khách 1.0	k h a s c h
+khái 1.0	k h a s i
+khám 1.0	k h a s m
+khán 1.0	k h a s n
+kháng 1.0	k h a s n g
+khánh 1.0	k h a s n h
+kháo 1.0	k h a s o
+kháp 1.0	k h a s p
+khát 1.0	k h a s t
+khâm 1.0	k h a a m
+khâu 1.0	k h a a u
+khè 1.0	k h e f
+khèn 1.0	k h e f n
+khèo 1.0	k h e f o
+khén 1.0	k h e s n
+khéo 1.0	k h e s o
+khép 1.0	k h e s p
+khét 1.0	k h e s t
+khê 1.0	k h e e
+khênh 1.0	k h e e n h
+khí 1.0	k h i s
+khía 1.0	k h i s a
+khích 1.0	k h i s c h
+khít 1.0	k h i s t
+khíu 1.0	k h i s u
+khò 1.0	k h o f
+khó 1.0	k h o s
+khóa 1.0	k h o s a
+khóc 1.0	k h o s c
+khóe 1.0	k h o s e
+khói 1.0	k h o s i
+khô 1.0	k h o o
+khôi 1.0	k h o o i
+khôn 1.0	k h o o n
+không 1.0	k h o o n g
+khù 1.0	k h u f
+khú 1.0	k h u s
+khúc 1.0	k h u s c
+khúm 1.0	k h u s m
+khăm 1.0	k h a w m
+khăn 1.0	k h a w n
+khơ 1.0	k h o w
+khơi 1.0	k h o w i
+khư 1.0	k h u w
+khươm 1.0	k h u w o w m
+khươn 1.0	k h u w o w n
+khương 1.0	k h u w o w n g
+khước 1.0	k h u w o w s c
+khạc 1.0	k h a j c
+khạng 1.0	k h a j n g
+khả 1.0	k h a r
+khải 1.0	k h a r i
+khảo 1.0	k h a r o
+khảy 1.0	k h a r y
+khấn 1.0	k h a a s n
+khấp 1.0	k h a a s p
+khất 1.0	k h a a s t
+khấu 1.0	k h a a s u
+khẩn 1.0	k h a a r n
+khẩu 1.0	k h a a r u
+khật 1.0	k h a a j t
+khắc 1.0	k h a w s c
+khắm 1.0	k h a w s m
+khắng 1.0	k h a w s n g
+khắp 1.0	k h a w s p
+khắt 1.0	k h a w s t
+khẳm 1.0	k h a w r m
+khẳng 1.0	k h a w r n g
+khẻ 1.0	k h e r
+khẽ 1.0	k h e x
+khế 1.0	k h e e s
+khề 1.0	k h e e f
+khều 1.0	k h e e f u
+khệ 1.0	k h e e j
+khệnh 1.0	k h e e j n h
+khỉ 1.0	k h i r
+khịt 1.0	k h i j t
+khỏa 1.0	k h o r a
+khỏe 1.0	k h o r e
+khỏi 1.0	k h o r i
+khố 1.0	k h o o s
+khốc 1.0	k h o o s c
+khối 1.0	k h o o s i
+khốn 1.0	k h o o s n
+khống 1.0	k h o o s n g
+khổ 1.0	k h o o r
+khổng 1.0	k h o o r n g
+khớ 1.0	k h o w s
+khớp 1.0	k h o w s p
+khờ 1.0	k h o w f
+khởi 1.0	k h o w r i
+khụ 1.0	k h u j
+khủng 1.0	k h u r n g
+khứ 1.0	k h u w s
+khứu 1.0	k h u w s u
+khừ 1.0	k h u w f
+khựng 1.0	k h u w j n g
+ki 1.0	k i
+kia 1.0	k i a
+kim 1.0	k i m
+kinh 1.0	k i n h
+kiêm 1.0	k i e e m
+kiên 1.0	k i e e n
+kiêng 1.0	k i e e n g
+kiêu 1.0	k i e e u
+kiếm 1.0	k i e e s m
+kiến 1.0	k i e e s n
+kiếp 1.0	k i e e s p
+kiềm 1.0	k i e e f m
+kiền 1.0	k i e e f n
+kiềng 1.0	k i e e f n g
+kiều 1.0	k i e e f u
+kiểm 1.0	k i e e r m
+kiểng 1.0	k i e e r n g
+kiểu 1.0	k i e e r u
+kiệm 1.0	k i e e j m
+kiện 1.0	k i e e j n
+kiệt 1.0	k i e e j t
+kiệu 1.0	k i e e j u
+ko 1.0	k o
+ky 1.0	k y
+kè 1.0	k e f
+kèm 1.0	k e f m
+kèn 1.0	k e f n
+kèo 1.0	k e f o
+kém 1.0	k e s m
+kén 1.0	k e s n
+kéo 1.0	k e s o
+kép 1.0	k e s p
+két 1.0	k e s t
+kê 1.0	k e e
+kênh 1.0	k e e n h
+kêu 1.0	k e e u
+kì 1.0	k i f
+kìa 1.0	k i f a
+kìm 1.0	k i f m
+kình 1.0	k i f n h
+kí 1.0	k i s
+kích 1.0	k i s c h
+kín 1.0	k i s n
+kính 1.0	k i s n h
+kíp 1.0	k i s p
+kít 1.0	k i s t
+ký 1.0	k y s
+kĩ 1.0	k i x
+kẹn 1.0	k e j n
+kẹo 1.0	k e j o
+kẹp 1.0	k e j p
+kẹt 1.0	k e j t
+kẻ 1.0	k e r
+kẻng 1.0	k e r n g
+kẻo 1.0	k e r o
+kẽ 1.0	k e x
+kẽm 1.0	k e x m
+kẽo 1.0	k e x o
+kế 1.0	k e e s
+kếch 1.0	k e e s c h
+kết 1.0	k e e s t
+kề 1.0	k e e f
+kền 1.0	k e e f n
+kềnh 1.0	k e e f n h
+kể 1.0	k e e r
+kệ 1.0	k e e j
+kệnh 1.0	k e e j n h
+kỉ 1.0	k i r
+kỉnh 1.0	k i r n h
+kị 1.0	k i j
+kịch 1.0	k i j c h
+kịp 1.0	k i j p
+kịt 1.0	k i j t
+kỳ 1.0	k y f
+kỵ 1.0	k y j
+kỷ 1.0	k y r
+kỹ 1.0	k y x
+la 1.0	l a
+lai 1.0	l a i
+lam 1.0	l a m
+lan 1.0	l a n
+lang 1.0	l a n g
+lanh 1.0	l a n h
+lao 1.0	l a o
+lau 1.0	l a u
+lay 1.0	l a y
+le 1.0	l e
+lem 1.0	l e m
+len 1.0	l e n
+leo 1.0	l e o
+li 1.0	l i
+lia 1.0	l i a
+lim 1.0	l i m
+lin 1.0	l i n
+linh 1.0	l i n h
+liu 1.0	l i u
+liêm 1.0	l i e e m
+liên 1.0	l i e e n
+liêng 1.0	l i e e n g
+liêu 1.0	l i e e u
+liếc 1.0	l i e e s c
+liếm 1.0	l i e e s m
+liến 1.0	l i e e s n
+liếng 1.0	l i e e s n g
+liềm 1.0	l i e e f m
+liền 1.0	l i e e f n
+liều 1.0	l i e e f u
+liễu 1.0	l i e e x u
+liệng 1.0	l i e e j n g
+liệt 1.0	l i e e j t
+liệu 1.0	l i e e j u
+lo 1.0	l o
+loa 1.0	l o a
+loan 1.0	l o a n
+loanh 1.0	l o a n h
+loay 1.0	l o a y
+loi 1.0	l o i
+lom 1.0	l o m
+long 1.0	l o n g
+loài 1.0	l o a f i
+loàn 1.0	l o a f n
+loàng 1.0	l o a f n g
+loáng 1.0	l o a s n g
+loãng 1.0	l o a x n g
+loé 1.0	l o e s
+loét 1.0	l o e s t
+loại 1.0	l o a j i
+loạn 1.0	l o a j n
+loạng 1.0	l o a j n g
+loạt 1.0	l o a j t
+loảng 1.0	l o a r n g
+loắt 1.0	l o a w s t
+loằng 1.0	l o a w f n g
+lu 1.0	l u
+lua 1.0	l u a
+lui 1.0	l u i
+lung 1.0	l u n g
+luyến 1.0	l u y e e s n
+luyện 1.0	l u y e e j n
+luân 1.0	l u a a n
+luôn 1.0	l u o o n
+luẩn 1.0	l u a a r n
+luận 1.0	l u a a j n
+luật 1.0	l u a a j t
+luống 1.0	l u o o s n g
+luồn 1.0	l u o o f n
+luồng 1.0	l u o o f n g
+luỗng 1.0	l u o o x n g
+luộc 1.0	l u o o j c
+ly 1.0	l y
+là 1.0	l a f
+lài 1.0	l a f i
+làm 1.0	l a f m
+làn 1.0	l a f n
+làng 1.0	l a f n g
+lành 1.0	l a f n h
+lào 1.0	l a f o
+làu 1.0	l a f u
+lá 1.0	l a s
+lác 1.0	l a s c
+lách 1.0	l a s c h
+lái 1.0	l a s i
+láng 1.0	l a s n g
+lánh 1.0	l a s n h
+láo 1.0	l a s o
+láp 1.0	l a s p
+lát 1.0	l a s t
+láu 1.0	l a s u
+láy 1.0	l a s y
+lâm 1.0	l a a m
+lân 1.0	l a a n
+lâng 1.0	l a a n g
+lâu 1.0	l a a u
+lây 1.0	l a a y
+lã 1.0	l a x
+lãi 1.0	l a x i
+lãm 1.0	l a x m
+lãn 1.0	l a x n
+lãng 1.0	l a x n g
+lãnh 1.0	l a x n h
+lão 1.0	l a x o
+lè 1.0	l e f
+lèo 1.0	l e f o
+lé 1.0	l e s
+léc 1.0	l e s c
+lém 1.0	l e s m
+lén 1.0	l e s n
+léng 1.0	l e s n g
+léo 1.0	l e s o
+lép 1.0	l e s p
+lét 1.0	l e s t
+lê 1.0	l e e
+lên 1.0	l e e n
+lênh 1.0	l e e n h
+lêu 1.0	l e e u
+lì 1.0	l i f
+lìa 1.0	l i f a
+lìm 1.0	l i f m
+lình 1.0	l i f n h
+lí 1.0	l i s
+lính 1.0	l i s n h
+líp 1.0	l i s p
+lít 1.0	l i s t
+líu 1.0	l i s u
+lò 1.0	l o f
+lòa 1.0	l o f a
+lòi 1.0	l o f i
+lòm 1.0	l o f m
+lòng 1.0	l o f n g
+lóc 1.0	l o s c
+lóe 1.0	l o s e
+lóm 1.0	l o s m
+lóng 1.0	l o s n g
+lót 1.0	l o s t
+lô 1.0	l o o
+lôi 1.0	l o o i
+lôm 1.0	l o o m
+lông 1.0	l o o n g
+lõi 1.0	l o x i
+lõm 1.0	l o x m
+lõng 1.0	l o x n g
+lù 1.0	l u f
+lùa 1.0	l u f a
+lùi 1.0	l u f i
+lùm 1.0	l u f m
+lùng 1.0	l u f n g
+lú 1.0	l u s
+lúa 1.0	l u s a
+lúc 1.0	l u s c
+lúi 1.0	l u s i
+lúm 1.0	l u s m
+lún 1.0	l u s n
+lúng 1.0	l u s n g
+lý 1.0	l y s
+lăm 1.0	l a w m
+lăn 1.0	l a w n
+lăng 1.0	l a w n g
+lĩnh 1.0	l i x n h
+lũ 1.0	l u x
+lũi 1.0	l u x i
+lũm 1.0	l u x m
+lũn 1.0	l u x n
+lũng 1.0	l u x n g
+lũy 1.0	l u x y
+lơ 1.0	l o w
+lơi 1.0	l o w i
+lơn 1.0	l o w n
+lư 1.0	l u w
+lưng 1.0	l u w n g
+lưu 1.0	l u w u
+lươm 1.0	l u w o w m
+lươn 1.0	l u w o w n
+lương 1.0	l u w o w n g
+lưới 1.0	l u w o w s i
+lướng 1.0	l u w o w s n g
+lướt 1.0	l u w o w s t
+lười 1.0	l u w o w f i
+lường 1.0	l u w o w f n g
+lưỡi 1.0	l u w o w x i
+lưỡng 1.0	l u w o w x n g
+lược 1.0	l u w o w j c
+lượm 1.0	l u w o w j m
+lượn 1.0	l u w o w j n
+lượng 1.0	l u w o w j n g
+lượt 1.0	l u w o w j t
+lạ 1.0	l a j
+lạc 1.0	l a j c
+lạch 1.0	l a j c h
+lại 1.0	l a j i
+lạm 1.0	l a j m
+lạn 1.0	l a j n
+lạng 1.0	l a j n g
+lạnh 1.0	l a j n h
+lạo 1.0	l a j o
+lạp 1.0	l a j p
+lạt 1.0	l a j t
+lạy 1.0	l a j y
+lả 1.0	l a r
+lải 1.0	l a r i
+lảm 1.0	l a r m
+lảng 1.0	l a r n g
+lảnh 1.0	l a r n h
+lảy 1.0	l a r y
+lấm 1.0	l a a s m
+lấn 1.0	l a a s n
+lấp 1.0	l a a s p
+lất 1.0	l a a s t
+lấy 1.0	l a a s y
+lầm 1.0	l a a f m
+lần 1.0	l a a f n
+lầu 1.0	l a a f u
+lầy 1.0	l a a f y
+lẩm 1.0	l a a r m
+lẩn 1.0	l a a r n
+lẩu 1.0	l a a r u
+lẫn 1.0	l a a x n
+lẫy 1.0	l a a x y
+lận 1.0	l a a j n
+lập 1.0	l a a j p
+lật 1.0	l a a j t
+lậu 1.0	l a a j u
+lắc 1.0	l a w s c
+lắm 1.0	l a w s m
+lắng 1.0	l a w s n g
+lắp 1.0	l a w s p
+lắt 1.0	l a w s t
+lằn 1.0	l a w f n
+lằng 1.0	l a w f n g
+lẳm 1.0	l a w r m
+lẳn 1.0	l a w r n
+lẳng 1.0	l a w r n g
+lặm 1.0	l a w j m
+lặn 1.0	l a w j n
+lặng 1.0	l a w j n g
+lặp 1.0	l a w j p
+lặt 1.0	l a w j t
+lẹ 1.0	l e j
+lẹm 1.0	l e j m
+lẻ 1.0	l e r
+lẻn 1.0	l e r n
+lẻng 1.0	l e r n g
+lẽ 1.0	l e x
+lẽn 1.0	l e x n
+lẽo 1.0	l e x o
+lết 1.0	l e e s t
+lếu 1.0	l e e s u
+lề 1.0	l e e f
+lềnh 1.0	l e e f n h
+lều 1.0	l e e f u
+lể 1.0	l e e r
+lễ 1.0	l e e x
+lệ 1.0	l e e j
+lệch 1.0	l e e j c h
+lệnh 1.0	l e e j n h
+lỉm 1.0	l i r m
+lỉnh 1.0	l i r n h
+lịa 1.0	l i j a
+lịch 1.0	l i j c h
+lịm 1.0	l i j m
+lịnh 1.0	l i j n h
+lọ 1.0	l o j
+lọc 1.0	l o j c
+lọng 1.0	l o j n g
+lọt 1.0	l o j t
+lỏi 1.0	l o r i
+lỏn 1.0	l o r n
+lỏng 1.0	l o r n g
+lố 1.0	l o o s
+lốc 1.0	l o o s c
+lối 1.0	l o o s i
+lốm 1.0	l o o s m
+lốp 1.0	l o o s p
+lốt 1.0	l o o s t
+lồ 1.0	l o o f
+lồi 1.0	l o o f i
+lồm 1.0	l o o f m
+lồng 1.0	l o o f n g
+lổm 1.0	l o o r m
+lổng 1.0	l o o r n g
+lỗ 1.0	l o o x
+lỗi 1.0	l o o x i
+lộ 1.0	l o o j
+lộc 1.0	l o o j c
+lội 1.0	l o o j i
+lộn 1.0	l o o j n
+lộng 1.0	l o o j n g
+lộp 1.0	l o o j p
+lột 1.0	l o o j t
+lớn 1.0	l o w s n
+lớp 1.0	l o w s p
+lớt 1.0	l o w s t
+lờ 1.0	l o w f
+lời 1.0	l o w f i
+lờm 1.0	l o w f m
+lờn 1.0	l o w f n
+lở 1.0	l o w r
+lởi 1.0	l o w r i
+lởn 1.0	l o w r n
+lỡ 1.0	l o w x
+lỡm 1.0	l o w x m
+lợi 1.0	l o w j i
+lợm 1.0	l o w j m
+lợn 1.0	l o w j n
+lợp 1.0	l o w j p
+lụ 1.0	l u j
+lụa 1.0	l u j a
+lục 1.0	l u j c
+lụng 1.0	l u j n g
+lụp 1.0	l u j p
+lụt 1.0	l u j t
+lủ 1.0	l u r
+lủi 1.0	l u r i
+lủm 1.0	l u r m
+lủng 1.0	l u r n g
+lứa 1.0	l u w s a
+lức 1.0	l u w s c
+lứt 1.0	l u w s t
+lừ 1.0	l u w f
+lừa 1.0	l u w f a
+lừng 1.0	l u w f n g
+lử 1.0	l u w r
+lửa 1.0	l u w r a
+lửng 1.0	l u w r n g
+lữ 1.0	l u w x
+lữa 1.0	l u w x a
+lững 1.0	l u w x n g
+lựa 1.0	l u w j a
+lực 1.0	l u w j c
+lựu 1.0	l u w j u
+lỵ 1.0	l y j
+m 1.0	m
+ma 1.0	m a
+mai 1.0	m a i
+man 1.0	m a n
+mang 1.0	m a n g
+manh 1.0	m a n h
+mau 1.0	m a u
+may 1.0	m a y
+me 1.0	m e
+men 1.0	m e n
+mi 1.0	m i
+min 1.0	m i n
+minh 1.0	m i n h
+miên 1.0	m i e e n
+miêu 1.0	m i e e u
+miếng 1.0	m i e e s n g
+miết 1.0	m i e e s t
+miếu 1.0	m i e e s u
+miền 1.0	m i e e f n
+miều 1.0	m i e e f u
+miễn 1.0	m i e e x n
+miện 1.0	m i e e j n
+miệng 1.0	m i e e j n g
+miệt 1.0	m i e e j t
+mo 1.0	m o
+mon 1.0	m o n
+mong 1.0	m o n g
+mu 1.0	m u
+mua 1.0	m u a
+mun 1.0	m u n
+muôn 1.0	m u o o n
+muông 1.0	m u o o n g
+muối 1.0	m u o o s i
+muốn 1.0	m u o o s n
+muống 1.0	m u o o s n g
+muốt 1.0	m u o o s t
+muồi 1.0	m u o o f i
+muỗi 1.0	m u o o x i
+muỗm 1.0	m u o o x m
+muỗng 1.0	m u o o x n g
+muộn 1.0	m u o o j n
+my 1.0	m y
+mà 1.0	m a f
+mài 1.0	m a f i
+màn 1.0	m a f n
+màng 1.0	m a f n g
+mành 1.0	m a f n h
+mào 1.0	m a f o
+màu 1.0	m a f u
+mày 1.0	m a f y
+má 1.0	m a s
+mác 1.0	m a s c
+mách 1.0	m a s c h
+mái 1.0	m a s i
+mán 1.0	m a s n
+máng 1.0	m a s n g
+mánh 1.0	m a s n h
+máo 1.0	m a s o
+mát 1.0	m a s t
+máu 1.0	m a s u
+máy 1.0	m a s y
+mâm 1.0	m a a m
+mân 1.0	m a a n
+mâu 1.0	m a a u
+mây 1.0	m a a y
+mã 1.0	m a x
+mãi 1.0	m a x i
+mãn 1.0	m a x n
+mãng 1.0	m a x n g
+mãnh 1.0	m a x n h
+mè 1.0	m e f
+mèn 1.0	m e f n
+mèo 1.0	m e f o
+mé 1.0	m e s
+mém 1.0	m e s m
+mén 1.0	m e s n
+méo 1.0	m e s o
+mép 1.0	m e s p
+mét 1.0	m e s t
+mê 1.0	m e e
+mênh 1.0	m e e n h
+mì 1.0	m i f
+mìn 1.0	m i f n
+mình 1.0	m i f n h
+mí 1.0	m i s
+mía 1.0	m i s a
+míp 1.0	m i s p
+mít 1.0	m i s t
+míu 1.0	m i s u
+mò 1.0	m o f
+mòi 1.0	m o f i
+mòn 1.0	m o f n
+mòng 1.0	m o f n g
+mó 1.0	m o s
+móc 1.0	m o s c
+mói 1.0	m o s i
+móm 1.0	m o s m
+món 1.0	m o s n
+móng 1.0	m o s n g
+móp 1.0	m o s p
+mót 1.0	m o s t
+mô 1.0	m o o
+môi 1.0	m o o i
+môn 1.0	m o o n
+mông 1.0	m o o n g
+mõ 1.0	m o x
+mõm 1.0	m o x m
+mù 1.0	m u f
+mùa 1.0	m u f a
+mùi 1.0	m u f i
+mùn 1.0	m u f n
+mùng 1.0	m u f n g
+mú 1.0	m u s
+múa 1.0	m u s a
+múi 1.0	m u s i
+mún 1.0	m u s n
+múp 1.0	m u s p
+mút 1.0	m u s t
+măm 1.0	m a w m
+măn 1.0	m a w n
+măng 1.0	m a w n g
+mĩm 1.0	m i x m
+mũ 1.0	m u x
+mũi 1.0	m u x i
+mũm 1.0	m u x m
+mơ 1.0	m o w
+mơn 1.0	m o w n
+mưa 1.0	m u w a
+mưu 1.0	m u w u
+mươi 1.0	m u w o w i
+mương 1.0	m u w o w n g
+mướn 1.0	m u w o w s n
+mướp 1.0	m u w o w s p
+mướt 1.0	m u w o w s t
+mười 1.0	m u w o w f i
+mường 1.0	m u w o w f n g
+mượn 1.0	m u w o w j n
+mượt 1.0	m u w o w j t
+mạ 1.0	m a j
+mạc 1.0	m a j c
+mạch 1.0	m a j c h
+mại 1.0	m a j i
+mạn 1.0	m a j n
+mạng 1.0	m a j n g
+mạnh 1.0	m a j n h
+mạo 1.0	m a j o
+mạp 1.0	m a j p
+mạt 1.0	m a j t
+mạy 1.0	m a j y
+mả 1.0	m a r
+mải 1.0	m a r i
+mảng 1.0	m a r n g
+mảnh 1.0	m a r n h
+mấn 1.0	m a a s n
+mấp 1.0	m a a s p
+mất 1.0	m a a s t
+mấu 1.0	m a a s u
+mấy 1.0	m a a s y
+mầm 1.0	m a a f m
+mần 1.0	m a a f n
+mầu 1.0	m a a f u
+mẩn 1.0	m a a r n
+mẩu 1.0	m a a r u
+mẩy 1.0	m a a r y
+mẫn 1.0	m a a x n
+mẫu 1.0	m a a x u
+mận 1.0	m a a j n
+mập 1.0	m a a j p
+mật 1.0	m a a j t
+mậu 1.0	m a a j u
+mắc 1.0	m a w s c
+mắm 1.0	m a w s m
+mắn 1.0	m a w s n
+mắng 1.0	m a w s n g
+mắt 1.0	m a w s t
+mằn 1.0	m a w f n
+mẳn 1.0	m a w r n
+mặc 1.0	m a w j c
+mặn 1.0	m a w j n
+mặt 1.0	m a w j t
+mẹ 1.0	m e j
+mẹo 1.0	m e j o
+mẹt 1.0	m e j t
+mẻ 1.0	m e r
+mẽ 1.0	m e x
+mếch 1.0	m e e s c h
+mến 1.0	m e e s n
+mếu 1.0	m e e s u
+mề 1.0	m e e f
+mềm 1.0	m e e f m
+mền 1.0	m e e f n
+mệ 1.0	m e e j
+mệnh 1.0	m e e j n h
+mệt 1.0	m e e j t
+mỉ 1.0	m i r
+mỉa 1.0	m i r a
+mỉm 1.0	m i r m
+mị 1.0	m i j
+mịn 1.0	m i j n
+mịt 1.0	m i j t
+mọ 1.0	m o j
+mọc 1.0	m o j c
+mọi 1.0	m o j i
+mọn 1.0	m o j n
+mọng 1.0	m o j n g
+mọt 1.0	m o j t
+mỏ 1.0	m o r
+mỏi 1.0	m o r i
+mỏm 1.0	m o r m
+mỏng 1.0	m o r n g
+mố 1.0	m o o s
+mốc 1.0	m o o s c
+mối 1.0	m o o s i
+mốt 1.0	m o o s t
+mồ 1.0	m o o f
+mồi 1.0	m o o f i
+mồm 1.0	m o o f m
+mồng 1.0	m o o f n g
+mổ 1.0	m o o r
+mỗ 1.0	m o o x
+mỗi 1.0	m o o x i
+mộ 1.0	m o o j
+mộc 1.0	m o o j c
+mộng 1.0	m o o j n g
+một 1.0	m o o j t
+mớ 1.0	m o w s
+mới 1.0	m o w s i
+mớp 1.0	m o w s p
+mờ 1.0	m o w f
+mời 1.0	m o w f i
+mở 1.0	m o w r
+mởn 1.0	m o w r n
+mỡ 1.0	m o w x
+mợ 1.0	m o w j
+mụ 1.0	m u j
+mục 1.0	m u j c
+mụn 1.0	m u j n
+mụp 1.0	m u j p
+mủ 1.0	m u r
+mủi 1.0	m u r i
+mủn 1.0	m u r n
+mức 1.0	m u w s c
+mứt 1.0	m u w s t
+mừng 1.0	m u w f n g
+mửa 1.0	m u w r a
+mực 1.0	m u w j c
+mỹ 1.0	m y x
+na 1.0	n a
+nai 1.0	n a i
+nam 1.0	n a m
+nan 1.0	n a n
+nang 1.0	n a n g
+nanh 1.0	n a n h
+nao 1.0	n a o
+nay 1.0	n a y
+nem 1.0	n e m
+neo 1.0	n e o
+nga 1.0	n g a
+ngai 1.0	n g a i
+ngan 1.0	n g a n
+ngang 1.0	n g a n g
+ngao 1.0	n g a o
+ngay 1.0	n g a y
+nghe 1.0	n g h e
+nghi 1.0	n g h i
+nghiêm 1.0	n g h i e e m
+nghiên 1.0	n g h i e e n
+nghiêng 1.0	n g h i e e n g
+nghiến 1.0	n g h i e e s n
+nghiền 1.0	n g h i e e f n
+nghiệm 1.0	n g h i e e j m
+nghiện 1.0	n g h i e e j n
+nghiệp 1.0	n g h i e e j p
+nghiệt 1.0	n g h i e e j t
+nghè 1.0	n g h e f
+nghèo 1.0	n g h e f o
+nghé 1.0	n g h e s
+nghê 1.0	n g h e e
+nghênh 1.0	n g h e e n h
+nghêu 1.0	n g h e e u
+nghìn 1.0	n g h i f n
+nghĩ 1.0	n g h i x
+nghĩa 1.0	n g h i x a
+nghĩnh 1.0	n g h i x n h
+nghẹn 1.0	n g h e j n
+nghẹo 1.0	n g h e j o
+nghẹt 1.0	n g h e j t
+nghẻo 1.0	n g h e r o
+nghẽn 1.0	n g h e x n
+nghếch 1.0	n g h e e s c h
+nghề 1.0	n g h e e f
+nghệ 1.0	n g h e e j
+nghỉ 1.0	n g h i r
+nghỉu 1.0	n g h i r u
+nghị 1.0	n g h i j
+nghịch 1.0	n g h i j c h
+ngoa 1.0	n g o a
+ngoan 1.0	n g o a n
+ngoang 1.0	n g o a n g
+ngoay 1.0	n g o a y
+ngoe 1.0	n g o e
+ngoi 1.0	n g o i
+ngon 1.0	n g o n
+ngoài 1.0	n g o a f i
+ngoàm 1.0	n g o a f m
+ngoác 1.0	n g o a s c
+ngoách 1.0	n g o a s c h
+ngoái 1.0	n g o a s i
+ngoáo 1.0	n g o a s o
+ngoáy 1.0	n g o a s y
+ngoãn 1.0	n g o a x n
+ngoèo 1.0	n g o e f o
+ngoéo 1.0	n g o e s o
+ngoại 1.0	n g o a j i
+ngoạn 1.0	n g o a j n
+ngoảnh 1.0	n g o a r n h
+ngoắc 1.0	n g o a w s c
+ngoắt 1.0	n g o a w s t
+ngoằn 1.0	n g o a w f n
+ngoằng 1.0	n g o a w f n g
+ngoẵng 1.0	n g o a w x n g
+ngoặc 1.0	n g o a w j c
+ngoặt 1.0	n g o a w j t
+ngu 1.0	n g u
+nguy 1.0	n g u y
+nguyên 1.0	n g u y e e n
+nguyền 1.0	n g u y e e f n
+nguyễn 1.0	n g u y e e x n
+nguyện 1.0	n g u y e e j n
+nguyệt 1.0	n g u y e e j t
+nguôi 1.0	n g u o o i
+nguẩy 1.0	n g u a a r y
+nguồi 1.0	n g u o o f i
+nguồn 1.0	n g u o o f n
+nguội 1.0	n g u o o j i
+ngà 1.0	n g a f
+ngài 1.0	n g a f i
+ngàm 1.0	n g a f m
+ngàn 1.0	n g a f n
+ngàng 1.0	n g a f n g
+ngành 1.0	n g a f n h
+ngào 1.0	n g a f o
+ngày 1.0	n g a f y
+ngách 1.0	n g a s c h
+ngán 1.0	n g a s n
+ngáng 1.0	n g a s n g
+ngáo 1.0	n g a s o
+ngáp 1.0	n g a s p
+ngát 1.0	n g a s t
+ngáu 1.0	n g a s u
+ngáy 1.0	n g a s y
+ngâm 1.0	n g a a m
+ngân 1.0	n g a a n
+ngây 1.0	n g a a y
+ngã 1.0	n g a x
+ngãi 1.0	n g a x i
+ngía 1.0	n g i s a
+ngò 1.0	n g o f
+ngòi 1.0	n g o f i
+ngó 1.0	n g o s
+ngóc 1.0	n g o s c
+ngóe 1.0	n g o s e
+ngói 1.0	n g o s i
+ngón 1.0	n g o s n
+ngóng 1.0	n g o s n g
+ngót 1.0	n g o s t
+ngô 1.0	n g o o
+ngôi 1.0	n g o o i
+ngôn 1.0	n g o o n
+ngông 1.0	n g o o n g
+ngõ 1.0	n g o x
+ngùi 1.0	n g u f i
+ngúc 1.0	n g u s c
+ngúng 1.0	n g u s n g
+ngút 1.0	n g u s t
+ngăn 1.0	n g a w n
+ngũ 1.0	n g u x
+ngơ 1.0	n g o w
+ngơi 1.0	n g o w i
+ngư 1.0	n g u w
+ngưa 1.0	n g u w a
+ngưng 1.0	n g u w n g
+ngưu 1.0	n g u w u
+ngươi 1.0	n g u w o w i
+ngước 1.0	n g u w o w s c
+người 1.0	n g u w o w f i
+ngưởng 1.0	n g u w o w r n g
+ngưỡng 1.0	n g u w o w x n g
+ngược 1.0	n g u w o w j c
+ngượng 1.0	n g u w o w j n g
+ngạc 1.0	n g a j c
+ngại 1.0	n g a j i
+ngạn 1.0	n g a j n
+ngạo 1.0	n g a j o
+ngạt 1.0	n g a j t
+ngả 1.0	n g a r
+ngải 1.0	n g a r i
+ngảnh 1.0	n g a r n h
+ngất 1.0	n g a a s t
+ngấu 1.0	n g a a s u
+ngấy 1.0	n g a a s y
+ngầm 1.0	n g a a f m
+ngần 1.0	n g a a f n
+ngầy 1.0	n g a a f y
+ngẩm 1.0	n g a a r m
+ngẩn 1.0	n g a a r n
+ngẩng 1.0	n g a a r n g
+ngẫm 1.0	n g a a x m
+ngẫu 1.0	n g a a x u
+ngậm 1.0	n g a a j m
+ngập 1.0	n g a a j p
+ngậu 1.0	n g a a j u
+ngậy 1.0	n g a a j y
+ngắc 1.0	n g a w s c
+ngắm 1.0	n g a w s m
+ngắn 1.0	n g a w s n
+ngắt 1.0	n g a w s t
+ngẳng 1.0	n g a w r n g
+ngẵng 1.0	n g a w x n g
+ngặt 1.0	n g a w j t
+ngọ 1.0	n g o j
+ngọc 1.0	n g o j c
+ngọn 1.0	n g o j n
+ngọng 1.0	n g o j n g
+ngọt 1.0	n g o j t
+ngỏ 1.0	n g o r
+ngốc 1.0	n g o o s c
+ngồi 1.0	n g o o f i
+ngồm 1.0	n g o o f m
+ngồn 1.0	n g o o f n
+ngồng 1.0	n g o o f n g
+ngổ 1.0	n g o o r
+ngổm 1.0	n g o o r m
+ngỗ 1.0	n g o o x
+ngỗng 1.0	n g o o x n g
+ngộ 1.0	n g o o j
+ngộn 1.0	n g o o j n
+ngột 1.0	n g o o j t
+ngớ 1.0	n g o w s
+ngớn 1.0	n g o w s n
+ngớt 1.0	n g o w s t
+ngờ 1.0	n g o w f
+ngời 1.0	n g o w f i
+ngỡ 1.0	n g o w x
+ngợ 1.0	n g o w j
+ngợi 1.0	n g o w j i
+ngợm 1.0	n g o w j m
+ngợp 1.0	n g o w j p
+ngụ 1.0	n g u j
+ngụa 1.0	n g u j a
+ngục 1.0	n g u j c
+ngụm 1.0	n g u j m
+ngụp 1.0	n g u j p
+ngủ 1.0	n g u r
+ngủi 1.0	n g u r i
+ngủn 1.0	n g u r n
+ngứ 1.0	n g u w s
+ngứa 1.0	n g u w s a
+ngừ 1.0	n g u w f
+ngừa 1.0	n g u w f a
+ngừng 1.0	n g u w f n g
+ngửi 1.0	n g u w r i
+ngửng 1.0	n g u w r n g
+ngữ 1.0	n g u w x
+ngự 1.0	n g u w j
+ngựa 1.0	n g u w j a
+ngực 1.0	n g u w j c
+nha 1.0	n h a
+nhai 1.0	n h a i
+nham 1.0	n h a m
+nhan 1.0	n h a n
+nhang 1.0	n h a n g
+nhanh 1.0	n h a n h
+nhao 1.0	n h a o
+nhau 1.0	n h a u
+nhay 1.0	n h a y
+nhe 1.0	n h e
+nhem 1.0	n h e m
+nhen 1.0	n h e n
+nheo 1.0	n h e o
+nhi 1.0	n h i
+nhiên 1.0	n h i e e n
+nhiêu 1.0	n h i e e u
+nhiếc 1.0	n h i e e s c
+nhiếp 1.0	n h i e e s p
+nhiều 1.0	n h i e e f u
+nhiễm 1.0	n h i e e x m
+nhiễu 1.0	n h i e e x u
+nhiệm 1.0	n h i e e j m
+nhiệt 1.0	n h i e e j t
+nho 1.0	n h o
+nhoai 1.0	n h o a i
+nhoe 1.0	n h o e
+nhoen 1.0	n h o e n
+nhom 1.0	n h o m
+nhong 1.0	n h o n g
+nhoài 1.0	n h o a f i
+nhoáng 1.0	n h o a s n g
+nhoét 1.0	n h o e s t
+nhoẻn 1.0	n h o e r n
+nhu 1.0	n h u
+nhung 1.0	n h u n g
+nhuyễn 1.0	n h u y e e x n
+nhuần 1.0	n h u a a f n
+nhuận 1.0	n h u a a j n
+nhuệ 1.0	n h u e e j
+nhuốm 1.0	n h u o o s m
+nhuộm 1.0	n h u o o j m
+nhà 1.0	n h a f
+nhài 1.0	n h a f i
+nhàm 1.0	n h a f m
+nhàn 1.0	n h a f n
+nhàng 1.0	n h a f n g
+nhành 1.0	n h a f n h
+nhào 1.0	n h a f o
+nhàu 1.0	n h a f u
+nhá 1.0	n h a s
+nhác 1.0	n h a s c
+nháng 1.0	n h a s n g
+nhánh 1.0	n h a s n h
+nháo 1.0	n h a s o
+nhát 1.0	n h a s t
+nháy 1.0	n h a s y
+nhâm 1.0	n h a a m
+nhân 1.0	n h a a n
+nhã 1.0	n h a x
+nhãi 1.0	n h a x i
+nhãn 1.0	n h a x n
+nhãng 1.0	n h a x n g
+nhão 1.0	n h a x o
+nhè 1.0	n h e f
+nhèm 1.0	n h e f m
+nhé 1.0	n h e s
+nhép 1.0	n h e s p
+nhét 1.0	n h e s t
+nhì 1.0	n h i f
+nhìn 1.0	n h i f n
+nhí 1.0	n h i s
+nhích 1.0	n h i s c h
+nhím 1.0	n h i s m
+nhít 1.0	n h i s t
+nhíu 1.0	n h i s u
+nhòe 1.0	n h o f e
+nhòm 1.0	n h o f m
+nhóc 1.0	n h o s c
+nhói 1.0	n h o s i
+nhóm 1.0	n h o s m
+nhóng 1.0	n h o s n g
+nhóp 1.0	n h o s p
+nhót 1.0	n h o s t
+nhô 1.0	n h o o
+nhôm 1.0	n h o o m
+nhôn 1.0	n h o o n
+nhông 1.0	n h o o n g
+nhõ 1.0	n h o x
+nhõm 1.0	n h o x m
+nhõn 1.0	n h o x n
+nhõng 1.0	n h o x n g
+nhù 1.0	n h u f
+nhùi 1.0	n h u f i
+nhùng 1.0	n h u f n g
+nhú 1.0	n h u s
+nhúa 1.0	n h u s a
+nhúc 1.0	n h u s c
+nhún 1.0	n h u s n
+nhúng 1.0	n h u s n g
+nhút 1.0	n h u s t
+nhăm 1.0	n h a w m
+nhăn 1.0	n h a w n
+nhăng 1.0	n h a w n g
+nhĩ 1.0	n h i x
+nhũ 1.0	n h u x
+nhũng 1.0	n h u x n g
+nhơi 1.0	n h o w i
+nhơn 1.0	n h o w n
+như 1.0	n h u w
+nhưng 1.0	n h u w n g
+nhướng 1.0	n h u w o w s n g
+nhường 1.0	n h u w o w f n g
+nhưỡng 1.0	n h u w o w x n g
+nhược 1.0	n h u w o w j c
+nhượng 1.0	n h u w o w j n g
+nhạc 1.0	n h a j c
+nhại 1.0	n h a j i
+nhạnh 1.0	n h a j n h
+nhạo 1.0	n h a j o
+nhạt 1.0	n h a j t
+nhạy 1.0	n h a j y
+nhả 1.0	n h a r
+nhải 1.0	n h a r i
+nhảm 1.0	n h a r m
+nhảnh 1.0	n h a r n h
+nhảy 1.0	n h a r y
+nhấc 1.0	n h a a s c
+nhấm 1.0	n h a a s m
+nhấn 1.0	n h a a s n
+nhấp 1.0	n h a a s p
+nhất 1.0	n h a a s t
+nhầm 1.0	n h a a f m
+nhầy 1.0	n h a a f y
+nhẩm 1.0	n h a a r m
+nhẫn 1.0	n h a a x n
+nhẫy 1.0	n h a a x y
+nhậm 1.0	n h a a j m
+nhận 1.0	n h a a j n
+nhập 1.0	n h a a j p
+nhật 1.0	n h a a j t
+nhậu 1.0	n h a a j u
+nhắc 1.0	n h a w s c
+nhắm 1.0	n h a w s m
+nhắn 1.0	n h a w s n
+nhắt 1.0	n h a w s t
+nhằm 1.0	n h a w f m
+nhằn 1.0	n h a w f n
+nhằng 1.0	n h a w f n g
+nhẵn 1.0	n h a w x n
+nhặm 1.0	n h a w j m
+nhặng 1.0	n h a w j n g
+nhặt 1.0	n h a w j t
+nhẹ 1.0	n h e j
+nhẹm 1.0	n h e j m
+nhẹp 1.0	n h e j p
+nhẻm 1.0	n h e r m
+nhẽo 1.0	n h e x o
+nhếch 1.0	n h e e s c h
+nhện 1.0	n h e e j n
+nhệu 1.0	n h e e j u
+nhỉ 1.0	n h i r
+nhỉnh 1.0	n h i r n h
+nhị 1.0	n h i j
+nhịn 1.0	n h i j n
+nhịp 1.0	n h i j p
+nhọc 1.0	n h o j c
+nhọn 1.0	n h o j n
+nhọt 1.0	n h o j t
+nhỏ 1.0	n h o r
+nhỏm 1.0	n h o r m
+nhố 1.0	n h o o s
+nhối 1.0	n h o o s i
+nhốt 1.0	n h o o s t
+nhồi 1.0	n h o o f i
+nhồn 1.0	n h o o f n
+nhồng 1.0	n h o o f n g
+nhổm 1.0	n h o o r m
+nhổn 1.0	n h o o r n
+nhộn 1.0	n h o o j n
+nhột 1.0	n h o o j t
+nhớ 1.0	n h o w s
+nhớp 1.0	n h o w s p
+nhờ 1.0	n h o w f
+nhờn 1.0	n h o w f n
+nhở 1.0	n h o w r
+nhợt 1.0	n h o w j t
+nhụa 1.0	n h u j a
+nhục 1.0	n h u j c
+nhụy 1.0	n h u j y
+nhủ 1.0	n h u r
+nhủi 1.0	n h u r i
+nhủn 1.0	n h u r n
+nhứ 1.0	n h u w s
+nhức 1.0	n h u w s c
+nhừ 1.0	n h u w f
+những 1.0	n h u w x n g
+nhựa 1.0	n h u w j a
+nhựt 1.0	n h u w j t
+ni 1.0	n i
+nia 1.0	n i a
+nin 1.0	n i n
+ninh 1.0	n i n h
+niu 1.0	n i u
+niêm 1.0	n i e e m
+niên 1.0	n i e e n
+niêu 1.0	n i e e u
+niết 1.0	n i e e s t
+niềm 1.0	n i e e f m
+niềng 1.0	n i e e f n g
+niệm 1.0	n i e e j m
+niệu 1.0	n i e e j u
+no 1.0	n o
+nom 1.0	n o m
+non 1.0	n o n
+nong 1.0	n o n g
+nua 1.0	n u a
+nung 1.0	n u n g
+nuôi 1.0	n u o o i
+nuông 1.0	n u o o n g
+nuối 1.0	n u o o s i
+nuốt 1.0	n u o o s t
+nà 1.0	n a f
+nàn 1.0	n a f n
+nàng 1.0	n a f n g
+nành 1.0	n a f n h
+nào 1.0	n a f o
+này 1.0	n a f y
+ná 1.0	n a s
+nách 1.0	n a s c h
+nám 1.0	n a s m
+nán 1.0	n a s n
+náo 1.0	n a s o
+nát 1.0	n a s t
+náu 1.0	n a s u
+náy 1.0	n a s y
+nâng 1.0	n a a n g
+nâu 1.0	n a a u
+nây 1.0	n a a y
+não 1.0	n a x o
+nãy 1.0	n a x y
+nè 1.0	n e f
+nèo 1.0	n e f o
+né 1.0	n e s
+ném 1.0	n e s m
+nén 1.0	n e s n
+néo 1.0	n e s o
+nép 1.0	n e s p
+nét 1.0	n e s t
+nê 1.0	n e e
+nêm 1.0	n e e m
+nên 1.0	n e e n
+nêu 1.0	n e e u
+nì 1.0	n i f
+nình 1.0	n i f n h
+ních 1.0	n i s c h
+nín 1.0	n i s n
+nính 1.0	n i s n h
+nít 1.0	n i s t
+níu 1.0	n i s u
+nó 1.0	n o s
+nóc 1.0	n o s c
+nói 1.0	n o s i
+nón 1.0	n o s n
+nóng 1.0	n o s n g
+nót 1.0	n o s t
+nô 1.0	n o o
+nôi 1.0	n o o i
+nôm 1.0	n o o m
+nôn 1.0	n o o n
+nông 1.0	n o o n g
+nõn 1.0	n o x n
+nùn 1.0	n u f n
+nùng 1.0	n u f n g
+núc 1.0	n u s c
+núi 1.0	n u s i
+núm 1.0	n u s m
+núng 1.0	n u s n g
+núp 1.0	n u s p
+nút 1.0	n u s t
+năm 1.0	n a w m
+năn 1.0	n a w n
+năng 1.0	n a w n g
+nĩa 1.0	n i x a
+nũng 1.0	n u x n g
+nơi 1.0	n o w i
+nơm 1.0	n o w m
+nư 1.0	n u w
+nương 1.0	n u w o w n g
+nước 1.0	n u w o w s c
+nướng 1.0	n u w o w s n g
+nạ 1.0	n a j
+nạc 1.0	n a j c
+nại 1.0	n a j i
+nạn 1.0	n a j n
+nạnh 1.0	n a j n h
+nạo 1.0	n a j o
+nạp 1.0	n a j p
+nạt 1.0	n a j t
+nả 1.0	n a r
+nản 1.0	n a r n
+nảy 1.0	n a r y
+nấc 1.0	n a a s c
+nấm 1.0	n a a s m
+nấng 1.0	n a a s n g
+nấu 1.0	n a a s u
+nấy 1.0	n a a s y
+nần 1.0	n a a f n
+nầy 1.0	n a a f y
+nậm 1.0	n a a j m
+nập 1.0	n a a j p
+nậu 1.0	n a a j u
+nắc 1.0	n a w s c
+nắm 1.0	n a w s m
+nắn 1.0	n a w s n
+nắng 1.0	n a w s n g
+nắp 1.0	n a w s p
+nằm 1.0	n a w f m
+nằn 1.0	n a w f n
+nằng 1.0	n a w f n g
+nẵng 1.0	n a w x n g
+nặc 1.0	n a w j c
+nặng 1.0	n a w j n g
+nẹp 1.0	n e j p
+nẻ 1.0	n e r
+nẻo 1.0	n e r o
+nếm 1.0	n e e s m
+nến 1.0	n e e s n
+nếp 1.0	n e e s p
+nết 1.0	n e e s t
+nếu 1.0	n e e s u
+nề 1.0	n e e f
+nền 1.0	n e e f n
+nể 1.0	n e e r
+nệ 1.0	n e e j
+nệm 1.0	n e e j m
+nỉ 1.0	n i r
+nịch 1.0	n i j c h
+nịnh 1.0	n i j n h
+nịu 1.0	n i j u
+nọ 1.0	n o j
+nọc 1.0	n o j c
+nọng 1.0	n o j n g
+nọt 1.0	n o j t
+nỏ 1.0	n o r
+nố 1.0	n o o s
+nốc 1.0	n o o s c
+nối 1.0	n o o s i
+nống 1.0	n o o s n g
+nốt 1.0	n o o s t
+nồ 1.0	n o o f
+nồi 1.0	n o o f i
+nồm 1.0	n o o f m
+nồng 1.0	n o o f n g
+nổ 1.0	n o o r
+nổi 1.0	n o o r i
+nỗ 1.0	n o o x
+nỗi 1.0	n o o x i
+nộ 1.0	n o o j
+nộc 1.0	n o o j c
+nội 1.0	n o o j i
+nộn 1.0	n o o j n
+nộp 1.0	n o o j p
+nớ 1.0	n o w s
+nới 1.0	n o w s i
+nớp 1.0	n o w s p
+nớt 1.0	n o w s t
+nở 1.0	n o w r
+nỡ 1.0	n o w x
+nợ 1.0	n o w j
+nụ 1.0	n u j
+nức 1.0	n u w s c
+nứt 1.0	n u w s t
+nửa 1.0	n u w r a
+nữ 1.0	n u w x
+nữa 1.0	n u w x a
+nự 1.0	n u w j
+nực 1.0	n u w j c
+o 1.0	o
+oai 1.0	o a i
+oan 1.0	o a n
+oanh 1.0	o a n h
+oe 1.0	o e
+oi 1.0	o i
+om 1.0	o m
+ong 1.0	o n g
+oành 1.0	o a f n h
+oác 1.0	o a s c
+oách 1.0	o a s c h
+oái 1.0	o a s i
+oán 1.0	o a s n
+oăm 1.0	o a w m
+oạp 1.0	o a j p
+oải 1.0	o a r i
+oắt 1.0	o a w s t
+oằn 1.0	o a w f n
+pa 1.0	p a
+pha 1.0	p h a
+phai 1.0	p h a i
+phan 1.0	p h a n
+phanh 1.0	p h a n h
+phao 1.0	p h a o
+phay 1.0	p h a y
+phe 1.0	p h e
+phen 1.0	p h e n
+phi 1.0	p h i
+phim 1.0	p h i m
+phiên 1.0	p h i e e n
+phiêu 1.0	p h i e e u
+phiếm 1.0	p h i e e s m
+phiết 1.0	p h i e e s t
+phiếu 1.0	p h i e e s u
+phiền 1.0	p h i e e f n
+phiện 1.0	p h i e e j n
+pho 1.0	p h o
+phong 1.0	p h o n g
+phu 1.0	p h u
+phun 1.0	p h u n
+phung 1.0	p h u n g
+phuy 1.0	p h u y
+phàm 1.0	p h a f m
+phàn 1.0	p h a f n
+phào 1.0	p h a f o
+phá 1.0	p h a s
+phác 1.0	p h a s c
+phách 1.0	p h a s c h
+phái 1.0	p h a s i
+phán 1.0	p h a s n
+pháo 1.0	p h a s o
+pháp 1.0	p h a s p
+phát 1.0	p h a s t
+phân 1.0	p h a a n
+phây 1.0	p h a a y
+phè 1.0	p h e f
+phèn 1.0	p h e f n
+phèng 1.0	p h e f n g
+phèo 1.0	p h e f o
+phéng 1.0	p h e s n g
+phép 1.0	p h e s p
+phét 1.0	p h e s t
+phê 1.0	p h e e
+phì 1.0	p h i f
+phình 1.0	p h i f n h
+phí 1.0	p h i s
+phía 1.0	p h i s a
+phích 1.0	p h i s c h
+phím 1.0	p h i s m
+phính 1.0	p h i s n h
+phò 1.0	p h o f
+phòi 1.0	p h o f i
+phòng 1.0	p h o f n g
+phó 1.0	p h o s
+phóc 1.0	p h o s c
+phóng 1.0	p h o s n g
+phót 1.0	p h o s t
+phô 1.0	p h o o
+phôi 1.0	p h o o i
+phù 1.0	p h u f
+phùng 1.0	p h u f n g
+phú 1.0	p h u s
+phúc 1.0	p h u s c
+phúng 1.0	p h u s n g
+phút 1.0	p h u s t
+phăng 1.0	p h a w n g
+phĩnh 1.0	p h i x n h
+phơ 1.0	p h o w
+phơi 1.0	p h o w i
+phơn 1.0	p h o w n
+phương 1.0	p h u w o w n g
+phước 1.0	p h u w o w s c
+phướn 1.0	p h u w o w s n
+phường 1.0	p h u w o w f n g
+phượng 1.0	p h u w o w j n g
+phạc 1.0	p h a j c
+phạm 1.0	p h a j m
+phạng 1.0	p h a j n g
+phạt 1.0	p h a j t
+phả 1.0	p h a r
+phải 1.0	p h a r i
+phản 1.0	p h a r n
+phảy 1.0	p h a r y
+phấn 1.0	p h a a s n
+phất 1.0	p h a a s t
+phầm 1.0	p h a a f m
+phần 1.0	p h a a f n
+phẩm 1.0	p h a a r m
+phẩy 1.0	p h a a r y
+phẫn 1.0	p h a a x n
+phẫu 1.0	p h a a x u
+phận 1.0	p h a a j n
+phật 1.0	p h a a j t
+phắc 1.0	p h a w s c
+phẳng 1.0	p h a w r n g
+phế 1.0	p h e e s
+phếch 1.0	p h e e s c h
+phết 1.0	p h e e s t
+phề 1.0	p h e e f
+phều 1.0	p h e e f u
+phễu 1.0	p h e e x u
+phệ 1.0	p h e e j
+phệnh 1.0	p h e e j n h
+phỉ 1.0	p h i r
+phỉnh 1.0	p h i r n h
+phịch 1.0	p h i j c h
+phọt 1.0	p h o j t
+phỏng 1.0	p h o r n g
+phố 1.0	p h o o s
+phốc 1.0	p h o o s c
+phối 1.0	p h o o s i
+phồm 1.0	p h o o f m
+phồng 1.0	p h o o f n g
+phổ 1.0	p h o o r
+phổi 1.0	p h o o r i
+phổng 1.0	p h o o r n g
+phỗng 1.0	p h o o x n g
+phộng 1.0	p h o o j n g
+phới 1.0	p h o w s i
+phớt 1.0	p h o w s t
+phờ 1.0	p h o w f
+phở 1.0	p h o w r
+phỡn 1.0	p h o w x n
+phụ 1.0	p h u j
+phục 1.0	p h u j c
+phụng 1.0	p h u j n g
+phủ 1.0	p h u r
+phủi 1.0	p h u r i
+phức 1.0	p h u w s c
+pin 1.0	p i n
+piêu 1.0	p i e e u
+pí 1.0	p i s
+qua 1.0	q u a
+quai 1.0	q u a i
+quan 1.0	q u a n
+quang 1.0	q u a n g
+quanh 1.0	q u a n h
+quay 1.0	q u a y
+que 1.0	q u e
+quen 1.0	q u e n
+queo 1.0	q u e o
+qui 1.0	q u i
+quoạng 1.0	q u o a j n g
+quy 1.0	q u y
+quyên 1.0	q u y e e n
+quyến 1.0	q u y e e s n
+quyết 1.0	q u y e e s t
+quyền 1.0	q u y e e f n
+quyển 1.0	q u y e e r n
+quyện 1.0	q u y e e j n
+quyệt 1.0	q u y e e j t
+quà 1.0	q u a f
+quài 1.0	q u a f i
+quàng 1.0	q u a f n g
+quày 1.0	q u a f y
+quá 1.0	q u a s
+quác 1.0	q u a s c
+quách 1.0	q u a s c h
+quái 1.0	q u a s i
+quán 1.0	q u a s n
+quáng 1.0	q u a s n g
+quánh 1.0	q u a s n h
+quát 1.0	q u a s t
+quân 1.0	q u a a n
+quây 1.0	q u a a y
+quãng 1.0	q u a x n g
+què 1.0	q u e f
+quèn 1.0	q u e f n
+quét 1.0	q u e s t
+quê 1.0	q u e e
+quên 1.0	q u e e n
+quì 1.0	q u i f
+quí 1.0	q u i s
+quít 1.0	q u i s t
+quý 1.0	q u y s
+quýnh 1.0	q u y s n h
+quýt 1.0	q u y s t
+quăm 1.0	q u a w m
+quăng 1.0	q u a w n g
+quĩ 1.0	q u i x
+quạc 1.0	q u a j c
+quạch 1.0	q u a j c h
+quại 1.0	q u a j i
+quạng 1.0	q u a j n g
+quạnh 1.0	q u a j n h
+quạt 1.0	q u a j t
+quả 1.0	q u a r
+quải 1.0	q u a r i
+quản 1.0	q u a r n
+quảng 1.0	q u a r n g
+quảy 1.0	q u a r y
+quấn 1.0	q u a a s n
+quất 1.0	q u a a s t
+quấy 1.0	q u a a s y
+quần 1.0	q u a a f n
+quầng 1.0	q u a a f n g
+quầy 1.0	q u a a f y
+quẩn 1.0	q u a a r n
+quẫn 1.0	q u a a x n
+quẫy 1.0	q u a a x y
+quận 1.0	q u a a j n
+quật 1.0	q u a a j t
+quậy 1.0	q u a a j y
+quắc 1.0	q u a w s c
+quắn 1.0	q u a w s n
+quắt 1.0	q u a w s t
+quằn 1.0	q u a w f n
+quẳng 1.0	q u a w r n g
+quặc 1.0	q u a w j c
+quặm 1.0	q u a w j m
+quặn 1.0	q u a w j n
+quặt 1.0	q u a w j t
+quẹo 1.0	q u e j o
+quế 1.0	q u e e s
+quết 1.0	q u e e s t
+quềnh 1.0	q u e e f n h
+quệ 1.0	q u e e j
+quệnh 1.0	q u e e j n h
+quỉ 1.0	q u i r
+quị 1.0	q u i j
+quốc 1.0	q u o o s c
+quới 1.0	q u o w s i
+quớt 1.0	q u o w s t
+quờ 1.0	q u o w f
+quờn 1.0	q u o w f n
+quỳ 1.0	q u y f
+quỳnh 1.0	q u y f n h
+quỵ 1.0	q u y j
+quỵt 1.0	q u y j t
+quỷ 1.0	q u y r
+quỹ 1.0	q u y x
+ra 1.0	r a
+rai 1.0	r a i
+ram 1.0	r a m
+ran 1.0	r a n
+rang 1.0	r a n g
+ranh 1.0	r a n h
+rao 1.0	r a o
+rau 1.0	r a u
+ray 1.0	r a y
+re 1.0	r e
+ren 1.0	r e n
+reng 1.0	r e n g
+reo 1.0	r e o
+ri 1.0	r i
+ria 1.0	r i a
+rinh 1.0	r i n h
+riu 1.0	r i u
+riêng 1.0	r i e e n g
+riêu 1.0	r i e e u
+riếp 1.0	r i e e s p
+riết 1.0	r i e e s t
+riệt 1.0	r i e e j t
+ro 1.0	r o
+roi 1.0	r o i
+rom 1.0	r o m
+rong 1.0	r o n g
+ru 1.0	r u
+rua 1.0	r u a
+run 1.0	r u n
+rung 1.0	r u n g
+ruốc 1.0	r u o o s c
+ruồi 1.0	r u o o f i
+ruổi 1.0	r u o o r i
+ruỗng 1.0	r u o o x n g
+ruộng 1.0	r u o o j n g
+ruột 1.0	r u o o j t
+rà 1.0	r a f
+ràng 1.0	r a f n g
+rành 1.0	r a f n h
+rào 1.0	r a f o
+rày 1.0	r a f y
+rác 1.0	r a s c
+rách 1.0	r a s c h
+rái 1.0	r a s i
+rán 1.0	r a s n
+ráng 1.0	r a s n g
+ráo 1.0	r a s o
+ráp 1.0	r a s p
+rát 1.0	r a s t
+ráy 1.0	r a s y
+râm 1.0	r a a m
+rân 1.0	r a a n
+râu 1.0	r a a u
+rã 1.0	r a x
+rãi 1.0	r a x i
+rãy 1.0	r a x y
+rèm 1.0	r e f m
+rèn 1.0	r e f n
+rèo 1.0	r e f o
+rén 1.0	r e s n
+réo 1.0	r e s o
+rét 1.0	r e s t
+rê 1.0	r e e
+rên 1.0	r e e n
+rêu 1.0	r e e u
+rì 1.0	r i f
+rìa 1.0	r i f a
+rình 1.0	r i f n h
+rít 1.0	r i s t
+ríu 1.0	r i s u
+ròi 1.0	r o f i
+ròm 1.0	r o f m
+ròng 1.0	r o f n g
+ró 1.0	r o s
+róc 1.0	r o s c
+rói 1.0	r o s i
+rón 1.0	r o s n
+rót 1.0	r o s t
+rô 1.0	r o o
+rôm 1.0	r o o m
+rõ 1.0	r o x
+rùa 1.0	r u f a
+rùm 1.0	r u f m
+rú 1.0	r u s
+rúc 1.0	r u s c
+rúm 1.0	r u s m
+rúng 1.0	r u s n g
+rút 1.0	r u s t
+răn 1.0	r a w n
+răng 1.0	r a w n g
+rĩ 1.0	r i x
+rũ 1.0	r u x
+rơ 1.0	r o w
+rơi 1.0	r o w i
+rơm 1.0	r o w m
+rơn 1.0	r o w n
+rưng 1.0	r u w n g
+rươi 1.0	r u w o w i
+rước 1.0	r u w o w s c
+rưới 1.0	r u w o w s i
+rướm 1.0	r u w o w s m
+rười 1.0	r u w o w f i
+rưởi 1.0	r u w o w r i
+rưỡi 1.0	r u w o w x i
+rượi 1.0	r u w o w j i
+rượt 1.0	r u w o w j t
+rượu 1.0	r u w o w j u
+rạ 1.0	r a j
+rạch 1.0	r a j c h
+rạn 1.0	r a j n
+rạng 1.0	r a j n g
+rạo 1.0	r a j o
+rạp 1.0	r a j p
+rạt 1.0	r a j t
+rạy 1.0	r a j y
+rả 1.0	r a r
+rải 1.0	r a r i
+rảnh 1.0	r a r n h
+rảo 1.0	r a r o
+rấn 1.0	r a a s n
+rấp 1.0	r a a s p
+rất 1.0	r a a s t
+rầm 1.0	r a a f m
+rần 1.0	r a a f n
+rầu 1.0	r a a f u
+rầy 1.0	r a a f y
+rẩy 1.0	r a a r y
+rẫy 1.0	r a a x y
+rận 1.0	r a a j n
+rập 1.0	r a a j p
+rật 1.0	r a a j t
+rắc 1.0	r a w s c
+rắm 1.0	r a w s m
+rắn 1.0	r a w s n
+rằm 1.0	r a w f m
+rằng 1.0	r a w f n g
+rặng 1.0	r a w j n g
+rẹo 1.0	r e j o
+rẹt 1.0	r e j t
+rẻ 1.0	r e r
+rẽ 1.0	r e x
+rế 1.0	r e e s
+rến 1.0	r e e s n
+rết 1.0	r e e s t
+rề 1.0	r e e f
+rể 1.0	r e e r
+rễ 1.0	r e e x
+rệ 1.0	r e e j
+rệt 1.0	r e e j t
+rệu 1.0	r e e j u
+rỉ 1.0	r i r
+rỉa 1.0	r i r a
+rỉnh 1.0	r i r n h
+rịa 1.0	r i j a
+rịch 1.0	r i j c h
+rịn 1.0	r i j n
+rịt 1.0	r i j t
+rọ 1.0	r o j
+rọc 1.0	r o j c
+rọi 1.0	r o j i
+rỏi 1.0	r o r i
+rốc 1.0	r o o s c
+rối 1.0	r o o s i
+rốn 1.0	r o o s n
+rống 1.0	r o o s n g
+rốp 1.0	r o o s p
+rốt 1.0	r o o s t
+rồ 1.0	r o o f
+rồi 1.0	r o o f i
+rồng 1.0	r o o f n g
+rổ 1.0	r o o r
+rỗi 1.0	r o o x i
+rỗng 1.0	r o o x n g
+rộ 1.0	r o o j
+rộc 1.0	r o o j c
+rộn 1.0	r o o j n
+rộng 1.0	r o o j n g
+rộp 1.0	r o o j p
+rớm 1.0	r o w s m
+rớt 1.0	r o w s t
+rờ 1.0	r o w f
+rời 1.0	r o w f i
+rờm 1.0	r o w f m
+rờn 1.0	r o w f n
+rỡ 1.0	r o w x
+rỡn 1.0	r o w x n
+rợ 1.0	r o w j
+rợi 1.0	r o w j i
+rợn 1.0	r o w j n
+rợp 1.0	r o w j p
+rục 1.0	r u j c
+rụi 1.0	r u j i
+rụng 1.0	r u j n g
+rủ 1.0	r u r
+rủa 1.0	r u r a
+rủi 1.0	r u r i
+rủng 1.0	r u r n g
+rức 1.0	r u w s c
+rứt 1.0	r u w s t
+rừng 1.0	r u w f n g
+rửa 1.0	r u w r a
+rữa 1.0	r u w x a
+rựa 1.0	r u w j a
+rực 1.0	r u w j c
+sa 1.0	s a
+sai 1.0	s a i
+sam 1.0	s a m
+san 1.0	s a n
+sang 1.0	s a n g
+sanh 1.0	s a n h
+sao 1.0	s a o
+sau 1.0	s a u
+say 1.0	s a y
+se 1.0	s e
+sen 1.0	s e n
+si 1.0	s i
+sim 1.0	s i m
+sinh 1.0	s i n h
+siêu 1.0	s i e e u
+siết 1.0	s i e e s t
+so 1.0	s o
+soi 1.0	s o i
+son 1.0	s o n
+song 1.0	s o n g
+soát 1.0	s o a s t
+soạn 1.0	s o a j n
+soạng 1.0	s o a j n g
+soạt 1.0	s o a j t
+su 1.0	s u
+sum 1.0	s u m
+sun 1.0	s u n
+sung 1.0	s u n g
+suy 1.0	s u y
+suyển 1.0	s u y e e r n
+suyễn 1.0	s u y e e x n
+suýt 1.0	s u y s t
+suất 1.0	s u a a s t
+suối 1.0	s u o o s i
+suốt 1.0	s u o o s t
+sà 1.0	s a f
+sài 1.0	s a f i
+sàm 1.0	s a f m
+sàn 1.0	s a f n
+sàng 1.0	s a f n g
+sành 1.0	s a f n h
+sào 1.0	s a f o
+sá 1.0	s a s
+sác 1.0	s a s c
+sách 1.0	s a s c h
+sái 1.0	s a s i
+sán 1.0	s a s n
+sáng 1.0	s a s n g
+sánh 1.0	s a s n h
+sáo 1.0	s a s o
+sáp 1.0	s a s p
+sát 1.0	s a s t
+sáu 1.0	s a s u
+sâm 1.0	s a a m
+sân 1.0	s a a n
+sâu 1.0	s a a u
+sãi 1.0	s a x i
+sèo 1.0	s e f o
+séc 1.0	s e s c
+sét 1.0	s e s t
+sên 1.0	s e e n
+sênh 1.0	s e e n h
+sêu 1.0	s e e u
+sì 1.0	s i f
+sính 1.0	s i s n h
+sò 1.0	s o f
+sòng 1.0	s o f n g
+sóc 1.0	s o s c
+sói 1.0	s o s i
+són 1.0	s o s n
+sóng 1.0	s o s n g
+sót 1.0	s o s t
+sô 1.0	s o o
+sôi 1.0	s o o i
+sông 1.0	s o o n g
+sõi 1.0	s o x i
+sùi 1.0	s u f i
+sú 1.0	s u s
+súc 1.0	s u s c
+súng 1.0	s u s n g
+súp 1.0	s u s p
+sút 1.0	s u s t
+súy 1.0	s u s y
+săn 1.0	s a w n
+sĩ 1.0	s i x
+sũng 1.0	s u x n g
+sơ 1.0	s o w
+sơm 1.0	s o w m
+sơn 1.0	s o w n
+sư 1.0	s u w
+sưa 1.0	s u w a
+sưng 1.0	s u w n g
+sưu 1.0	s u w u
+sương 1.0	s u w o w n g
+sướng 1.0	s u w o w s n g
+sướt 1.0	s u w o w s t
+sườn 1.0	s u w o w f n
+sường 1.0	s u w o w f n g
+sưởi 1.0	s u w o w r i
+sượt 1.0	s u w o w j t
+sạch 1.0	s a j c h
+sạm 1.0	s a j m
+sạn 1.0	s a j n
+sạo 1.0	s a j o
+sạp 1.0	s a j p
+sạt 1.0	s a j t
+sản 1.0	s a r n
+sảng 1.0	s a r n g
+sảnh 1.0	s a r n h
+sảo 1.0	s a r o
+sảy 1.0	s a r y
+sấm 1.0	s a a s m
+sấu 1.0	s a a s u
+sấy 1.0	s a a s y
+sầm 1.0	s a a f m
+sần 1.0	s a a f n
+sầu 1.0	s a a f u
+sẩn 1.0	s a a r n
+sẩy 1.0	s a a r y
+sẫm 1.0	s a a x m
+sập 1.0	s a a j p
+sắc 1.0	s a w s c
+sắm 1.0	s a w s m
+sắn 1.0	s a w s n
+sắng 1.0	s a w s n g
+sắp 1.0	s a w s p
+sắt 1.0	s a w s t
+sẵn 1.0	s a w x n
+sặc 1.0	s a w j c
+sẹm 1.0	s e j m
+sẹo 1.0	s e j o
+sẻ 1.0	s e r
+sẻn 1.0	s e r n
+sẽ 1.0	s e x
+sếp 1.0	s e e s p
+sếu 1.0	s e e s u
+sền 1.0	s e e f n
+sể 1.0	s e e r
+sểnh 1.0	s e e r n h
+sễ 1.0	s e e x
+sệt 1.0	s e e j t
+sịt 1.0	s i j t
+sọ 1.0	s o j
+sọm 1.0	s o j m
+sọt 1.0	s o j t
+sỏ 1.0	s o r
+sỏi 1.0	s o r i
+số 1.0	s o o s
+sốc 1.0	s o o s c
+sống 1.0	s o o s n g
+sốt 1.0	s o o s t
+sồ 1.0	s o o f
+sồi 1.0	s o o f i
+sồn 1.0	s o o f n
+sổ 1.0	s o o r
+sỗ 1.0	s o o x
+sộ 1.0	s o o j
+sột 1.0	s o o j t
+sớ 1.0	s o w s
+sới 1.0	s o w s i
+sớm 1.0	s o w s m
+sớn 1.0	s o w s n
+sớt 1.0	s o w s t
+sờ 1.0	s o w f
+sờm 1.0	s o w f m
+sờn 1.0	s o w f n
+sở 1.0	s o w r
+sỡ 1.0	s o w x
+sợ 1.0	s o w j
+sợi 1.0	s o w j i
+sụa 1.0	s u j a
+sục 1.0	s u j c
+sụn 1.0	s u j n
+sụp 1.0	s u j p
+sụt 1.0	s u j t
+sủa 1.0	s u r a
+sủi 1.0	s u r i
+sứ 1.0	s u w s
+sứa 1.0	s u w s a
+sức 1.0	s u w s c
+sứt 1.0	s u w s t
+sừng 1.0	s u w f n g
+sử 1.0	s u w r
+sửa 1.0	s u w r a
+sửng 1.0	s u w r n g
+sữa 1.0	s u w x a
+sững 1.0	s u w x n g
+sự 1.0	s u w j
+sực 1.0	s u w j c
+sỹ 1.0	s y x
+t 1.0	t
+ta 1.0	t a
+tai 1.0	t a i
+tam 1.0	t a m
+tan 1.0	t a n
+tang 1.0	t a n g
+tanh 1.0	t a n h
+tao 1.0	t a o
+tay 1.0	t a y
+te 1.0	t e
+tem 1.0	t e m
+ten 1.0	t e n
+teo 1.0	t e o
+tha 1.0	t h a
+thai 1.0	t h a i
+tham 1.0	t h a m
+than 1.0	t h a n
+thang 1.0	t h a n g
+thanh 1.0	t h a n h
+thao 1.0	t h a o
+thay 1.0	t h a y
+the 1.0	t h e
+then 1.0	t h e n
+theo 1.0	t h e o
+thi 1.0	t h i
+thia 1.0	t h i a
+thin 1.0	t h i n
+thinh 1.0	t h i n h
+thiêm 1.0	t h i e e m
+thiên 1.0	t h i e e n
+thiêng 1.0	t h i e e n g
+thiếc 1.0	t h i e e s c
+thiếp 1.0	t h i e e s p
+thiết 1.0	t h i e e s t
+thiếu 1.0	t h i e e s u
+thiềm 1.0	t h i e e f m
+thiền 1.0	t h i e e f n
+thiều 1.0	t h i e e f u
+thiển 1.0	t h i e e r n
+thiểu 1.0	t h i e e r u
+thiện 1.0	t h i e e j n
+thiệp 1.0	t h i e e j p
+thiệt 1.0	t h i e e j t
+thiệu 1.0	t h i e e j u
+tho 1.0	t h o
+thoa 1.0	t h o a
+thoang 1.0	t h o a n g
+thoi 1.0	t h o i
+thon 1.0	t h o n
+thong 1.0	t h o n g
+thoái 1.0	t h o a s i
+thoáng 1.0	t h o a s n g
+thoát 1.0	t h o a s t
+thoăn 1.0	t h o a w n
+thoại 1.0	t h o a j i
+thoạt 1.0	t h o a j t
+thoả 1.0	t h o a r
+thoải 1.0	t h o a r i
+thoảng 1.0	t h o a r n g
+thoắt 1.0	t h o a w s t
+thu 1.0	t h u
+thua 1.0	t h u a
+thui 1.0	t h u i
+thun 1.0	t h u n
+thung 1.0	t h u n g
+thuyên 1.0	t h u y e e n
+thuyết 1.0	t h u y e e s t
+thuyền 1.0	t h u y e e f n
+thuê 1.0	t h u e e
+thuần 1.0	t h u a a f n
+thuẫn 1.0	t h u a a x n
+thuận 1.0	t h u a a j n
+thuật 1.0	t h u a a j t
+thuế 1.0	t h u e e s
+thuốc 1.0	t h u o o s c
+thuồng 1.0	t h u o o f n g
+thuộc 1.0	t h u o o j c
+thuở 1.0	t h u o w r
+thuỷ 1.0	t h u y r
+thà 1.0	t h a f
+thài 1.0	t h a f i
+thành 1.0	t h a f n h
+thào 1.0	t h a f o
+thác 1.0	t h a s c
+thách 1.0	t h a s c h
+thái 1.0	t h a s i
+thám 1.0	t h a s m
+thán 1.0	t h a s n
+tháng 1.0	t h a s n g
+thánh 1.0	t h a s n h
+tháo 1.0	t h a s o
+tháp 1.0	t h a s p
+thâm 1.0	t h a a m
+thân 1.0	t h a a n
+thâu 1.0	t h a a u
+thây 1.0	t h a a y
+thãi 1.0	t h a x i
+thèm 1.0	t h e f m
+thèo 1.0	t h e f o
+thép 1.0	t h e s p
+thét 1.0	t h e s t
+thê 1.0	t h e e
+thêm 1.0	t h e e m
+thênh 1.0	t h e e n h
+thêu 1.0	t h e e u
+thì 1.0	t h i f
+thìa 1.0	t h i f a
+thìn 1.0	t h i f n
+thình 1.0	t h i f n h
+thìu 1.0	t h i f u
+thí 1.0	t h i s
+thía 1.0	t h i s a
+thích 1.0	t h i s c h
+thím 1.0	t h i s m
+thín 1.0	t h i s n
+thính 1.0	t h i s n h
+thíp 1.0	t h i s p
+thít 1.0	t h i s t
+thò 1.0	t h o f
+thòi 1.0	t h o f i
+thòng 1.0	t h o f n g
+thó 1.0	t h o s
+thóa 1.0	t h o s a
+thóc 1.0	t h o s c
+thói 1.0	t h o s i
+thóp 1.0	t h o s p
+thót 1.0	t h o s t
+thô 1.0	t h o o
+thôi 1.0	t h o o i
+thôn 1.0	t h o o n
+thông 1.0	t h o o n g
+thõng 1.0	t h o x n g
+thù 1.0	t h u f
+thùm 1.0	t h u f m
+thùng 1.0	t h u f n g
+thùy 1.0	t h u f y
+thú 1.0	t h u s
+thúc 1.0	t h u s c
+thúng 1.0	t h u s n g
+thút 1.0	t h u s t
+thúy 1.0	t h u s y
+thăm 1.0	t h a w m
+thăng 1.0	t h a w n g
+thũng 1.0	t h u x n g
+thơ 1.0	t h o w
+thơi 1.0	t h o w i
+thơm 1.0	t h o w m
+thư 1.0	t h u w
+thưa 1.0	t h u w a
+thương 1.0	t h u w o w n g
+thước 1.0	t h u w o w s c
+thường 1.0	t h u w o w f n g
+thưởng 1.0	t h u w o w r n g
+thưỡi 1.0	t h u w o w x i
+thưỡn 1.0	t h u w o w x n
+thược 1.0	t h u w o w j c
+thượng 1.0	t h u w o w j n g
+thạc 1.0	t h a j c
+thạch 1.0	t h a j c h
+thạnh 1.0	t h a j n h
+thạo 1.0	t h a j o
+thả 1.0	t h a r
+thải 1.0	t h a r i
+thảm 1.0	t h a r m
+thản 1.0	t h a r n
+thảng 1.0	t h a r n g
+thảnh 1.0	t h a r n h
+thảo 1.0	t h a r o
+thảy 1.0	t h a r y
+thấm 1.0	t h a a s m
+thấp 1.0	t h a a s p
+thất 1.0	t h a a s t
+thấu 1.0	t h a a s u
+thấy 1.0	t h a a s y
+thầm 1.0	t h a a f m
+thần 1.0	t h a a f n
+thầu 1.0	t h a a f u
+thầy 1.0	t h a a f y
+thẩm 1.0	t h a a r m
+thẩn 1.0	t h a a r n
+thẫm 1.0	t h a a x m
+thẫn 1.0	t h a a x n
+thậm 1.0	t h a a j m
+thận 1.0	t h a a j n
+thập 1.0	t h a a j p
+thật 1.0	t h a a j t
+thắc 1.0	t h a w s c
+thắn 1.0	t h a w s n
+thắng 1.0	t h a w s n g
+thắp 1.0	t h a w s p
+thắt 1.0	t h a w s t
+thằn 1.0	t h a w f n
+thằng 1.0	t h a w f n g
+thẳm 1.0	t h a w r m
+thẳng 1.0	t h a w r n g
+thẻ 1.0	t h e r
+thế 1.0	t h e e s
+thếch 1.0	t h e e s c h
+thếp 1.0	t h e e s p
+thề 1.0	t h e e f
+thềm 1.0	t h e e f m
+thều 1.0	t h e e f u
+thể 1.0	t h e e r
+thệ 1.0	t h e e j
+thỉ 1.0	t h i r
+thỉnh 1.0	t h i r n h
+thị 1.0	t h i j
+thịch 1.0	t h i j c h
+thịnh 1.0	t h i j n h
+thịt 1.0	t h i j t
+thịu 1.0	t h i j u
+thọ 1.0	t h o j
+thọc 1.0	t h o j c
+thọt 1.0	t h o j t
+thỏ 1.0	t h o r
+thỏa 1.0	t h o r a
+thỏi 1.0	t h o r i
+thỏm 1.0	t h o r m
+thố 1.0	t h o o s
+thốc 1.0	t h o o s c
+thối 1.0	t h o o s i
+thốn 1.0	t h o o s n
+thống 1.0	t h o o s n g
+thốt 1.0	t h o o s t
+thồ 1.0	t h o o f
+thồi 1.0	t h o o f i
+thồn 1.0	t h o o f n
+thổ 1.0	t h o o r
+thổi 1.0	t h o o r i
+thộp 1.0	t h o o j p
+thới 1.0	t h o w s i
+thớt 1.0	t h o w s t
+thờ 1.0	t h o w f
+thời 1.0	t h o w f i
+thở 1.0	t h o w r
+thợ 1.0	t h o w j
+thụ 1.0	t h u j
+thục 1.0	t h u j c
+thụng 1.0	t h u j n g
+thụp 1.0	t h u j p
+thụt 1.0	t h u j t
+thụy 1.0	t h u j y
+thủ 1.0	t h u r
+thủa 1.0	t h u r a
+thủi 1.0	t h u r i
+thủng 1.0	t h u r n g
+thủy 1.0	t h u r y
+thứ 1.0	t h u w s
+thức 1.0	t h u w s c
+thừ 1.0	t h u w f
+thừa 1.0	t h u w f a
+thừng 1.0	t h u w f n g
+thử 1.0	t h u w r
+thửa 1.0	t h u w r a
+thững 1.0	t h u w x n g
+thự 1.0	t h u w j
+thực 1.0	t h u w j c
+ti 1.0	t i
+tia 1.0	t i a
+tim 1.0	t i m
+tin 1.0	t i n
+tinh 1.0	t i n h
+tiu 1.0	t i u
+tiêm 1.0	t i e e m
+tiên 1.0	t i e e n
+tiêu 1.0	t i e e u
+tiếc 1.0	t i e e s c
+tiếm 1.0	t i e e s m
+tiến 1.0	t i e e s n
+tiếng 1.0	t i e e s n g
+tiếp 1.0	t i e e s p
+tiết 1.0	t i e e s t
+tiếu 1.0	t i e e s u
+tiềm 1.0	t i e e f m
+tiền 1.0	t i e e f n
+tiểu 1.0	t i e e r u
+tiễn 1.0	t i e e x n
+tiễu 1.0	t i e e x u
+tiệc 1.0	t i e e j c
+tiệm 1.0	t i e e j m
+tiện 1.0	t i e e j n
+to 1.0	t o
+toa 1.0	t o a
+toan 1.0	t o a n
+toanh 1.0	t o a n h
+toe 1.0	t o e
+tong 1.0	t o n g
+top 1.0	t o p
+toà 1.0	t o a f
+toài 1.0	t o a f i
+toàn 1.0	t o a f n
+toái 1.0	t o a s i
+toán 1.0	t o a s n
+toát 1.0	t o a s t
+toét 1.0	t o e s t
+toạc 1.0	t o a j c
+toả 1.0	t o a r
+toản 1.0	t o a r n
+toẹt 1.0	t o e j t
+tra 1.0	t r a
+trai 1.0	t r a i
+trang 1.0	t r a n g
+tranh 1.0	t r a n h
+trao 1.0	t r a o
+trau 1.0	t r a u
+tre 1.0	t r e
+treo 1.0	t r e o
+tri 1.0	t r i
+trinh 1.0	t r i n h
+triêng 1.0	t r i e e n g
+triết 1.0	t r i e e s t
+triền 1.0	t r i e e f n
+triềng 1.0	t r i e e f n g
+triều 1.0	t r i e e f u
+triển 1.0	t r i e e r n
+triệng 1.0	t r i e e j n g
+triệt 1.0	t r i e e j t
+triệu 1.0	t r i e e j u
+tro 1.0	t r o
+trong 1.0	t r o n g
+tru 1.0	t r u
+trung 1.0	t r u n g
+truy 1.0	t r u y
+truyền 1.0	t r u y e e f n
+truyện 1.0	t r u y e e j n
+truân 1.0	t r u a a n
+truật 1.0	t r u a a j t
+truồng 1.0	t r u o o f n g
+trà 1.0	t r a f
+trài 1.0	t r a f i
+tràm 1.0	t r a f m
+tràn 1.0	t r a f n
+tràng 1.0	t r a f n g
+trành 1.0	t r a f n h
+trào 1.0	t r a f o
+trá 1.0	t r a s
+trách 1.0	t r a s c h
+trái 1.0	t r a s i
+trám 1.0	t r a s m
+trán 1.0	t r a s n
+tráng 1.0	t r a s n g
+tránh 1.0	t r a s n h
+tráo 1.0	t r a s o
+tráp 1.0	t r a s p
+trát 1.0	t r a s t
+trâm 1.0	t r a a m
+trân 1.0	t r a a n
+trâu 1.0	t r a a u
+trã 1.0	t r a x
+trãi 1.0	t r a x i
+trèo 1.0	t r e f o
+trém 1.0	t r e s m
+tréo 1.0	t r e s o
+trê 1.0	t r e e
+trên 1.0	t r e e n
+trêu 1.0	t r e e u
+trì 1.0	t r i f
+trình 1.0	t r i f n h
+trìu 1.0	t r i f u
+trí 1.0	t r i s
+trích 1.0	t r i s c h
+trò 1.0	t r o f
+tròn 1.0	t r o f n
+tròng 1.0	t r o f n g
+tróc 1.0	t r o s c
+tróng 1.0	t r o s n g
+trót 1.0	t r o s t
+trôi 1.0	t r o o i
+trôm 1.0	t r o o m
+trông 1.0	t r o o n g
+trõn 1.0	t r o x n
+trù 1.0	t r u f
+trùi 1.0	t r u f i
+trùm 1.0	t r u f m
+trùn 1.0	t r u f n
+trùng 1.0	t r u f n g
+trú 1.0	t r u s
+trúc 1.0	t r u s c
+trúm 1.0	t r u s m
+trúng 1.0	t r u s n g
+trút 1.0	t r u s t
+trăm 1.0	t r a w m
+trăn 1.0	t r a w n
+trăng 1.0	t r a w n g
+trĩ 1.0	t r i x
+trĩu 1.0	t r i x u
+trũng 1.0	t r u x n g
+trơ 1.0	t r o w
+trơi 1.0	t r o w i
+trơn 1.0	t r o w n
+trư 1.0	t r u w
+trưa 1.0	t r u w a
+trưng 1.0	t r u w n g
+trương 1.0	t r u w o w n g
+trước 1.0	t r u w o w s c
+trướng 1.0	t r u w o w s n g
+trường 1.0	t r u w o w f n g
+trưởng 1.0	t r u w o w r n g
+trưỡng 1.0	t r u w o w x n g
+trượt 1.0	t r u w o w j t
+trạc 1.0	t r a j c
+trại 1.0	t r a j i
+trạm 1.0	t r a j m
+trạng 1.0	t r a j n g
+trả 1.0	t r a r
+trải 1.0	t r a r i
+trảo 1.0	t r a r o
+trảu 1.0	t r a r u
+trấn 1.0	t r a a s n
+trấu 1.0	t r a a s u
+trầm 1.0	t r a a f m
+trần 1.0	t r a a f n
+trầu 1.0	t r a a f u
+trầy 1.0	t r a a f y
+trẫm 1.0	t r a a x m
+trận 1.0	t r a a j n
+trật 1.0	t r a a j t
+trắc 1.0	t r a w s c
+trắng 1.0	t r a w s n g
+trằn 1.0	t r a w f n
+trặc 1.0	t r a w j c
+trặn 1.0	t r a w j n
+trẹo 1.0	t r e j o
+trẻ 1.0	t r e r
+trẽn 1.0	t r e x n
+trếch 1.0	t r e e s c h
+trề 1.0	t r e e f
+trễ 1.0	t r e e x
+trệ 1.0	t r e e j
+trệt 1.0	t r e e j t
+trị 1.0	t r i j
+trịa 1.0	t r i j a
+trịch 1.0	t r i j c h
+trịnh 1.0	t r i j n h
+trịt 1.0	t r i j t
+trọ 1.0	t r o j
+trọc 1.0	t r o j c
+trọi 1.0	t r o j i
+trọn 1.0	t r o j n
+trọng 1.0	t r o j n g
+trọt 1.0	t r o j t
+trỏ 1.0	t r o r
+trốn 1.0	t r o o s n
+trống 1.0	t r o o s n g
+trồ 1.0	t r o o f
+trồi 1.0	t r o o f i
+trồng 1.0	t r o o f n g
+trổ 1.0	t r o o r
+trộ 1.0	t r o o j
+trộm 1.0	t r o o j m
+trộn 1.0	t r o o j n
+trớ 1.0	t r o w s
+trớn 1.0	t r o w s n
+trớt 1.0	t r o w s t
+trờ 1.0	t r o w f
+trời 1.0	t r o w f i
+trở 1.0	t r o w r
+trợ 1.0	t r o w j
+trợn 1.0	t r o w j n
+trợt 1.0	t r o w j t
+trụ 1.0	t r u j
+trụa 1.0	t r u j a
+trục 1.0	t r u j c
+trụi 1.0	t r u j i
+trụt 1.0	t r u j t
+trụy 1.0	t r u j y
+trứ 1.0	t r u w s
+trứng 1.0	t r u w s n g
+trừ 1.0	t r u w f
+trừng 1.0	t r u w f n g
+trửng 1.0	t r u w r n g
+trữ 1.0	t r u w x
+trực 1.0	t r u w j c
+tu 1.0	t u
+tua 1.0	t u a
+tui 1.0	t u i
+tum 1.0	t u m
+tung 1.0	t u n g
+tuy 1.0	t u y
+tuyên 1.0	t u y e e n
+tuyến 1.0	t u y e e s n
+tuyết 1.0	t u y e e s t
+tuyền 1.0	t u y e e f n
+tuyển 1.0	t u y e e r n
+tuyệt 1.0	t u y e e j t
+tuân 1.0	t u a a n
+tuôn 1.0	t u o o n
+tuông 1.0	t u o o n g
+tuấn 1.0	t u a a s n
+tuần 1.0	t u a a f n
+tuế 1.0	t u e e s
+tuệ 1.0	t u e e j
+tuệch 1.0	t u e e j c h
+tuốt 1.0	t u o o s t
+tuồn 1.0	t u o o f n
+tuồng 1.0	t u o o f n g
+tuổi 1.0	t u o o r i
+tuột 1.0	t u o o j t
+tuỳ 1.0	t u y f
+ty 1.0	t y
+tà 1.0	t a f
+tài 1.0	t a f i
+tàn 1.0	t a f n
+tàng 1.0	t a f n g
+tành 1.0	t a f n h
+tào 1.0	t a f o
+tàu 1.0	t a f u
+tày 1.0	t a f y
+tá 1.0	t a s
+tác 1.0	t a s c
+tách 1.0	t a s c h
+tái 1.0	t a s i
+tám 1.0	t a s m
+tán 1.0	t a s n
+táng 1.0	t a s n g
+tánh 1.0	t a s n h
+táo 1.0	t a s o
+táp 1.0	t a s p
+tát 1.0	t a s t
+táy 1.0	t a s y
+tâm 1.0	t a a m
+tân 1.0	t a a n
+tây 1.0	t a a y
+tã 1.0	t a x
+tãi 1.0	t a x i
+tè 1.0	t e f
+tèn 1.0	t e f n
+té 1.0	t e s
+téc 1.0	t e s c
+tém 1.0	t e s m
+tén 1.0	t e s n
+tép 1.0	t e s p
+tét 1.0	t e s t
+tê 1.0	t e e
+tên 1.0	t e e n
+tì 1.0	t i f
+tìm 1.0	t i f m
+tình 1.0	t i f n h
+tí 1.0	t i s
+tía 1.0	t i s a
+tích 1.0	t i s c h
+tím 1.0	t i s m
+tín 1.0	t i s n
+tính 1.0	t i s n h
+típ 1.0	t i s p
+tít 1.0	t i s t
+tíu 1.0	t i s u
+tò 1.0	t o f
+tòa 1.0	t o f a
+tòe 1.0	t o f e
+tòi 1.0	t o f i
+tòm 1.0	t o f m
+tòng 1.0	t o f n g
+tóc 1.0	t o s c
+tóe 1.0	t o s e
+tóm 1.0	t o s m
+tóp 1.0	t o s p
+tô 1.0	t o o
+tôi 1.0	t o o i
+tôm 1.0	t o o m
+tôn 1.0	t o o n
+tông 1.0	t o o n g
+tù 1.0	t u f
+tùa 1.0	t u f a
+tùng 1.0	t u f n g
+tùy 1.0	t u f y
+tú 1.0	t u s
+túc 1.0	t u s c
+túi 1.0	t u s i
+túm 1.0	t u s m
+túng 1.0	t u s n g
+tút 1.0	t u s t
+túy 1.0	t u s y
+tý 1.0	t y s
+tăm 1.0	t a w m
+tăn 1.0	t a w n
+tăng 1.0	t a w n g
+tĩnh 1.0	t i x n h
+tũm 1.0	t u x m
+tơ 1.0	t o w
+tơi 1.0	t o w i
+tư 1.0	t u w
+tưa 1.0	t u w a
+tưng 1.0	t u w n g
+tươi 1.0	t u w o w i
+tươm 1.0	t u w o w m
+tương 1.0	t u w o w n g
+tước 1.0	t u w o w s c
+tưới 1.0	t u w o w s i
+tướng 1.0	t u w o w s n g
+tườm 1.0	t u w o w f m
+tường 1.0	t u w o w f n g
+tườu 1.0	t u w o w f u
+tưởi 1.0	t u w o w r i
+tưởng 1.0	t u w o w r n g
+tượng 1.0	t u w o w j n g
+tượp 1.0	t u w o w j p
+tạ 1.0	t a j
+tạch 1.0	t a j c h
+tại 1.0	t a j i
+tạm 1.0	t a j m
+tạng 1.0	t a j n g
+tạo 1.0	t a j o
+tạp 1.0	t a j p
+tạt 1.0	t a j t
+tả 1.0	t a r
+tải 1.0	t a r i
+tản 1.0	t a r n
+tảng 1.0	t a r n g
+tảo 1.0	t a r o
+tấc 1.0	t a a s c
+tấm 1.0	t a a s m
+tấn 1.0	t a a s n
+tấp 1.0	t a a s p
+tất 1.0	t a a s t
+tấu 1.0	t a a s u
+tấy 1.0	t a a s y
+tầm 1.0	t a a f m
+tần 1.0	t a a f n
+tầng 1.0	t a a f n g
+tầy 1.0	t a a f y
+tẩm 1.0	t a a r m
+tẩn 1.0	t a a r n
+tẩy 1.0	t a a r y
+tậm 1.0	t a a j m
+tận 1.0	t a a j n
+tập 1.0	t a a j p
+tật 1.0	t a a j t
+tắc 1.0	t a w s c
+tắm 1.0	t a w s m
+tắn 1.0	t a w s n
+tắt 1.0	t a w s t
+tằm 1.0	t a w f m
+tẳn 1.0	t a w r n
+tặc 1.0	t a w j c
+tặng 1.0	t a w j n g
+tẹo 1.0	t e j o
+tẹp 1.0	t e j p
+tẻ 1.0	t e r
+tế 1.0	t e e s
+tết 1.0	t e e s t
+tếu 1.0	t e e s u
+tể 1.0	t e e r
+tễ 1.0	t e e x
+tễnh 1.0	t e e x n h
+tệ 1.0	t e e j
+tệp 1.0	t e e j p
+tỉ 1.0	t i r
+tỉa 1.0	t i r a
+tỉm 1.0	t i r m
+tỉnh 1.0	t i r n h
+tị 1.0	t i j
+tịch 1.0	t i j c h
+tịnh 1.0	t i j n h
+tọa 1.0	t o j a
+tọc 1.0	t o j c
+tọp 1.0	t o j p
+tỏ 1.0	t o r
+tỏa 1.0	t o r a
+tỏi 1.0	t o r i
+tố 1.0	t o o s
+tốc 1.0	t o o s c
+tối 1.0	t o o s i
+tốn 1.0	t o o s n
+tống 1.0	t o o s n g
+tốp 1.0	t o o s p
+tốt 1.0	t o o s t
+tồi 1.0	t o o f i
+tồn 1.0	t o o f n
+tổ 1.0	t o o r
+tổn 1.0	t o o r n
+tổng 1.0	t o o r n g
+tộc 1.0	t o o j c
+tội 1.0	t o o j i
+tột 1.0	t o o j t
+tớ 1.0	t o w s
+tới 1.0	t o w s i
+tớn 1.0	t o w s n
+tờ 1.0	t o w f
+tởm 1.0	t o w r m
+tợ 1.0	t o w j
+tợp 1.0	t o w j p
+tụ 1.0	t u j
+tục 1.0	t u j c
+tụi 1.0	t u j i
+tụm 1.0	t u j m
+tụng 1.0	t u j n g
+tụt 1.0	t u j t
+tụy 1.0	t u j y
+tủ 1.0	t u r
+tủi 1.0	t u r i
+tủm 1.0	t u r m
+tủn 1.0	t u r n
+tủy 1.0	t u r y
+tứ 1.0	t u w s
+tức 1.0	t u w s c
+từ 1.0	t u w f
+từng 1.0	t u w f n g
+tử 1.0	t u w r
+tửa 1.0	t u w r a
+tửu 1.0	t u w r u
+tự 1.0	t u w j
+tựa 1.0	t u w j a
+tựu 1.0	t u w j u
+tỵ 1.0	t y j
+tỷ 1.0	t y r
+u 1.0	u
+ung 1.0	u n g
+uy 1.0	u y
+uyên 1.0	u y e e n
+uyển 1.0	u y e e r n
+uất 1.0	u a a s t
+uế 1.0	u e e s
+uể 1.0	u e e r
+uốn 1.0	u o o s n
+uống 1.0	u o o s n g
+uột 1.0	u o o j t
+uỵch 1.0	u y j c h
+uỷ 1.0	u y r
+v 1.0	v
+va 1.0	v a
+vai 1.0	v a i
+van 1.0	v a n
+vang 1.0	v a n g
+vanh 1.0	v a n h
+vao 1.0	v a o
+vay 1.0	v a y
+ve 1.0	v e
+ven 1.0	v e n
+veo 1.0	v e o
+vi 1.0	v i
+vinh 1.0	v i n h
+viêm 1.0	v i e e m
+viên 1.0	v i e e n
+viếng 1.0	v i e e s n g
+viết 1.0	v i e e s t
+viền 1.0	v i e e f n
+viển 1.0	v i e e r n
+viễn 1.0	v i e e x n
+việc 1.0	v i e e j c
+viện 1.0	v i e e j n
+việt 1.0	v i e e j t
+vo 1.0	v o
+voi 1.0	v o i
+von 1.0	v o n
+vong 1.0	v o n g
+vu 1.0	v u
+vua 1.0	v u a
+vui 1.0	v u i
+vun 1.0	v u n
+vung 1.0	v u n g
+vuông 1.0	v u o o n g
+vuốt 1.0	v u o o s t
+vuột 1.0	v u o o j t
+vy 1.0	v y
+và 1.0	v a f
+vài 1.0	v a f i
+vàn 1.0	v a f n
+vàng 1.0	v a f n g
+vành 1.0	v a f n h
+vào 1.0	v a f o
+vày 1.0	v a f y
+vá 1.0	v a s
+vác 1.0	v a s c
+vách 1.0	v a s c h
+vái 1.0	v a s i
+ván 1.0	v a s n
+váng 1.0	v a s n g
+vánh 1.0	v a s n h
+vát 1.0	v a s t
+váy 1.0	v a s y
+vân 1.0	v a a n
+vâng 1.0	v a a n g
+vây 1.0	v a a y
+vã 1.0	v a x
+vãi 1.0	v a x i
+vãnh 1.0	v a x n h
+vèo 1.0	v e f o
+vé 1.0	v e s
+vén 1.0	v e s n
+vét 1.0	v e s t
+vê 1.0	v e e
+vên 1.0	v e e n
+vênh 1.0	v e e n h
+vì 1.0	v i f
+ví 1.0	v i s
+vía 1.0	v i s a
+vít 1.0	v i s t
+víu 1.0	v i s u
+vò 1.0	v o f
+vòi 1.0	v o f i
+vòm 1.0	v o f m
+vòng 1.0	v o f n g
+vó 1.0	v o s
+vóc 1.0	v o s c
+vót 1.0	v o s t
+vô 1.0	v o o
+vôi 1.0	v o o i
+vông 1.0	v o o n g
+võ 1.0	v o x
+võng 1.0	v o x n g
+vù 1.0	v u f
+vùi 1.0	v u f i
+vùn 1.0	v u f n
+vùng 1.0	v u f n g
+vú 1.0	v u s
+vút 1.0	v u s t
+văn 1.0	v a w n
+văng 1.0	v a w n g
+vĩ 1.0	v i x
+vĩnh 1.0	v i x n h
+vũ 1.0	v u x
+vũng 1.0	v u x n g
+vơ 1.0	v o w
+vươn 1.0	v u w o w n
+vương 1.0	v u w o w n g
+vướng 1.0	v u w o w s n g
+vườn 1.0	v u w o w f n
+vưởng 1.0	v u w o w r n g
+vượng 1.0	v u w o w j n g
+vượt 1.0	v u w o w j t
+vạ 1.0	v a j
+vạc 1.0	v a j c
+vạch 1.0	v a j c h
+vại 1.0	v a j i
+vạm 1.0	v a j m
+vạn 1.0	v a j n
+vạt 1.0	v a j t
+vả 1.0	v a r
+vải 1.0	v a r i
+vảng 1.0	v a r n g
+vảy 1.0	v a r y
+vấn 1.0	v a a s n
+vấp 1.0	v a a s p
+vất 1.0	v a a s t
+vấu 1.0	v a a s u
+vấy 1.0	v a a s y
+vần 1.0	v a a f n
+vầng 1.0	v a a f n g
+vầy 1.0	v a a f y
+vẩn 1.0	v a a r n
+vẩy 1.0	v a a r y
+vẫn 1.0	v a a x n
+vẫy 1.0	v a a x y
+vận 1.0	v a a j n
+vật 1.0	v a a j t
+vậy 1.0	v a a j y
+vắc 1.0	v a w s c
+vắn 1.0	v a w s n
+vắng 1.0	v a w s n g
+vắt 1.0	v a w s t
+vằn 1.0	v a w f n
+vằng 1.0	v a w f n g
+vẳng 1.0	v a w r n g
+vặc 1.0	v a w j c
+vặn 1.0	v a w j n
+vặt 1.0	v a w j t
+vẹn 1.0	v e j n
+vẹo 1.0	v e j o
+vẹt 1.0	v e j t
+vẻ 1.0	v e r
+vẽ 1.0	v e x
+vế 1.0	v e e s
+vếch 1.0	v e e s c h
+vết 1.0	v e e s t
+về 1.0	v e e f
+vệ 1.0	v e e j
+vện 1.0	v e e j n
+vệt 1.0	v e e j t
+vỉ 1.0	v i r
+vỉa 1.0	v i r a
+vị 1.0	v i j
+vịm 1.0	v i j m
+vịn 1.0	v i j n
+vịnh 1.0	v i j n h
+vịt 1.0	v i j t
+vọng 1.0	v o j n g
+vọt 1.0	v o j t
+vỏ 1.0	v o r
+vỏn 1.0	v o r n
+vốn 1.0	v o o s n
+vồng 1.0	v o o f n g
+vỗ 1.0	v o o x
+vội 1.0	v o o j i
+vớ 1.0	v o w s
+với 1.0	v o w s i
+vớt 1.0	v o w s t
+vờ 1.0	v o w f
+vời 1.0	v o w f i
+vờn 1.0	v o w f n
+vở 1.0	v o w r
+vởn 1.0	v o w r n
+vỡ 1.0	v o w x
+vợ 1.0	v o w j
+vợi 1.0	v o w j i
+vợt 1.0	v o w j t
+vụ 1.0	v u j
+vụn 1.0	v u j n
+vụng 1.0	v u j n g
+vụt 1.0	v u j t
+vứt 1.0	v u w s t
+vừa 1.0	v u w f a
+vừng 1.0	v u w f n g
+vửng 1.0	v u w r n g
+vữa 1.0	v u w x a
+vững 1.0	v u w x n g
+vực 1.0	v u w j c
+x 1.0	x
+xa 1.0	x a
+xang 1.0	x a n g
+xanh 1.0	x a n h
+xao 1.0	x a o
+xay 1.0	x a y
+xe 1.0	x e
+xem 1.0	x e m
+xen 1.0	x e n
+xeo 1.0	x e o
+xi 1.0	x i
+xia 1.0	x i a
+xin 1.0	x i n
+xinh 1.0	x i n h
+xiêm 1.0	x i e e m
+xiêu 1.0	x i e e u
+xiếc 1.0	x i e e s c
+xiết 1.0	x i e e s t
+xiềng 1.0	x i e e f n g
+xoa 1.0	x o a
+xoan 1.0	x o a n
+xoang 1.0	x o a n g
+xoay 1.0	x o a y
+xoe 1.0	x o e
+xoen 1.0	x o e n
+xoi 1.0	x o i
+xom 1.0	x o m
+xon 1.0	x o n
+xong 1.0	x o n g
+xoài 1.0	x o a f i
+xoàn 1.0	x o a f n
+xoàng 1.0	x o a f n g
+xoá 1.0	x o a s
+xoáy 1.0	x o a s y
+xoè 1.0	x o e f
+xoèn 1.0	x o e f n
+xoét 1.0	x o e s t
+xoăn 1.0	x o a w n
+xoạc 1.0	x o a j c
+xoảng 1.0	x o a r n g
+xoắn 1.0	x o a w s n
+xoẹt 1.0	x o e j t
+xu 1.0	x u
+xua 1.0	x u a
+xui 1.0	x u i
+xum 1.0	x u m
+xung 1.0	x u n g
+xuyên 1.0	x u y e e n
+xuyến 1.0	x u y e e s n
+xuân 1.0	x u a a n
+xuê 1.0	x u e e
+xuôi 1.0	x u o o i
+xuất 1.0	x u a a s t
+xuẩn 1.0	x u a a r n
+xuể 1.0	x u e e r
+xuống 1.0	x u o o s n g
+xuồng 1.0	x u o o f n g
+xy 1.0	x y
+xà 1.0	x a f
+xài 1.0	x a f i
+xàm 1.0	x a f m
+xàng 1.0	x a f n g
+xào 1.0	x a f o
+xá 1.0	x a s
+xác 1.0	x a s c
+xách 1.0	x a s c h
+xám 1.0	x a s m
+xán 1.0	x a s n
+xáo 1.0	x a s o
+xát 1.0	x a s t
+xâm 1.0	x a a m
+xâu 1.0	x a a u
+xây 1.0	x a a y
+xã 1.0	x a x
+xè 1.0	x e f
+xèng 1.0	x e f n g
+xèo 1.0	x e f o
+xé 1.0	x e s
+xét 1.0	x e s t
+xê 1.0	x e e
+xênh 1.0	x e e n h
+xì 1.0	x i f
+xình 1.0	x i f n h
+xìu 1.0	x i f u
+xí 1.0	x i s
+xích 1.0	x i s c h
+xính 1.0	x i s n h
+xít 1.0	x i s t
+xíu 1.0	x i s u
+xòa 1.0	x o f a
+xòng 1.0	x o f n g
+xó 1.0	x o s
+xóa 1.0	x o s a
+xóc 1.0	x o s c
+xóm 1.0	x o s m
+xót 1.0	x o s t
+xô 1.0	x o o
+xôi 1.0	x o o i
+xôm 1.0	x o o m
+xôn 1.0	x o o n
+xông 1.0	x o o n g
+xõa 1.0	x o x a
+xù 1.0	x u f
+xùm 1.0	x u f m
+xúc 1.0	x u s c
+xúm 1.0	x u s m
+xúng 1.0	x u s n g
+xăm 1.0	x a w m
+xăng 1.0	x a w n g
+xơ 1.0	x o w
+xơi 1.0	x o w i
+xưa 1.0	x u w a
+xưng 1.0	x u w n g
+xương 1.0	x u w o w n g
+xướng 1.0	x u w o w s n g
+xưởng 1.0	x u w o w r n g
+xạ 1.0	x a j
+xạc 1.0	x a j c
+xạch 1.0	x a j c h
+xạo 1.0	x a j o
+xạp 1.0	x a j p
+xả 1.0	x a r
+xảm 1.0	x a r m
+xảo 1.0	x a r o
+xảy 1.0	x a r y
+xấu 1.0	x a a s u
+xẩm 1.0	x a a r m
+xẩy 1.0	x a a r y
+xắc 1.0	x a w s c
+xắn 1.0	x a w s n
+xắp 1.0	x a w s p
+xắt 1.0	x a w s t
+xẵng 1.0	x a w x n g
+xẹo 1.0	x e j o
+xẹp 1.0	x e j p
+xẻ 1.0	x e r
+xẻng 1.0	x e r n g
+xế 1.0	x e e s
+xếch 1.0	x e e s c h
+xếp 1.0	x e e s p
+xềnh 1.0	x e e f n h
+xể 1.0	x e e r
+xệch 1.0	x e e j c h
+xỉ 1.0	x i r
+xỉa 1.0	x i r a
+xỉn 1.0	x i r n
+xỉnh 1.0	x i r n h
+xỉu 1.0	x i r u
+xị 1.0	x i j
+xịch 1.0	x i j c h
+xịt 1.0	x i j t
+xọc 1.0	x o j c
+xọp 1.0	x o j p
+xỏ 1.0	x o r
+xốc 1.0	x o o s c
+xối 1.0	x o o s i
+xốn 1.0	x o o s n
+xống 1.0	x o o s n g
+xốp 1.0	x o o s p
+xồng 1.0	x o o f n g
+xổ 1.0	x o o r
+xổi 1.0	x o o r i
+xổm 1.0	x o o r m
+xổng 1.0	x o o r n g
+xộc 1.0	x o o j c
+xộn 1.0	x o o j n
+xới 1.0	x o w s i
+xớt 1.0	x o w s t
+xở 1.0	x o w r
+xởi 1.0	x o w r i
+xợt 1.0	x o w j t
+xụ 1.0	x u j
+xục 1.0	x u j c
+xụi 1.0	x u j i
+xụp 1.0	x u j p
+xứ 1.0	x u w s
+xứng 1.0	x u w s n g
+xử 1.0	x u w r
+xửa 1.0	x u w r a
+xửng 1.0	x u w r n g
+y 1.0	y
+yên 1.0	y e e n
+yêng 1.0	y e e n g
+yêu 1.0	y e e u
+yếm 1.0	y e e s m
+yến 1.0	y e e s n
+yếu 1.0	y e e s u
+yểm 1.0	y e e r m
+à 1.0	a f
+ào 1.0	a f o
+á 1.0	a s
+ác 1.0	a s c
+ách 1.0	a s c h
+ái 1.0	a s i
+ám 1.0	a s m
+án 1.0	a s n
+áng 1.0	a s n g
+ánh 1.0	a s n h
+áo 1.0	a s o
+áp 1.0	a s p
+át 1.0	a s t
+áy 1.0	a s y
+âm 1.0	a a m
+ân 1.0	a a n
+âu 1.0	a a u
+ây 1.0	a a y
+ã 1.0	a x
+è 1.0	e f
+èo 1.0	e f o
+é 1.0	e s
+én 1.0	e s n
+éo 1.0	e s o
+ép 1.0	e s p
+ê 1.0	e e
+êm 1.0	e e m
+ì 1.0	i f
+í 1.0	i s
+ích 1.0	i s c h
+ít 1.0	i s t
+òa 1.0	o f a
+òng 1.0	o f n g
+óc 1.0	o s c
+óe 1.0	o s e
+ói 1.0	o s i
+óng 1.0	o s n g
+ô 1.0	o o
+ôi 1.0	o o i
+ôm 1.0	o o m
+ôn 1.0	o o n
+ông 1.0	o o n g
+ù 1.0	u f
+ùa 1.0	u f a
+ùn 1.0	u f n
+ú 1.0	u s
+úa 1.0	u s a
+úm 1.0	u s m
+úng 1.0	u s n g
+úp 1.0	u s p
+út 1.0	u s t
+úy 1.0	u s y
+ý 1.0	y s
+ăm 1.0	a w m
+ăn 1.0	a w n
+đa 1.0	d d a
+đai 1.0	d d a i
+đam 1.0	d d a m
+đan 1.0	d d a n
+đang 1.0	d d a n g
+đanh 1.0	d d a n h
+đao 1.0	d d a o
+đau 1.0	d d a u
+đay 1.0	d d a y
+đe 1.0	d d e
+đem 1.0	d d e m
+đen 1.0	d d e n
+đeo 1.0	d d e o
+đi 1.0	d d i
+đia 1.0	d d i a
+đinh 1.0	d d i n h
+điên 1.0	d d i e e n
+điêu 1.0	d d i e e u
+điếc 1.0	d d i e e s c
+điếm 1.0	d d i e e s m
+điếu 1.0	d d i e e s u
+điềm 1.0	d d i e e f m
+điền 1.0	d d i e e f n
+điều 1.0	d d i e e f u
+điểm 1.0	d d i e e r m
+điển 1.0	d d i e e r n
+điểu 1.0	d d i e e r u
+điệm 1.0	d d i e e j m
+điện 1.0	d d i e e j n
+điệp 1.0	d d i e e j p
+điệu 1.0	d d i e e j u
+đo 1.0	d d o
+đoan 1.0	d d o a n
+đom 1.0	d d o m
+đong 1.0	d d o n g
+đoài 1.0	d d o a f i
+đoàn 1.0	d d o a f n
+đoàng 1.0	d d o a f n g
+đoán 1.0	d d o a s n
+đoạn 1.0	d d o a j n
+đoạt 1.0	d d o a j t
+đoảng 1.0	d d o a r n g
+đu 1.0	d d u
+đua 1.0	d d u a
+đui 1.0	d d u i
+đun 1.0	d d u n
+đung 1.0	d d u n g
+đuôi 1.0	d d u o o i
+đuốc 1.0	d d u o o s c
+đuối 1.0	d d u o o s i
+đuổi 1.0	d d u o o r i
+đuột 1.0	d d u o o j t
+đà 1.0	d d a f
+đài 1.0	d d a f i
+đàm 1.0	d d a f m
+đàn 1.0	d d a f n
+đàng 1.0	d d a f n g
+đành 1.0	d d a f n h
+đào 1.0	d d a f o
+đá 1.0	d d a s
+đác 1.0	d d a s c
+đái 1.0	d d a s i
+đám 1.0	d d a s m
+đáng 1.0	d d a s n g
+đánh 1.0	d d a s n h
+đáo 1.0	d d a s o
+đáp 1.0	d d a s p
+đáy 1.0	d d a s y
+đâm 1.0	d d a a m
+đâu 1.0	d d a a u
+đây 1.0	d d a a y
+đã 1.0	d d a x
+đãi 1.0	d d a x i
+đãng 1.0	d d a x n g
+đè 1.0	d d e f
+đèn 1.0	d d e f n
+đèo 1.0	d d e f o
+đéc 1.0	d d e s c
+đéo 1.0	d d e s o
+đê 1.0	d d e e
+đêm 1.0	d d e e m
+đênh 1.0	d d e e n h
+đêu 1.0	d d e e u
+đìa 1.0	d d i f a
+đình 1.0	d d i f n h
+đìu 1.0	d d i f u
+đích 1.0	d d i s c h
+đính 1.0	d d i s n h
+đít 1.0	d d i s t
+đò 1.0	d d o f
+đòi 1.0	d d o f i
+đòm 1.0	d d o f m
+đòn 1.0	d d o f n
+đòng 1.0	d d o f n g
+đó 1.0	d d o s
+đóa 1.0	d d o s a
+đói 1.0	d d o s i
+đóm 1.0	d d o s m
+đón 1.0	d d o s n
+đóng 1.0	d d o s n g
+đô 1.0	d d o o
+đôi 1.0	d d o o i
+đôn 1.0	d d o o n
+đông 1.0	d d o o n g
+đùa 1.0	d d u f a
+đùi 1.0	d d u f i
+đùm 1.0	d d u f m
+đùng 1.0	d d u f n g
+đú 1.0	d d u s
+đúc 1.0	d d u s c
+đúm 1.0	d d u s m
+đúng 1.0	d d u s n g
+đúp 1.0	d d u s p
+đút 1.0	d d u s t
+đăng 1.0	d d a w n g
+đĩ 1.0	d d i x
+đĩa 1.0	d d i x a
+đũa 1.0	d d u x a
+đũng 1.0	d d u x n g
+đơ 1.0	d d o w
+đơm 1.0	d d o w m
+đơn 1.0	d d o w n
+đưa 1.0	d d u w a
+đương 1.0	d d u w o w n g
+đước 1.0	d d u w o w s c
+đường 1.0	d d u w o w f n g
+được 1.0	d d u w o w j c
+đạc 1.0	d d a j c
+đạch 1.0	d d a j c h
+đại 1.0	d d a j i
+đạm 1.0	d d a j m
+đạn 1.0	d d a j n
+đạo 1.0	d d a j o
+đạp 1.0	d d a j p
+đạt 1.0	d d a j t
+đả 1.0	d d a r
+đảm 1.0	d d a r m
+đản 1.0	d d a r n
+đảng 1.0	d d a r n g
+đảo 1.0	d d a r o
+đấm 1.0	d d a a s m
+đất 1.0	d d a a s t
+đấu 1.0	d d a a s u
+đấy 1.0	d d a a s y
+đầm 1.0	d d a a f m
+đầu 1.0	d d a a f u
+đầy 1.0	d d a a f y
+đẩu 1.0	d d a a r u
+đẩy 1.0	d d a a r y
+đẫm 1.0	d d a a x m
+đẫy 1.0	d d a a x y
+đậm 1.0	d d a a j m
+đận 1.0	d d a a j n
+đập 1.0	d d a a j p
+đật 1.0	d d a a j t
+đậu 1.0	d d a a j u
+đậy 1.0	d d a a j y
+đắc 1.0	d d a w s c
+đắm 1.0	d d a w s m
+đắn 1.0	d d a w s n
+đắng 1.0	d d a w s n g
+đắp 1.0	d d a w s p
+đắt 1.0	d d a w s t
+đằm 1.0	d d a w f m
+đằng 1.0	d d a w f n g
+đẳng 1.0	d d a w r n g
+đặc 1.0	d d a w j c
+đặn 1.0	d d a w j n
+đặng 1.0	d d a w j n g
+đặt 1.0	d d a w j t
+đẹp 1.0	d d e j p
+đẻ 1.0	d d e r
+đẽ 1.0	d d e x
+đẽo 1.0	d d e x o
+đế 1.0	d d e e s
+đếm 1.0	d d e e s m
+đến 1.0	d d e e s n
+đề 1.0	d d e e f
+đềm 1.0	d d e e f m
+đền 1.0	d d e e f n
+đềnh 1.0	d d e e f n h
+đều 1.0	d d e e f u
+để 1.0	d d e e r
+đểnh 1.0	d d e e r n h
+đểu 1.0	d d e e r u
+đễnh 1.0	d d e e x n h
+đệ 1.0	d d e e j
+đệm 1.0	d d e e j m
+đỉnh 1.0	d d i r n h
+địa 1.0	d d i j a
+địch 1.0	d d i j c h
+định 1.0	d d i j n h
+địu 1.0	d d i j u
+đọ 1.0	d d o j
+đọc 1.0	d d o j c
+đọng 1.0	d d o j n g
+đỏ 1.0	d d o r
+đố 1.0	d d o o s
+đốc 1.0	d d o o s c
+đối 1.0	d d o o s i
+đốm 1.0	d d o o s m
+đốn 1.0	d d o o s n
+đống 1.0	d d o o s n g
+đốt 1.0	d d o o s t
+đồ 1.0	d d o o f
+đồi 1.0	d d o o f i
+đồn 1.0	d d o o f n
+đồng 1.0	d d o o f n g
+đổ 1.0	d d o o r
+đổi 1.0	d d o o r i
+đổng 1.0	d d o o r n g
+đỗ 1.0	d d o o x
+đỗi 1.0	d d o o x i
+độ 1.0	d d o o j
+độc 1.0	d d o o j c
+đội 1.0	d d o o j i
+độn 1.0	d d o o j n
+động 1.0	d d o o j n g
+độp 1.0	d d o o j p
+đột 1.0	d d o o j t
+đới 1.0	d d o w s i
+đớn 1.0	d d o w s n
+đờ 1.0	d d o w f
+đời 1.0	d d o w f i
+đờm 1.0	d d o w f m
+đờn 1.0	d d o w f n
+đỡ 1.0	d d o w x
+đợi 1.0	d d o w j i
+đợp 1.0	d d o w j p
+đợt 1.0	d d o w j t
+đục 1.0	d d u j c
+đụn 1.0	d d u j n
+đụng 1.0	d d u j n g
+đủ 1.0	d d u r
+đứa 1.0	d d u w s a
+đức 1.0	d d u w s c
+đứng 1.0	d d u w s n g
+đứt 1.0	d d u w s t
+đừng 1.0	d d u w f n g
+đựng 1.0	d d u w j n g
+ĩ 1.0	i x
+ơ 1.0	o w
+ơi 1.0	o w i
+ơn 1.0	o w n
+ư 1.0	u w
+ưa 1.0	u w a
+ưng 1.0	u w n g
+ưu 1.0	u w u
+ươm 1.0	u w o w m
+ương 1.0	u w o w n g
+ước 1.0	u w o w s c
+ướp 1.0	u w o w s p
+ướt 1.0	u w o w s t
+ạ 1.0	a j
+ạch 1.0	a j c h
+ạt 1.0	a j t
+ả 1.0	a r
+ảm 1.0	a r m
+ảnh 1.0	a r n h
+ảo 1.0	a r o
+ấm 1.0	a a s m
+ấn 1.0	a a s n
+ấp 1.0	a a s p
+ấu 1.0	a a s u
+ấy 1.0	a a s y
+ầm 1.0	a a f m
+ầu 1.0	a a f u
+ẩm 1.0	a a r m
+ẩn 1.0	a a r n
+ẩu 1.0	a a r u
+ậm 1.0	a a j m
+ập 1.0	a a j p
+ắp 1.0	a w s p
+ắt 1.0	a w s t
+ằng 1.0	a w f n g
+ẵm 1.0	a w x m
+ặc 1.0	a w j c
+ẻn 1.0	e r n
+ế 1.0	e e s
+ếch 1.0	e e s c h
+ềnh 1.0	e e f n h
+ệch 1.0	e e j c h
+ện 1.0	e e j n
+ỉa 1.0	i r a
+ỉm 1.0	i r m
+ỉn 1.0	i r n
+ỉu 1.0	i r u
+ịch 1.0	i j c h
+ọc 1.0	o j c
+ọe 1.0	o j e
+ỏi 1.0	o r i
+ỏn 1.0	o r n
+ỏng 1.0	o r n g
+ố 1.0	o o s
+ốc 1.0	o o s c
+ốm 1.0	o o s m
+ống 1.0	o o s n g
+ốp 1.0	o o s p
+ồ 1.0	o o f
+ồn 1.0	o o f n
+ồng 1.0	o o f n g
+ổ 1.0	o o r
+ổi 1.0	o o r i
+ổn 1.0	o o r n
+ổng 1.0	o o r n g
+ộc 1.0	o o j c
+ộn 1.0	o o j n
+ộp 1.0	o o j p
+ớ 1.0	o w s
+ới 1.0	o w s i
+ớn 1.0	o w s n
+ớt 1.0	o w s t
+ờ 1.0	o w f
+ở 1.0	o w r
+ợ 1.0	o w j
+ụ 1.0	u j
+ục 1.0	u j c
+ủ 1.0	u r
+ủa 1.0	u r a
+ủi 1.0	u r i
+ủn 1.0	u r n
+ủng 1.0	u r n g
+ủy 1.0	u r y
+ứ 1.0	u w s
+ứa 1.0	u w s a
+ức 1.0	u w s c
+ứng 1.0	u w s n g
+ừ 1.0	u w f
+ửng 1.0	u w r n g
+ỷ 1.0	y r

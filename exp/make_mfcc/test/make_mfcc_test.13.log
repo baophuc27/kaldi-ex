@@ -1,0 +1,60 @@
+# compute-mfcc-feats --write-utt2dur=ark,t:exp/make_mfcc/test/utt2dur.13 --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/test/wav_test.13.scp ark:- | copy-feats --write-num-frames=ark,t:exp/make_mfcc/test/utt2num_frames.13 --compress=true ark:- ark,scp:/home/phuc/workspace/research/kaldi/egs/vivos/mfcc/raw_mfcc_test.13.ark,/home/phuc/workspace/research/kaldi/egs/vivos/mfcc/raw_mfcc_test.13.scp 
+# Started at Fri Oct 29 08:01:11 +07 2021
+#
+compute-mfcc-feats --write-utt2dur=ark,t:exp/make_mfcc/test/utt2dur.13 --verbose=2 --config=conf/mfcc.conf scp,p:exp/make_mfcc/test/wav_test.13.scp ark:- 
+copy-feats --write-num-frames=ark,t:exp/make_mfcc/test/utt2num_frames.13 --compress=true ark:- ark,scp:/home/phuc/workspace/research/kaldi/egs/vivos/mfcc/raw_mfcc_test.13.ark,/home/phuc/workspace/research/kaldi/egs/vivos/mfcc/raw_mfcc_test.13.scp 
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-092
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-109
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-111
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-117
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-121
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-137
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-147
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-154
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-168
+LOG (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:181) Processed 10 utterances
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-173
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-180
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-194
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-198
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-200
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-203
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-204
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-208
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-209
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-213
+LOG (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:181) Processed 20 utterances
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-216
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-220
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-239
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-253
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-255
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-265
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-267
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-271
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV15-299
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV16-026
+LOG (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:181) Processed 30 utterances
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV16-033
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV16-048
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV16-049
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV16-050
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV16-051
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV16-058
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV16-059
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV16-064
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV16-067
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV16-068
+LOG (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:181) Processed 40 utterances
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV16-074
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV16-079
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV16-101
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV16-112
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV16-120
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV16-149
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV16-153
+VLOG[2] (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:182) Processed features for key VIVOSDEV16-154
+LOG (compute-mfcc-feats[5.5.987~1-eb8d0]:main():compute-mfcc-feats.cc:185)  Done 47 out of 47 utterances.
+LOG (copy-feats[5.5.987~1-eb8d0]:main():copy-feats.cc:143) Copied 47 feature matrices.
+# Accounting: time=1 threads=1
+# Ended (code 0) at Fri Oct 29 08:01:12 +07 2021, elapsed time 1 seconds

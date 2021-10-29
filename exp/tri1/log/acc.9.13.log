@@ -1,0 +1,33 @@
+# gmm-acc-stats-ali exp/tri1/9.mdl "ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split16/13/utt2spk scp:data/train/split16/13/cmvn.scp scp:data/train/split16/13/feats.scp ark:- | add-deltas  ark:- ark:- |" "ark,s,cs:gunzip -c exp/tri1/ali.13.gz|" exp/tri1/9.13.acc 
+# Started at Fri Oct 29 08:07:17 +07 2021
+#
+gmm-acc-stats-ali exp/tri1/9.mdl 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split16/13/utt2spk scp:data/train/split16/13/cmvn.scp scp:data/train/split16/13/feats.scp ark:- | add-deltas  ark:- ark:- |' 'ark,s,cs:gunzip -c exp/tri1/ali.13.gz|' exp/tri1/9.13.acc 
+add-deltas ark:- ark:- 
+apply-cmvn --utt2spk=ark:data/train/split16/13/utt2spk scp:data/train/split16/13/cmvn.scp scp:data/train/split16/13/feats.scp ark:- 
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 50 utterances; for utterance VIVOSSPK36-050 avg. like is -100.412 over 773 frames.
+WARNING (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:79) No alignment for utterance VIVOSSPK36-060
+WARNING (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:79) No alignment for utterance VIVOSSPK36-065
+WARNING (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:79) No alignment for utterance VIVOSSPK36-071
+WARNING (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:79) No alignment for utterance VIVOSSPK36-100
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 100 utterances; for utterance VIVOSSPK36-104 avg. like is -100.115 over 376 frames.
+WARNING (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:79) No alignment for utterance VIVOSSPK36-134
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 150 utterances; for utterance VIVOSSPK36-155 avg. like is -101.142 over 679 frames.
+WARNING (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:79) No alignment for utterance VIVOSSPK36-159
+WARNING (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:79) No alignment for utterance VIVOSSPK36-176
+WARNING (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:79) No alignment for utterance VIVOSSPK36-189
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 200 utterances; for utterance VIVOSSPK36-208 avg. like is -96.9104 over 398 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 250 utterances; for utterance VIVOSSPK37-033 avg. like is -94.6184 over 832 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 300 utterances; for utterance VIVOSSPK37-083 avg. like is -93.6257 over 532 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 350 utterances; for utterance VIVOSSPK38-002 avg. like is -91.4562 over 1248 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 400 utterances; for utterance VIVOSSPK38-052 avg. like is -96.9774 over 470 frames.
+WARNING (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:79) No alignment for utterance VIVOSSPK38-093
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 450 utterances; for utterance VIVOSSPK38-103 avg. like is -96.9127 over 545 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 500 utterances; for utterance VIVOSSPK38-153 avg. like is -99.8752 over 832 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 550 utterances; for utterance VIVOSSPK38-203 avg. like is -107.923 over 642 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 600 utterances; for utterance VIVOSSPK38-253 avg. like is -102.337 over 861 frames.
+LOG (apply-cmvn[5.5.987~1-eb8d0]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 648 utterances, errors on 0
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:112) Done 639 files, 9 with errors.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:115) Overall avg like per frame (Gaussian only) = -98.9711 over 395720 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:123) Written accs.
+# Accounting: time=2 threads=1
+# Ended (code 0) at Fri Oct 29 08:07:19 +07 2021, elapsed time 2 seconds

@@ -1,0 +1,31 @@
+# gmm-acc-stats-ali exp/mono/36.mdl "ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split16/11/utt2spk scp:data/train/split16/11/cmvn.scp scp:data/train/split16/11/feats.scp ark:- | add-deltas  ark:- ark:- |" "ark:gunzip -c exp/mono/ali.11.gz|" exp/mono/36.11.acc 
+# Started at Fri Oct 29 08:06:12 +07 2021
+#
+gmm-acc-stats-ali exp/mono/36.mdl 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split16/11/utt2spk scp:data/train/split16/11/cmvn.scp scp:data/train/split16/11/feats.scp ark:- | add-deltas  ark:- ark:- |' 'ark:gunzip -c exp/mono/ali.11.gz|' exp/mono/36.11.acc 
+apply-cmvn --utt2spk=ark:data/train/split16/11/utt2spk scp:data/train/split16/11/cmvn.scp scp:data/train/split16/11/feats.scp ark:- 
+add-deltas ark:- ark:- 
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 50 utterances; for utterance VIVOSSPK30-050 avg. like is -96.3039 over 901 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 100 utterances; for utterance VIVOSSPK30-100 avg. like is -95.4324 over 782 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 150 utterances; for utterance VIVOSSPK30-150 avg. like is -92.8374 over 1086 frames.
+WARNING (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:79) No alignment for utterance VIVOSSPK30-153
+WARNING (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:79) No alignment for utterance VIVOSSPK31-027
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 200 utterances; for utterance VIVOSSPK31-049 avg. like is -96.4678 over 514 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 250 utterances; for utterance VIVOSSPK31-099 avg. like is -99.636 over 548 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 300 utterances; for utterance VIVOSSPK31-149 avg. like is -97.8504 over 611 frames.
+WARNING (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:79) No alignment for utterance VIVOSSPK31-194
+WARNING (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:79) No alignment for utterance VIVOSSPK31-197
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 350 utterances; for utterance VIVOSSPK31-201 avg. like is -96.7358 over 873 frames.
+WARNING (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:79) No alignment for utterance VIVOSSPK31-209
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 400 utterances; for utterance VIVOSSPK31-252 avg. like is -98.4741 over 723 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 450 utterances; for utterance VIVOSSPK32-027 avg. like is -95.9072 over 904 frames.
+WARNING (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:79) No alignment for utterance VIVOSSPK32-031
+WARNING (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:79) No alignment for utterance VIVOSSPK32-053
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 500 utterances; for utterance VIVOSSPK32-079 avg. like is -100.903 over 548 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 550 utterances; for utterance VIVOSSPK32-129 avg. like is -90.652 over 1542 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 600 utterances; for utterance VIVOSSPK32-179 avg. like is -96.0961 over 967 frames.
+LOG (apply-cmvn[5.5.987~1-eb8d0]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 642 utterances, errors on 0
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:112) Done 635 files, 7 with errors.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:115) Overall avg like per frame (Gaussian only) = -96.4281 over 468659 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:123) Written accs.
+# Accounting: time=2 threads=1
+# Ended (code 0) at Fri Oct 29 08:06:14 +07 2021, elapsed time 2 seconds

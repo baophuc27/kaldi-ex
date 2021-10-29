@@ -1,0 +1,42 @@
+# align-equal-compiled "ark:gunzip -c exp/mono/fsts.15.gz|" "ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split16/15/utt2spk scp:data/train/split16/15/cmvn.scp scp:data/train/split16/15/feats.scp ark:- | add-deltas  ark:- ark:- |" ark,t:- | gmm-acc-stats-ali --binary=true exp/mono/0.mdl "ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split16/15/utt2spk scp:data/train/split16/15/cmvn.scp scp:data/train/split16/15/feats.scp ark:- | add-deltas  ark:- ark:- |" ark:- exp/mono/0.15.acc 
+# Started at Fri Oct 29 08:01:18 +07 2021
+#
+align-equal-compiled 'ark:gunzip -c exp/mono/fsts.15.gz|' 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split16/15/utt2spk scp:data/train/split16/15/cmvn.scp scp:data/train/split16/15/feats.scp ark:- | add-deltas  ark:- ark:- |' ark,t:- 
+gmm-acc-stats-ali --binary=true exp/mono/0.mdl 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split16/15/utt2spk scp:data/train/split16/15/cmvn.scp scp:data/train/split16/15/feats.scp ark:- | add-deltas  ark:- ark:- |' ark:- exp/mono/0.15.acc 
+apply-cmvn --utt2spk=ark:data/train/split16/15/utt2spk scp:data/train/split16/15/cmvn.scp scp:data/train/split16/15/feats.scp ark:- 
+add-deltas ark:- ark:- 
+add-deltas ark:- ark:- 
+apply-cmvn --utt2spk=ark:data/train/split16/15/utt2spk scp:data/train/split16/15/cmvn.scp scp:data/train/split16/15/feats.scp ark:- 
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 50 utterances; for utterance VIVOSSPK42-050 avg. like is -109.819 over 410 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 100 utterances; for utterance VIVOSSPK42-100 avg. like is -110.125 over 335 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 150 utterances; for utterance VIVOSSPK42-150 avg. like is -110.363 over 392 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 200 utterances; for utterance VIVOSSPK42-200 avg. like is -110.007 over 354 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 250 utterances; for utterance VIVOSSPK42-250 avg. like is -111.364 over 304 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 300 utterances; for utterance VIVOSSPK42-300 avg. like is -98.0689 over 773 frames.
+WARNING (align-equal-compiled[5.5.987~1-eb8d0]:EqualAlign():fstext/fstext-utils-inl.h:919) EqualAlign: the randomly constructed paths lengths: 278,283,282,286,281,273,257,290,287,267
+WARNING (align-equal-compiled[5.5.987~1-eb8d0]:EqualAlign():fstext/fstext-utils-inl.h:920) EqualAlign: utterance has too few frames 254 to align.
+WARNING (align-equal-compiled[5.5.987~1-eb8d0]:main():align-equal-compiled.cc:100) AlignEqual: did not align utterence VIVOSSPK43-063
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 350 utterances; for utterance VIVOSSPK43-050 avg. like is -112.649 over 348 frames.
+WARNING (align-equal-compiled[5.5.987~1-eb8d0]:EqualAlign():fstext/fstext-utils-inl.h:919) EqualAlign: the randomly constructed paths lengths: 199,208,202,230,198,198,203,219,206,205
+WARNING (align-equal-compiled[5.5.987~1-eb8d0]:EqualAlign():fstext/fstext-utils-inl.h:920) EqualAlign: utterance has too few frames 192 to align.
+WARNING (align-equal-compiled[5.5.987~1-eb8d0]:main():align-equal-compiled.cc:100) AlignEqual: did not align utterence VIVOSSPK43-109
+LOG (apply-cmvn[5.5.987~1-eb8d0]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 900 utterances, errors on 0
+WARNING (align-equal-compiled[5.5.987~1-eb8d0]:main():align-equal-compiled.cc:109) Computed 898 alignments; 0 lacked features, 2 had other errors.
+WARNING (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:79) No alignment for utterance VIVOSSPK43-063
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 400 utterances; for utterance VIVOSSPK43-101 avg. like is -110.539 over 404 frames.
+WARNING (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:79) No alignment for utterance VIVOSSPK43-109
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 450 utterances; for utterance VIVOSSPK43-152 avg. like is -116.395 over 335 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 500 utterances; for utterance VIVOSSPK43-202 avg. like is -116.63 over 317 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 550 utterances; for utterance VIVOSSPK43-252 avg. like is -110.272 over 335 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 600 utterances; for utterance VIVOSSPK44-002 avg. like is -120.252 over 276 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 650 utterances; for utterance VIVOSSPK44-052 avg. like is -119.644 over 323 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 700 utterances; for utterance VIVOSSPK44-102 avg. like is -111.047 over 354 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 750 utterances; for utterance VIVOSSPK44-152 avg. like is -113.327 over 304 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 800 utterances; for utterance VIVOSSPK44-202 avg. like is -114.48 over 335 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:105) Processed 850 utterances; for utterance VIVOSSPK44-252 avg. like is -114.325 over 298 frames.
+LOG (apply-cmvn[5.5.987~1-eb8d0]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 900 utterances, errors on 0
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:112) Done 898 files, 2 with errors.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:115) Overall avg like per frame (Gaussian only) = -111.712 over 305536 frames.
+LOG (gmm-acc-stats-ali[5.5.987~1-eb8d0]:main():gmm-acc-stats-ali.cc:123) Written accs.
+# Accounting: time=2 threads=1
+# Ended (code 0) at Fri Oct 29 08:01:20 +07 2021, elapsed time 2 seconds

@@ -1,0 +1,1012 @@
+# gmm-align-compiled --transition-scale=1.0 --acoustic-scale=0.1 --self-loop-scale=0.1 --beam=10 --retry-beam=40 --careful=false "gmm-boost-silence --boost=1.0 1 exp/mono/5.mdl - |" "ark:gunzip -c exp/mono/fsts.13.gz|" "ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split16/13/utt2spk scp:data/train/split16/13/cmvn.scp scp:data/train/split16/13/feats.scp ark:- | add-deltas  ark:- ark:- |" "ark,t:|gzip -c >exp/mono/ali.13.gz" 
+# Started at Fri Oct 29 08:02:41 +07 2021
+#
+gmm-align-compiled --transition-scale=1.0 --acoustic-scale=0.1 --self-loop-scale=0.1 --beam=10 --retry-beam=40 --careful=false 'gmm-boost-silence --boost=1.0 1 exp/mono/5.mdl - |' 'ark:gunzip -c exp/mono/fsts.13.gz|' 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/train/split16/13/utt2spk scp:data/train/split16/13/cmvn.scp scp:data/train/split16/13/feats.scp ark:- | add-deltas  ark:- ark:- |' 'ark,t:|gzip -c >exp/mono/ali.13.gz' 
+gmm-boost-silence --boost=1.0 1 exp/mono/5.mdl - 
+WARNING (gmm-boost-silence[5.5.987~1-eb8d0]:main():gmm-boost-silence.cc:82) The pdfs for the silence phones may be shared by other phones (note: this probably does not matter.)
+LOG (gmm-boost-silence[5.5.987~1-eb8d0]:main():gmm-boost-silence.cc:93) Boosted weights for 5 pdfs, by factor of 1
+LOG (gmm-boost-silence[5.5.987~1-eb8d0]:main():gmm-boost-silence.cc:103) Wrote model to -
+apply-cmvn --utt2spk=ark:data/train/split16/13/utt2spk scp:data/train/split16/13/cmvn.scp scp:data/train/split16/13/feats.scp ark:- 
+add-deltas ark:- ark:- 
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-001
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-002
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-003
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-004
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-004 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-005
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-006
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-006 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-007
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-007 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-008
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-009
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-009 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-010
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-010 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-011
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-011 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-012
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-012 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-013
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-013 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-014
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-014 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-015
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-015 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-016
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-017
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-017 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-018
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-018 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-019
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-019 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-020
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-021
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-022
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-023
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-024
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-025
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-025 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-026
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-026 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-027
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-027 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-028
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-029
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-029 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-030
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-030 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-031
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-031 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-032
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-032 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-033
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-033 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-034
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-035
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-036
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-036 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-037
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-037 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-038
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-039
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-040
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-040 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-041
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-042
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-042 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-043
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-043 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-044
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-045
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-046
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-046 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-047
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-047 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-048
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-048 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK36-048, len = 489
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-049
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-049 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-050
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-051
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-051 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK36-051, len = 654
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-052
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-052 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-053
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-054
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-054 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK36-054, len = 736
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-055
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-055 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-056
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-056 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-057
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-057 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-058
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-058 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-059
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-059 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-060
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-060 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK36-060, len = 473
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-061
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-061 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-062
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-063
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-063 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-064
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-064 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-065
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-065 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK36-065, len = 504
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-066
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-067
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-067 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-068
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-068 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-069
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-069 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-070
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-070 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-071
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-071 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK36-071, len = 817
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-072
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-072 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-073
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-073 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-074
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-075
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-076
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-076 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK36-076, len = 704
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-077
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-077 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-078
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-078 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-079
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-080
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-081
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-082
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-083
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-084
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-085
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-086
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-086 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-087
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-087 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-088
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-088 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-089
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-089 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-090
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-090 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-091
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-092
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-092 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-093
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-094
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-095
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-096
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-096 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-097
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-098
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-098 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-099
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-100
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-100 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK36-100, len = 448
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-101
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-101 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-102
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-103
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-103 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-104
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-105
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-105 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-106
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-106 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-107
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-107 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-108
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-109
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-110
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-111
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-111 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-112
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-112 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-113
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-113 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-114
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-115
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-115 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-116
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-116 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-117
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-117 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK36-117, len = 682
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-118
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-119
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-119 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK36-119, len = 386
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-120
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-120 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-121
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-121 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-122
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-122 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK36-122, len = 339
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-123
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-123 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-124
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-124 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-125
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-125 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK36-125, len = 436
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-126
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-126 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-127
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-127 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-128
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-128 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-129
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-129 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-130
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-130 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-131
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-131 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-132
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-132 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-133
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-134
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-134 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK36-134, len = 504
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-135
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-135 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-136
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-136 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-137
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-137 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK36-137, len = 367
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-138
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-139
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-140
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-140 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-141
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-142
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-143
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-144
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-145
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-145 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-146
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-146 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-147
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-148
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-149
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-150
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-150 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-151
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-151 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-152
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-152 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-153
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-154
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-154 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-155
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-155 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-156
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-156 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-157
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-157 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-158
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-158 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-159
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-159 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK36-159, len = 442
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-160
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-160 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-161
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-161 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-162
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-162 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-163
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-164
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-164 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-165
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-165 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-166
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-166 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-167
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-167 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-168
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-168 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-169
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-170
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-170 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-171
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-171 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-172
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-173
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-173 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-174
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-174 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-175
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-175 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-176
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-176 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK36-176, len = 598
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-177
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-178
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-179
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-180
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-181
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-181 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-182
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-182 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-183
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-183 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK36-183, len = 676
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-184
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-185
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-186
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-186 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-187
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-187 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-188
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-189
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-189 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK36-189, len = 601
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-190
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-191
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-191 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-192
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-192 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK36-192, len = 373
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-193
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-194
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-194 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-195
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-196
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-196 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-197
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-197 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-198
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-198 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK36-198, len = 398
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-199
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-199 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-200
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-200 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK36-200, len = 411
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-201
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-202
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-203
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-203 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK36-203, len = 748
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-204
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-204 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-205
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-206
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-206 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-207
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-208
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-208 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-209
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-210
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-210 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-211
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-212
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-212 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-213
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-213 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-214
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-215
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-215 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-216
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-217
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-217 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-218
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-218 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-219
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-220
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-221
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-222
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-222 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-223
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-223 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK36-223, len = 629
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-224
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK36-225
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK36-225 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-001
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-002
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-002 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-003
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-003 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-004
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-005
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-006
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-006 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-007
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-007 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-008
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-009
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-010
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-011
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-012
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-013
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-014
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-015
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-016
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-017
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-018
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-019
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-020
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-020 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-021
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-021 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-022
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-023
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-024
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-025
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-025 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-026
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-027
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-027 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-028
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-029
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-029 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-030
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-030 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-031
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-032
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-033
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-033 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-034
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-035
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-036
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-037
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-038
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-039
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-040
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-040 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK37-040, len = 648
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-041
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-042
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-042 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-043
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-044
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-045
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-046
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-047
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-048
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-049
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-049 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-050
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-050 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-051
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-051 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-052
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-052 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-053
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-053 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-054
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-055
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-056
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-057
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-057 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-058
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-059
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-060
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-061
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-062
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-063
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-064
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-064 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-065
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-066
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-067
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-068
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-069
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-070
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-071
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-072
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-073
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-074
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-074 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-075
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-075 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-076
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-076 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-077
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-078
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-079
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-079 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-080
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-081
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-082
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-083
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-084
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-085
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-085 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-086
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-087
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-088
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-089
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-090
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-091
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-092
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-093
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-093 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-094
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-095
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-096
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-097
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-098
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-098 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-099
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-100
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-100 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-101
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-102
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-102 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-103
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-104
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-105
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-106
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-107
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-108
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-109
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-110
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-111
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-112
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-112 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-113
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-114
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-115
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-116
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-117
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-118
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-119
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-120
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-121
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-122
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-123
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-124
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-124 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-125
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-126
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-126 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-127
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-128
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-128 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-129
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-130
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK37-131
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK37-131 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-001
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-002
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-003
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-004
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-005
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-005 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-006
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-007
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-008
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-009
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-010
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-011
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-012
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-013
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-014
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-015
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-016
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-017
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-018
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-019
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-019 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-020
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-021
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-022
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-023
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-023 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-024
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-025
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-026
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-027
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-028
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-029
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-029 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-030
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-030 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-031
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-031 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-032
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-033
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-034
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-034 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-035
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-036
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-037
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-038
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-038 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-039
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-039 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-040
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-040 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK38-040, len = 717
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-041
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-041 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-042
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-043
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-044
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-045
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-046
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-046 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-047
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-048
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-049
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-050
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-051
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-051 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-052
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-053
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-054
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-055
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-056
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-057
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-057 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-058
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-059
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-060
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-061
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-062
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-063
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-063 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-064
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-064 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-065
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-066
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-067
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-067 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-068
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-069
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-069 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-070
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-071
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-071 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-072
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-073
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-074
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-075
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-075 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-076
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-077
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-078
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-079
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-080
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-081
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-081 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-082
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-082 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-083
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-083 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-084
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-084 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-085
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-086
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-087
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-088
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-089
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-090
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-091
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-091 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-092
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-092 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-093
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-093 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK38-093, len = 732
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-094
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-095
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-096
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-096 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-097
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-098
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-098 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-099
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-100
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-101
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-102
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-102 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-103
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-103 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-104
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-104 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-105
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-106
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-107
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-107 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-108
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-109
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-110
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-111
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-111 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-112
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-113
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-113 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-114
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-115
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-116
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-116 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-117
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-118
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-119
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-120
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-120 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-121
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-121 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-122
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-123
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-123 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-124
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-124 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-125
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-126
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-126 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-127
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-127 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-128
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-128 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-129
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-129 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-130
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-131
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-132
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-133
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-134
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-134 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-135
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-136
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-136 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-137
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-138
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-139
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-140
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-141
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-142
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-142 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-143
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-144
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-144 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-145
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-145 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-146
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-146 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-147
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-148
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-148 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-149
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-149 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-150
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-151
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-152
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-152 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-153
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-153 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-154
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-155
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-156
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-157
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-158
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-159
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-159 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-160
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-161
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-162
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-163
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-164
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-164 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-165
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-165 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-166
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-166 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-167
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-168
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-168 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-169
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-170
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-171
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-172
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-173
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-173 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-174
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-174 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-175
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-175 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-176
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-176 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-177
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-177 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-178
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-178 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-179
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-180
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-180 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-181
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-182
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-182 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-183
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-184
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-185
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-185 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-186
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-187
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-187 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-188
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-188 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-189
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-190
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-190 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-191
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-192
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-192 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-193
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-193 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-194
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-195
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-196
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-197
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-198
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-199
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-200
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-200 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-201
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-202
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-203
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-203 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK38-203, len = 642
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-204
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-205
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-205 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK38-205, len = 542
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-206
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-206 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-207
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-207 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK38-207, len = 361
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-208
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-208 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-209
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-210
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-211
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-212
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-212 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-213
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-213 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-214
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-214 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-215
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-215 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-216
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-216 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-217
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-218
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-218 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-219
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-220
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-220 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK38-220, len = 829
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-221
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-222
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-222 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-223
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-223 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-224
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-224 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-225
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-226
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-226 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-227
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-227 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-228
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-228 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-229
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-229 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK38-229, len = 548
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-230
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-230 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK38-230, len = 642
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-231
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-232
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-232 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-233
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-234
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-234 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-235
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-235 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-236
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-236 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-237
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-237 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-238
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-238 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-239
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-240
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-241
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-241 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-242
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-242 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-243
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-244
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-245
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-245 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-246
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-247
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-248
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-249
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-250
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-250 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-251
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-251 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-252
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-252 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-253
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-254
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-254 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-255
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-256
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-256 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-257
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-257 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-258
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-258 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-259
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-259 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-260
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-261
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-261 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-262
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-262 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-263
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-263 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-264
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-264 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-265
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-265 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-266
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-266 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-267
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-267 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-268
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-269
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-269 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-270
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-270 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-271
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-272
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-272 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-273
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-273 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-274
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-274 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-275
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-275 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-276
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-276 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-277
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-277 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-278
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-278 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-279
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-279 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK38-279, len = 554
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-280
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-280 with beam 40
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:626) Did not successfully decode file VIVOSSPK38-280, len = 604
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-281
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-281 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-282
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-283
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-283 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-284
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-284 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-285
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-286
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-286 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-287
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-287 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-288
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-289
+LOG (apply-cmvn[5.5.987~1-eb8d0]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 648 utterances, errors on 0
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-289 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-290
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-291
+WARNING (gmm-align-compiled[5.5.987~1-eb8d0]:AlignUtteranceWrapper():decoder-wrappers.cc:617) Retrying utterance VIVOSSPK38-291 with beam 40
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:127) VIVOSSPK38-292
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:135) Overall log-likelihood per frame is -104.672 over 381605 frames.
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:137) Retried 314 out of 648 utterances.
+LOG (gmm-align-compiled[5.5.987~1-eb8d0]:main():gmm-align-compiled.cc:139) Done 614, errors on 34
+# Accounting: time=8 threads=1
+# Ended (code 0) at Fri Oct 29 08:02:49 +07 2021, elapsed time 8 seconds

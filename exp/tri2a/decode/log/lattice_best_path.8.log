@@ -1,0 +1,50 @@
+# lattice-depth-per-frame "ark:gunzip -c exp/tri2a/decode/lat.8.gz|" "ark,t:|gzip -c > exp/tri2a/decode/depth_tmp.8.gz" ark:- | lattice-best-path --acoustic-scale=0.1 ark:- ark:/dev/null "ark,t:|gzip -c >exp/tri2a/decode/ali_tmp.8.gz" 
+# Started at Fri Oct 29 08:12:16 +07 2021
+#
+lattice-depth-per-frame 'ark:gunzip -c exp/tri2a/decode/lat.8.gz|' 'ark,t:|gzip -c > exp/tri2a/decode/depth_tmp.8.gz' ark:- 
+lattice-best-path --acoustic-scale=0.1 ark:- ark:/dev/null 'ark,t:|gzip -c >exp/tri2a/decode/ali_tmp.8.gz' 
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-010, best cost 57.8587 + 2574.63 = 2632.48 over 279 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-014, best cost 46.5865 + 2820.68 = 2867.26 over 304 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-017, best cost 74.8229 + 2471.35 = 2546.17 over 286 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-020, best cost 93.3759 + 3256.56 = 3349.93 over 354 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-024, best cost 67.7255 + 2676.1 = 2743.83 over 292 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-030, best cost 138.232 + 4772.56 = 4910.79 over 529 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-035, best cost 77.7122 + 2352.04 = 2429.76 over 254 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-043, best cost 62.3074 + 2212.82 = 2275.12 over 248 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-045, best cost 93.1724 + 3899.76 = 3992.93 over 426 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-051, best cost 44.457 + 1788.05 = 1832.5 over 189 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-067, best cost 97.4133 + 3485.52 = 3582.93 over 386 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-068, best cost 111.195 + 4083.38 = 4194.58 over 429 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-072, best cost 97.0834 + 3979.66 = 4076.75 over 445 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-073, best cost 85.7423 + 2624.33 = 2710.07 over 292 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-076, best cost 96.5865 + 3502.16 = 3598.75 over 373 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-090, best cost 74.3439 + 2565.95 = 2640.3 over 270 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-117, best cost 37.3886 + 1237.13 = 1274.52 over 136 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-129, best cost 110.763 + 4449.39 = 4560.15 over 479 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-130, best cost 26.8591 + 1266.48 = 1293.34 over 136 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-140, best cost 129.349 + 5615.84 = 5745.19 over 626 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-156, best cost 120.376 + 5015.88 = 5136.26 over 548 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-162, best cost 64.8318 + 2798.39 = 2863.22 over 314 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-172, best cost 71.4627 + 2250.86 = 2322.32 over 251 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-176, best cost 79.5888 + 2776.09 = 2855.68 over 304 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-189, best cost 47.1636 + 1538.82 = 1585.98 over 173 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-194, best cost 70.5958 + 2906.59 = 2977.19 over 336 frames.
+LOG (lattice-depth-per-frame[5.5.987~1-eb8d0]:main():lattice-depth-per-frame.cc:82) Done 40 lattices.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-196, best cost 79.2379 + 2591.05 = 2670.29 over 286 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-211, best cost 25.9123 + 2063.21 = 2089.12 over 229 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-212, best cost 21.3472 + 1730.68 = 1752.03 over 198 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-227, best cost 19.0606 + 1457.72 = 1476.78 over 157 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-234, best cost 24.6113 + 1844.86 = 1869.48 over 192 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-239, best cost 21.2063 + 1727.86 = 1749.07 over 186 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-245, best cost 52.7109 + 1533.75 = 1586.46 over 164 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-247, best cost 24.003 + 1601.44 = 1625.44 over 179 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-249, best cost 26.788 + 1942.98 = 1969.77 over 214 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-257, best cost 30.3742 + 1992.76 = 2023.13 over 217 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-262, best cost 31.5288 + 2472.19 = 2503.71 over 273 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-266, best cost 33.289 + 2499.31 = 2532.6 over 267 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-278, best cost 58.4433 + 2257.54 = 2315.99 over 242 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:99) For utterance VIVOSDEV10-294, best cost 62.0438 + 5373.88 = 5435.92 over 576 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:124) Overall cost per frame is 9.35275 = 0.214931 [graph] + 9.13782 [acoustic] over 12039 frames.
+LOG (lattice-best-path[5.5.987~1-eb8d0]:main():lattice-best-path.cc:128) Done 40 lattices, failed for 0
+# Accounting: time=0 threads=1
+# Ended (code 0) at Fri Oct 29 08:12:16 +07 2021, elapsed time 0 seconds

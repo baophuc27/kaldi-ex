@@ -1,0 +1,4943 @@
+!SIL 1.0 sil_S
+<UNK> 1.0 spn_S
+4 1.0 4_S
+a 1.0 a_S
+ai 1.0 a_B i_E
+am 1.0 a_B m_E
+an 1.0 a_B n_E
+ang 1.0 a_B n_I g_E
+anh 1.0 a_B n_I h_E
+ao 1.0 a_B o_E
+au 1.0 a_B u_E
+b 1.0 b_S
+ba 1.0 b_B a_E
+ban 1.0 b_B a_I n_E
+bang 1.0 b_B a_I n_I g_E
+banh 1.0 b_B a_I n_I h_E
+bao 1.0 b_B a_I o_E
+bay 1.0 b_B a_I y_E
+be 1.0 b_B e_E
+ben 1.0 b_B e_I n_E
+beng 1.0 b_B e_I n_I g_E
+bi 1.0 b_B i_E
+bia 1.0 b_B i_I a_E
+binh 1.0 b_B i_I n_I h_E
+biên 1.0 b_B i_I e_I e_I n_E
+biêng 1.0 b_B i_I e_I e_I n_I g_E
+biếc 1.0 b_B i_I e_I e_I s_I c_E
+biếm 1.0 b_B i_I e_I e_I s_I m_E
+biến 1.0 b_B i_I e_I e_I s_I n_E
+biếng 1.0 b_B i_I e_I e_I s_I n_I g_E
+biết 1.0 b_B i_I e_I e_I s_I t_E
+biếu 1.0 b_B i_I e_I e_I s_I u_E
+biền 1.0 b_B i_I e_I e_I f_I n_E
+biển 1.0 b_B i_I e_I e_I r_I n_E
+biểu 1.0 b_B i_I e_I e_I r_I u_E
+biện 1.0 b_B i_I e_I e_I j_I n_E
+biệt 1.0 b_B i_I e_I e_I j_I t_E
+bo 1.0 b_B o_E
+boa 1.0 b_B o_I a_E
+bom 1.0 b_B o_I m_E
+bon 1.0 b_B o_I n_E
+bong 1.0 b_B o_I n_I g_E
+bu 1.0 b_B u_E
+bung 1.0 b_B u_I n_I g_E
+buôn 1.0 b_B u_I o_I o_I n_E
+buông 1.0 b_B u_I o_I o_I n_I g_E
+buýt 1.0 b_B u_I y_I s_I t_E
+buốt 1.0 b_B u_I o_I o_I s_I t_E
+buồn 1.0 b_B u_I o_I o_I f_I n_E
+buồng 1.0 b_B u_I o_I o_I f_I n_I g_E
+buổi 1.0 b_B u_I o_I o_I r_I i_E
+buộc 1.0 b_B u_I o_I o_I j_I c_E
+bà 1.0 b_B a_I f_E
+bài 1.0 b_B a_I f_I i_E
+bàn 1.0 b_B a_I f_I n_E
+bàng 1.0 b_B a_I f_I n_I g_E
+bành 1.0 b_B a_I f_I n_I h_E
+bào 1.0 b_B a_I f_I o_E
+bàu 1.0 b_B a_I f_I u_E
+bày 1.0 b_B a_I f_I y_E
+bá 1.0 b_B a_I s_E
+bác 1.0 b_B a_I s_I c_E
+bách 1.0 b_B a_I s_I c_I h_E
+bái 1.0 b_B a_I s_I i_E
+bám 1.0 b_B a_I s_I m_E
+bán 1.0 b_B a_I s_I n_E
+báng 1.0 b_B a_I s_I n_I g_E
+bánh 1.0 b_B a_I s_I n_I h_E
+báo 1.0 b_B a_I s_I o_E
+bát 1.0 b_B a_I s_I t_E
+báu 1.0 b_B a_I s_I u_E
+bâng 1.0 b_B a_I a_I n_I g_E
+bâu 1.0 b_B a_I a_I u_E
+bây 1.0 b_B a_I a_I y_E
+bã 1.0 b_B a_I x_E
+bãi 1.0 b_B a_I x_I i_E
+bão 1.0 b_B a_I x_I o_E
+bè 1.0 b_B e_I f_E
+bèn 1.0 b_B e_I f_I n_E
+bèo 1.0 b_B e_I f_I o_E
+bé 1.0 b_B e_I s_E
+bén 1.0 b_B e_I s_I n_E
+béng 1.0 b_B e_I s_I n_I g_E
+béo 1.0 b_B e_I s_I o_E
+bét 1.0 b_B e_I s_I t_E
+bê 1.0 b_B e_I e_E
+bên 1.0 b_B e_I e_I n_E
+bênh 1.0 b_B e_I e_I n_I h_E
+bêu 1.0 b_B e_I e_I u_E
+bì 1.0 b_B i_I f_E
+bìa 1.0 b_B i_I f_I a_E
+bình 1.0 b_B i_I f_I n_I h_E
+bìu 1.0 b_B i_I f_I u_E
+bí 1.0 b_B i_I s_E
+bích 1.0 b_B i_I s_I c_I h_E
+bính 1.0 b_B i_I s_I n_I h_E
+bíu 1.0 b_B i_I s_I u_E
+bò 1.0 b_B o_I f_E
+bó 1.0 b_B o_I s_E
+bóc 1.0 b_B o_I s_I c_E
+bói 1.0 b_B o_I s_I i_E
+bón 1.0 b_B o_I s_I n_E
+bóng 1.0 b_B o_I s_I n_I g_E
+bóp 1.0 b_B o_I s_I p_E
+bót 1.0 b_B o_I s_I t_E
+bôi 1.0 b_B o_I o_I i_E
+bông 1.0 b_B o_I o_I n_I g_E
+bõm 1.0 b_B o_I x_I m_E
+bõng 1.0 b_B o_I x_I n_I g_E
+bù 1.0 b_B u_I f_E
+bùa 1.0 b_B u_I f_I a_E
+bùi 1.0 b_B u_I f_I i_E
+bùn 1.0 b_B u_I f_I n_E
+bùng 1.0 b_B u_I f_I n_I g_E
+bú 1.0 b_B u_I s_E
+búa 1.0 b_B u_I s_I a_E
+bún 1.0 b_B u_I s_I n_E
+búng 1.0 b_B u_I s_I n_I g_E
+búp 1.0 b_B u_I s_I p_E
+bút 1.0 b_B u_I s_I t_E
+băn 1.0 b_B a_I w_I n_E
+băng 1.0 b_B a_I w_I n_I g_E
+bĩnh 1.0 b_B i_I x_I n_I h_E
+bĩu 1.0 b_B i_I x_I u_E
+bũm 1.0 b_B u_I x_I m_E
+bơ 1.0 b_B o_I w_E
+bơi 1.0 b_B o_I w_I i_E
+bơm 1.0 b_B o_I w_I m_E
+bưng 1.0 b_B u_I w_I n_I g_E
+bưu 1.0 b_B u_I w_I u_E
+bươi 1.0 b_B u_I w_I o_I w_I i_E
+bươm 1.0 b_B u_I w_I o_I w_I m_E
+bươu 1.0 b_B u_I w_I o_I w_I u_E
+bước 1.0 b_B u_I w_I o_I w_I s_I c_E
+bướng 1.0 b_B u_I w_I o_I w_I s_I n_I g_E
+bưởi 1.0 b_B u_I w_I o_I w_I r_I i_E
+bạ 1.0 b_B a_I j_E
+bạc 1.0 b_B a_I j_I c_E
+bạch 1.0 b_B a_I j_I c_I h_E
+bại 1.0 b_B a_I j_I i_E
+bạn 1.0 b_B a_I j_I n_E
+bạo 1.0 b_B a_I j_I o_E
+bạt 1.0 b_B a_I j_I t_E
+bả 1.0 b_B a_I r_E
+bản 1.0 b_B a_I r_I n_E
+bảng 1.0 b_B a_I r_I n_I g_E
+bảnh 1.0 b_B a_I r_I n_I h_E
+bảo 1.0 b_B a_I r_I o_E
+bảy 1.0 b_B a_I r_I y_E
+bấc 1.0 b_B a_I a_I s_I c_E
+bấm 1.0 b_B a_I a_I s_I m_E
+bấp 1.0 b_B a_I a_I s_I p_E
+bất 1.0 b_B a_I a_I s_I t_E
+bấu 1.0 b_B a_I a_I s_I u_E
+bấy 1.0 b_B a_I a_I s_I y_E
+bầm 1.0 b_B a_I a_I f_I m_E
+bần 1.0 b_B a_I a_I f_I n_E
+bầu 1.0 b_B a_I a_I f_I u_E
+bầy 1.0 b_B a_I a_I f_I y_E
+bẩm 1.0 b_B a_I a_I r_I m_E
+bẩn 1.0 b_B a_I a_I r_I n_E
+bẫy 1.0 b_B a_I a_I x_I y_E
+bậc 1.0 b_B a_I a_I j_I c_E
+bận 1.0 b_B a_I a_I j_I n_E
+bập 1.0 b_B a_I a_I j_I p_E
+bật 1.0 b_B a_I a_I j_I t_E
+bậy 1.0 b_B a_I a_I j_I y_E
+bắc 1.0 b_B a_I w_I s_I c_E
+bắn 1.0 b_B a_I w_I s_I n_E
+bắng 1.0 b_B a_I w_I s_I n_I g_E
+bắp 1.0 b_B a_I w_I s_I p_E
+bắt 1.0 b_B a_I w_I s_I t_E
+bằm 1.0 b_B a_I w_I f_I m_E
+bằng 1.0 b_B a_I w_I f_I n_I g_E
+bẵng 1.0 b_B a_I w_I x_I n_I g_E
+bặm 1.0 b_B a_I w_I j_I m_E
+bặt 1.0 b_B a_I w_I j_I t_E
+bẹ 1.0 b_B e_I j_E
+bẹo 1.0 b_B e_I j_I o_E
+bẹp 1.0 b_B e_I j_I p_E
+bẹt 1.0 b_B e_I j_I t_E
+bẽn 1.0 b_B e_I x_I n_E
+bế 1.0 b_B e_I e_I s_E
+bến 1.0 b_B e_I e_I s_I n_E
+bếp 1.0 b_B e_I e_I s_I p_E
+bết 1.0 b_B e_I e_I s_I t_E
+bề 1.0 b_B e_I e_I f_E
+bền 1.0 b_B e_I e_I f_I n_E
+bềnh 1.0 b_B e_I e_I f_I n_I h_E
+bều 1.0 b_B e_I e_I f_I u_E
+bể 1.0 b_B e_I e_I r_E
+bệ 1.0 b_B e_I e_I j_E
+bệch 1.0 b_B e_I e_I j_I c_I h_E
+bện 1.0 b_B e_I e_I j_I n_E
+bệnh 1.0 b_B e_I e_I j_I n_I h_E
+bệt 1.0 b_B e_I e_I j_I t_E
+bệu 1.0 b_B e_I e_I j_I u_E
+bỉ 1.0 b_B i_I r_E
+bỉnh 1.0 b_B i_I r_I n_I h_E
+bỉu 1.0 b_B i_I r_I u_E
+bị 1.0 b_B i_I j_E
+bịa 1.0 b_B i_I j_I a_E
+bịch 1.0 b_B i_I j_I c_I h_E
+bịn 1.0 b_B i_I j_I n_E
+bịt 1.0 b_B i_I j_I t_E
+bịu 1.0 b_B i_I j_I u_E
+bọ 1.0 b_B o_I j_E
+bọc 1.0 b_B o_I j_I c_E
+bọn 1.0 b_B o_I j_I n_E
+bọng 1.0 b_B o_I j_I n_I g_E
+bọp 1.0 b_B o_I j_I p_E
+bọt 1.0 b_B o_I j_I t_E
+bỏ 1.0 b_B o_I r_E
+bố 1.0 b_B o_I o_I s_E
+bốc 1.0 b_B o_I o_I s_I c_E
+bối 1.0 b_B o_I o_I s_I i_E
+bốn 1.0 b_B o_I o_I s_I n_E
+bống 1.0 b_B o_I o_I s_I n_I g_E
+bồ 1.0 b_B o_I o_I f_E
+bồi 1.0 b_B o_I o_I f_I i_E
+bồn 1.0 b_B o_I o_I f_I n_E
+bồng 1.0 b_B o_I o_I f_I n_I g_E
+bổ 1.0 b_B o_I o_I r_E
+bổn 1.0 b_B o_I o_I r_I n_E
+bổng 1.0 b_B o_I o_I r_I n_I g_E
+bỗ 1.0 b_B o_I o_I x_E
+bỗng 1.0 b_B o_I o_I x_I n_I g_E
+bộ 1.0 b_B o_I o_I j_E
+bộc 1.0 b_B o_I o_I j_I c_E
+bội 1.0 b_B o_I o_I j_I i_E
+bộng 1.0 b_B o_I o_I j_I n_I g_E
+bột 1.0 b_B o_I o_I j_I t_E
+bới 1.0 b_B o_I w_I s_I i_E
+bớt 1.0 b_B o_I w_I s_I t_E
+bờ 1.0 b_B o_I w_I f_E
+bời 1.0 b_B o_I w_I f_I i_E
+bờm 1.0 b_B o_I w_I f_I m_E
+bở 1.0 b_B o_I w_I r_E
+bởi 1.0 b_B o_I w_I r_I i_E
+bỡ 1.0 b_B o_I w_I x_E
+bợ 1.0 b_B o_I w_I j_E
+bợm 1.0 b_B o_I w_I j_I m_E
+bợn 1.0 b_B o_I w_I j_I n_E
+bụa 1.0 b_B u_I j_I a_E
+bục 1.0 b_B u_I j_I c_E
+bụi 1.0 b_B u_I j_I i_E
+bụng 1.0 b_B u_I j_I n_I g_E
+bụt 1.0 b_B u_I j_I t_E
+bủa 1.0 b_B u_I r_I a_E
+bủm 1.0 b_B u_I r_I m_E
+bức 1.0 b_B u_I w_I s_I c_E
+bứt 1.0 b_B u_I w_I s_I t_E
+bừa 1.0 b_B u_I w_I f_I a_E
+bừng 1.0 b_B u_I w_I f_I n_I g_E
+bửu 1.0 b_B u_I w_I r_I u_E
+bữa 1.0 b_B u_I w_I x_I a_E
+bự 1.0 b_B u_I w_I j_E
+bực 1.0 b_B u_I w_I j_I c_E
+c 1.0 c_S
+ca 1.0 c_B a_E
+cai 1.0 c_B a_I i_E
+cam 1.0 c_B a_I m_E
+can 1.0 c_B a_I n_E
+canh 1.0 c_B a_I n_I h_E
+cao 1.0 c_B a_I o_E
+cay 1.0 c_B a_I y_E
+cha 1.0 c_B h_I a_E
+chai 1.0 c_B h_I a_I i_E
+chan 1.0 c_B h_I a_I n_E
+chang 1.0 c_B h_I a_I n_I g_E
+chanh 1.0 c_B h_I a_I n_I h_E
+chao 1.0 c_B h_I a_I o_E
+chay 1.0 c_B h_I a_I y_E
+che 1.0 c_B h_I e_E
+chem 1.0 c_B h_I e_I m_E
+chen 1.0 c_B h_I e_I n_E
+cheng 1.0 c_B h_I e_I n_I g_E
+cheo 1.0 c_B h_I e_I o_E
+chi 1.0 c_B h_I i_E
+chia 1.0 c_B h_I i_I a_E
+chim 1.0 c_B h_I i_I m_E
+chinh 1.0 c_B h_I i_I n_I h_E
+chiu 1.0 c_B h_I i_I u_E
+chiêm 1.0 c_B h_I i_I e_I e_I m_E
+chiên 1.0 c_B h_I i_I e_I e_I n_E
+chiêng 1.0 c_B h_I i_I e_I e_I n_I g_E
+chiêu 1.0 c_B h_I i_I e_I e_I u_E
+chiếc 1.0 c_B h_I i_I e_I e_I s_I c_E
+chiếm 1.0 c_B h_I i_I e_I e_I s_I m_E
+chiến 1.0 c_B h_I i_I e_I e_I s_I n_E
+chiếng 1.0 c_B h_I i_I e_I e_I s_I n_I g_E
+chiết 1.0 c_B h_I i_I e_I e_I s_I t_E
+chiếu 1.0 c_B h_I i_I e_I e_I s_I u_E
+chiền 1.0 c_B h_I i_I e_I e_I f_I n_E
+chiều 1.0 c_B h_I i_I e_I e_I f_I u_E
+chiểu 1.0 c_B h_I i_I e_I e_I r_I u_E
+cho 1.0 c_B h_I o_E
+choang 1.0 c_B h_I o_I a_I n_I g_E
+chong 1.0 c_B h_I o_I n_I g_E
+choàng 1.0 c_B h_I o_I a_I f_I n_I g_E
+choáng 1.0 c_B h_I o_I a_I s_I n_I g_E
+choèn 1.0 c_B h_I o_I e_I f_I n_E
+choạc 1.0 c_B h_I o_I a_I j_I c_E
+choạng 1.0 c_B h_I o_I a_I j_I n_I g_E
+choảng 1.0 c_B h_I o_I a_I r_I n_I g_E
+choắt 1.0 c_B h_I o_I a_I w_I s_I t_E
+chu 1.0 c_B h_I u_E
+chua 1.0 c_B h_I u_I a_E
+chui 1.0 c_B h_I u_I i_E
+chum 1.0 c_B h_I u_I m_E
+chung 1.0 c_B h_I u_I n_I g_E
+chuyên 1.0 c_B h_I u_I y_I e_I e_I n_E
+chuyến 1.0 c_B h_I u_I y_I e_I e_I s_I n_E
+chuyền 1.0 c_B h_I u_I y_I e_I e_I f_I n_E
+chuyển 1.0 c_B h_I u_I y_I e_I e_I r_I n_E
+chuyện 1.0 c_B h_I u_I y_I e_I e_I j_I n_E
+chuôi 1.0 c_B h_I u_I o_I o_I i_E
+chuông 1.0 c_B h_I u_I o_I o_I n_I g_E
+chuẩn 1.0 c_B h_I u_I a_I a_I r_I n_E
+chuốc 1.0 c_B h_I u_I o_I o_I s_I c_E
+chuối 1.0 c_B h_I u_I o_I o_I s_I i_E
+chuốt 1.0 c_B h_I u_I o_I o_I s_I t_E
+chuồi 1.0 c_B h_I u_I o_I o_I f_I i_E
+chuồn 1.0 c_B h_I u_I o_I o_I f_I n_E
+chuồng 1.0 c_B h_I u_I o_I o_I f_I n_I g_E
+chuỗi 1.0 c_B h_I u_I o_I o_I x_I i_E
+chuộc 1.0 c_B h_I u_I o_I o_I j_I c_E
+chuộng 1.0 c_B h_I u_I o_I o_I j_I n_I g_E
+chuột 1.0 c_B h_I u_I o_I o_I j_I t_E
+chà 1.0 c_B h_I a_I f_E
+chài 1.0 c_B h_I a_I f_I i_E
+chàm 1.0 c_B h_I a_I f_I m_E
+chàng 1.0 c_B h_I a_I f_I n_I g_E
+chành 1.0 c_B h_I a_I f_I n_I h_E
+chào 1.0 c_B h_I a_I f_I o_E
+chày 1.0 c_B h_I a_I f_I y_E
+chác 1.0 c_B h_I a_I s_I c_E
+chái 1.0 c_B h_I a_I s_I i_E
+chán 1.0 c_B h_I a_I s_I n_E
+chánh 1.0 c_B h_I a_I s_I n_I h_E
+cháo 1.0 c_B h_I a_I s_I o_E
+chát 1.0 c_B h_I a_I s_I t_E
+cháu 1.0 c_B h_I a_I s_I u_E
+cháy 1.0 c_B h_I a_I s_I y_E
+châm 1.0 c_B h_I a_I a_I m_E
+chân 1.0 c_B h_I a_I a_I n_E
+châu 1.0 c_B h_I a_I a_I u_E
+chã 1.0 c_B h_I a_I x_E
+chão 1.0 c_B h_I a_I x_I o_E
+chè 1.0 c_B h_I e_I f_E
+chèn 1.0 c_B h_I e_I f_I n_E
+chèo 1.0 c_B h_I e_I f_I o_E
+ché 1.0 c_B h_I e_I s_E
+chém 1.0 c_B h_I e_I s_I m_E
+chén 1.0 c_B h_I e_I s_I n_E
+chéo 1.0 c_B h_I e_I s_I o_E
+chép 1.0 c_B h_I e_I s_I p_E
+chét 1.0 c_B h_I e_I s_I t_E
+chê 1.0 c_B h_I e_I e_E
+chêm 1.0 c_B h_I e_I e_I m_E
+chênh 1.0 c_B h_I e_I e_I n_I h_E
+chì 1.0 c_B h_I i_I f_E
+chìm 1.0 c_B h_I i_I f_I m_E
+chìu 1.0 c_B h_I i_I f_I u_E
+chí 1.0 c_B h_I i_I s_E
+chích 1.0 c_B h_I i_I s_I c_I h_E
+chín 1.0 c_B h_I i_I s_I n_E
+chính 1.0 c_B h_I i_I s_I n_I h_E
+chít 1.0 c_B h_I i_I s_I t_E
+chíu 1.0 c_B h_I i_I s_I u_E
+chò 1.0 c_B h_I o_I f_E
+chòm 1.0 c_B h_I o_I f_I m_E
+chòng 1.0 c_B h_I o_I f_I n_I g_E
+chó 1.0 c_B h_I o_I s_E
+chóe 1.0 c_B h_I o_I s_I e_E
+chói 1.0 c_B h_I o_I s_I i_E
+chóng 1.0 c_B h_I o_I s_I n_I g_E
+chót 1.0 c_B h_I o_I s_I t_E
+chôn 1.0 c_B h_I o_I o_I n_E
+chông 1.0 c_B h_I o_I o_I n_I g_E
+chù 1.0 c_B h_I u_I f_E
+chùa 1.0 c_B h_I u_I f_I a_E
+chùi 1.0 c_B h_I u_I f_I i_E
+chùm 1.0 c_B h_I u_I f_I m_E
+chú 1.0 c_B h_I u_I s_E
+chúa 1.0 c_B h_I u_I s_I a_E
+chúc 1.0 c_B h_I u_I s_I c_E
+chúi 1.0 c_B h_I u_I s_I i_E
+chúng 1.0 c_B h_I u_I s_I n_I g_E
+chút 1.0 c_B h_I u_I s_I t_E
+chăm 1.0 c_B h_I a_I w_I m_E
+chăn 1.0 c_B h_I a_I w_I n_E
+chăng 1.0 c_B h_I a_I w_I n_I g_E
+chĩn 1.0 c_B h_I i_I x_I n_E
+chũi 1.0 c_B h_I u_I x_I i_E
+chũn 1.0 c_B h_I u_I x_I n_E
+chơ 1.0 c_B h_I o_I w_E
+chơi 1.0 c_B h_I o_I w_I i_E
+chư 1.0 c_B h_I u_I w_E
+chưa 1.0 c_B h_I u_I w_I a_E
+chưng 1.0 c_B h_I u_I w_I n_I g_E
+chương 1.0 c_B h_I u_I w_I o_I w_I n_I g_E
+chước 1.0 c_B h_I u_I w_I o_I w_I s_I c_E
+chướng 1.0 c_B h_I u_I w_I o_I w_I s_I n_I g_E
+chườm 1.0 c_B h_I u_I w_I o_I w_I f_I m_E
+chược 1.0 c_B h_I u_I w_I o_I w_I j_I c_E
+chạch 1.0 c_B h_I a_I j_I c_I h_E
+chạm 1.0 c_B h_I a_I j_I m_E
+chạn 1.0 c_B h_I a_I j_I n_E
+chạnh 1.0 c_B h_I a_I j_I n_I h_E
+chạp 1.0 c_B h_I a_I j_I p_E
+chạy 1.0 c_B h_I a_I j_I y_E
+chả 1.0 c_B h_I a_I r_E
+chải 1.0 c_B h_I a_I r_I i_E
+chảo 1.0 c_B h_I a_I r_I o_E
+chảy 1.0 c_B h_I a_I r_I y_E
+chấm 1.0 c_B h_I a_I a_I s_I m_E
+chấn 1.0 c_B h_I a_I a_I s_I n_E
+chấp 1.0 c_B h_I a_I a_I s_I p_E
+chất 1.0 c_B h_I a_I a_I s_I t_E
+chấu 1.0 c_B h_I a_I a_I s_I u_E
+chầm 1.0 c_B h_I a_I a_I f_I m_E
+chầu 1.0 c_B h_I a_I a_I f_I u_E
+chẩm 1.0 c_B h_I a_I a_I r_I m_E
+chẩn 1.0 c_B h_I a_I a_I r_I n_E
+chậm 1.0 c_B h_I a_I a_I j_I m_E
+chập 1.0 c_B h_I a_I a_I j_I p_E
+chật 1.0 c_B h_I a_I a_I j_I t_E
+chậu 1.0 c_B h_I a_I a_I j_I u_E
+chắc 1.0 c_B h_I a_I w_I s_I c_E
+chắm 1.0 c_B h_I a_I w_I s_I m_E
+chắn 1.0 c_B h_I a_I w_I s_I n_E
+chắp 1.0 c_B h_I a_I w_I s_I p_E
+chắt 1.0 c_B h_I a_I w_I s_I t_E
+chằm 1.0 c_B h_I a_I w_I f_I m_E
+chằn 1.0 c_B h_I a_I w_I f_I n_E
+chằng 1.0 c_B h_I a_I w_I f_I n_I g_E
+chẳng 1.0 c_B h_I a_I w_I r_I n_I g_E
+chẵn 1.0 c_B h_I a_I w_I x_I n_E
+chặn 1.0 c_B h_I a_I w_I j_I n_E
+chặng 1.0 c_B h_I a_I w_I j_I n_I g_E
+chặt 1.0 c_B h_I a_I w_I j_I t_E
+chẹn 1.0 c_B h_I e_I j_I n_E
+chẹo 1.0 c_B h_I e_I j_I o_E
+chẹp 1.0 c_B h_I e_I j_I p_E
+chẻ 1.0 c_B h_I e_I r_E
+chẽ 1.0 c_B h_I e_I x_E
+chẽn 1.0 c_B h_I e_I x_I n_E
+chế 1.0 c_B h_I e_I e_I s_E
+chết 1.0 c_B h_I e_I e_I s_I t_E
+chề 1.0 c_B h_I e_I e_I f_E
+chềnh 1.0 c_B h_I e_I e_I f_I n_I h_E
+chểnh 1.0 c_B h_I e_I e_I r_I n_I h_E
+chệch 1.0 c_B h_I e_I e_I j_I c_I h_E
+chỉ 1.0 c_B h_I i_I r_E
+chỉnh 1.0 c_B h_I i_I r_I n_I h_E
+chị 1.0 c_B h_I i_I j_E
+chịt 1.0 c_B h_I i_I j_I t_E
+chịu 1.0 c_B h_I i_I j_I u_E
+chọc 1.0 c_B h_I o_I j_I c_E
+chọi 1.0 c_B h_I o_I j_I i_E
+chọn 1.0 c_B h_I o_I j_I n_E
+chọt 1.0 c_B h_I o_I j_I t_E
+chỏ 1.0 c_B h_I o_I r_E
+chỏm 1.0 c_B h_I o_I r_I m_E
+chỏn 1.0 c_B h_I o_I r_I n_E
+chốc 1.0 c_B h_I o_I o_I s_I c_E
+chối 1.0 c_B h_I o_I o_I s_I i_E
+chốn 1.0 c_B h_I o_I o_I s_I n_E
+chống 1.0 c_B h_I o_I o_I s_I n_I g_E
+chốt 1.0 c_B h_I o_I o_I s_I t_E
+chồi 1.0 c_B h_I o_I o_I f_I i_E
+chồm 1.0 c_B h_I o_I o_I f_I m_E
+chồn 1.0 c_B h_I o_I o_I f_I n_E
+chồng 1.0 c_B h_I o_I o_I f_I n_I g_E
+chổi 1.0 c_B h_I o_I o_I r_I i_E
+chỗ 1.0 c_B h_I o_I o_I x_E
+chộp 1.0 c_B h_I o_I o_I j_I p_E
+chớ 1.0 c_B h_I o_I w_I s_E
+chới 1.0 c_B h_I o_I w_I s_I i_E
+chớp 1.0 c_B h_I o_I w_I s_I p_E
+chờ 1.0 c_B h_I o_I w_I f_E
+chờn 1.0 c_B h_I o_I w_I f_I n_E
+chở 1.0 c_B h_I o_I w_I r_E
+chợ 1.0 c_B h_I o_I w_I j_E
+chợp 1.0 c_B h_I o_I w_I j_I p_E
+chợt 1.0 c_B h_I o_I w_I j_I t_E
+chục 1.0 c_B h_I u_I j_I c_E
+chụm 1.0 c_B h_I u_I j_I m_E
+chụp 1.0 c_B h_I u_I j_I p_E
+chủ 1.0 c_B h_I u_I r_E
+chủng 1.0 c_B h_I u_I r_I n_I g_E
+chứ 1.0 c_B h_I u_I w_I s_E
+chứa 1.0 c_B h_I u_I w_I s_I a_E
+chức 1.0 c_B h_I u_I w_I s_I c_E
+chứng 1.0 c_B h_I u_I w_I s_I n_I g_E
+chừ 1.0 c_B h_I u_I w_I f_E
+chừng 1.0 c_B h_I u_I w_I f_I n_I g_E
+chửa 1.0 c_B h_I u_I w_I r_I a_E
+chửi 1.0 c_B h_I u_I w_I r_I i_E
+chửng 1.0 c_B h_I u_I w_I r_I n_I g_E
+chữ 1.0 c_B h_I u_I w_I x_E
+chữa 1.0 c_B h_I u_I w_I x_I a_E
+chững 1.0 c_B h_I u_I w_I x_I n_I g_E
+chực 1.0 c_B h_I u_I w_I j_I c_E
+co 1.0 c_B o_E
+coi 1.0 c_B o_I i_E
+con 1.0 c_B o_I n_E
+cong 1.0 c_B o_I n_I g_E
+cu 1.0 c_B u_E
+cua 1.0 c_B u_I a_E
+cun 1.0 c_B u_I n_E
+cung 1.0 c_B u_I n_I g_E
+cuông 1.0 c_B u_I o_I o_I n_I g_E
+cuốc 1.0 c_B u_I o_I o_I s_I c_E
+cuối 1.0 c_B u_I o_I o_I s_I i_E
+cuốn 1.0 c_B u_I o_I o_I s_I n_E
+cuống 1.0 c_B u_I o_I o_I s_I n_I g_E
+cuồn 1.0 c_B u_I o_I o_I f_I n_E
+cuồng 1.0 c_B u_I o_I o_I f_I n_I g_E
+cuỗm 1.0 c_B u_I o_I o_I x_I m_E
+cuộc 1.0 c_B u_I o_I o_I j_I c_E
+cuội 1.0 c_B u_I o_I o_I j_I i_E
+cuộn 1.0 c_B u_I o_I o_I j_I n_E
+cà 1.0 c_B a_I f_E
+cài 1.0 c_B a_I f_I i_E
+càng 1.0 c_B a_I f_I n_I g_E
+cành 1.0 c_B a_I f_I n_I h_E
+cào 1.0 c_B a_I f_I o_E
+càu 1.0 c_B a_I f_I u_E
+cày 1.0 c_B a_I f_I y_E
+cá 1.0 c_B a_I s_E
+các 1.0 c_B a_I s_I c_E
+cách 1.0 c_B a_I s_I c_I h_E
+cái 1.0 c_B a_I s_I i_E
+cám 1.0 c_B a_I s_I m_E
+cán 1.0 c_B a_I s_I n_E
+cáng 1.0 c_B a_I s_I n_I g_E
+cánh 1.0 c_B a_I s_I n_I h_E
+cáo 1.0 c_B a_I s_I o_E
+cáp 1.0 c_B a_I s_I p_E
+cát 1.0 c_B a_I s_I t_E
+cáu 1.0 c_B a_I s_I u_E
+cáy 1.0 c_B a_I s_I y_E
+câm 1.0 c_B a_I a_I m_E
+cân 1.0 c_B a_I a_I n_E
+câu 1.0 c_B a_I a_I u_E
+cây 1.0 c_B a_I a_I y_E
+cãi 1.0 c_B a_I x_I i_E
+cò 1.0 c_B o_I f_E
+còi 1.0 c_B o_I f_I i_E
+còm 1.0 c_B o_I f_I m_E
+còn 1.0 c_B o_I f_I n_E
+còng 1.0 c_B o_I f_I n_I g_E
+có 1.0 c_B o_I s_E
+cóc 1.0 c_B o_I s_I c_E
+cói 1.0 c_B o_I s_I i_E
+cóng 1.0 c_B o_I s_I n_I g_E
+cóp 1.0 c_B o_I s_I p_E
+cót 1.0 c_B o_I s_I t_E
+cô 1.0 c_B o_I o_E
+côi 1.0 c_B o_I o_I i_E
+côm 1.0 c_B o_I o_I m_E
+côn 1.0 c_B o_I o_I n_E
+công 1.0 c_B o_I o_I n_I g_E
+cõi 1.0 c_B o_I x_I i_E
+cõng 1.0 c_B o_I x_I n_I g_E
+cù 1.0 c_B u_I f_E
+cùi 1.0 c_B u_I f_I i_E
+cùn 1.0 c_B u_I f_I n_E
+cùng 1.0 c_B u_I f_I n_I g_E
+cú 1.0 c_B u_I s_E
+cúc 1.0 c_B u_I s_I c_E
+cúi 1.0 c_B u_I s_I i_E
+cúm 1.0 c_B u_I s_I m_E
+cúng 1.0 c_B u_I s_I n_I g_E
+cúp 1.0 c_B u_I s_I p_E
+cút 1.0 c_B u_I s_I t_E
+căm 1.0 c_B a_I w_I m_E
+căn 1.0 c_B a_I w_I n_E
+căng 1.0 c_B a_I w_I n_I g_E
+cũ 1.0 c_B u_I x_E
+cũi 1.0 c_B u_I x_I i_E
+cũn 1.0 c_B u_I x_I n_E
+cũng 1.0 c_B u_I x_I n_I g_E
+cơ 1.0 c_B o_I w_E
+cơi 1.0 c_B o_I w_I i_E
+cơm 1.0 c_B o_I w_I m_E
+cơn 1.0 c_B o_I w_I n_E
+cư 1.0 c_B u_I w_E
+cưa 1.0 c_B u_I w_I a_E
+cưng 1.0 c_B u_I w_I n_I g_E
+cưu 1.0 c_B u_I w_I u_E
+cương 1.0 c_B u_I w_I o_I w_I n_I g_E
+cước 1.0 c_B u_I w_I o_I w_I s_I c_E
+cưới 1.0 c_B u_I w_I o_I w_I s_I i_E
+cướp 1.0 c_B u_I w_I o_I w_I s_I p_E
+cười 1.0 c_B u_I w_I o_I w_I f_I i_E
+cườm 1.0 c_B u_I w_I o_I w_I f_I m_E
+cường 1.0 c_B u_I w_I o_I w_I f_I n_I g_E
+cưỡi 1.0 c_B u_I w_I o_I w_I x_I i_E
+cưỡng 1.0 c_B u_I w_I o_I w_I x_I n_I g_E
+cạc 1.0 c_B a_I j_I c_E
+cạch 1.0 c_B a_I j_I c_I h_E
+cạm 1.0 c_B a_I j_I m_E
+cạn 1.0 c_B a_I j_I n_E
+cạnh 1.0 c_B a_I j_I n_I h_E
+cạo 1.0 c_B a_I j_I o_E
+cạp 1.0 c_B a_I j_I p_E
+cạu 1.0 c_B a_I j_I u_E
+cạy 1.0 c_B a_I j_I y_E
+cả 1.0 c_B a_I r_E
+cải 1.0 c_B a_I r_I i_E
+cảm 1.0 c_B a_I r_I m_E
+cản 1.0 c_B a_I r_I n_E
+cảng 1.0 c_B a_I r_I n_I g_E
+cảnh 1.0 c_B a_I r_I n_I h_E
+cảo 1.0 c_B a_I r_I o_E
+cấm 1.0 c_B a_I a_I s_I m_E
+cấp 1.0 c_B a_I a_I s_I p_E
+cất 1.0 c_B a_I a_I s_I t_E
+cấu 1.0 c_B a_I a_I s_I u_E
+cấy 1.0 c_B a_I a_I s_I y_E
+cầm 1.0 c_B a_I a_I f_I m_E
+cần 1.0 c_B a_I a_I f_I n_E
+cầu 1.0 c_B a_I a_I f_I u_E
+cầy 1.0 c_B a_I a_I f_I y_E
+cẩm 1.0 c_B a_I a_I r_I m_E
+cẩn 1.0 c_B a_I a_I r_I n_E
+cẩu 1.0 c_B a_I a_I r_I u_E
+cẫng 1.0 c_B a_I a_I x_I n_I g_E
+cận 1.0 c_B a_I a_I j_I n_E
+cập 1.0 c_B a_I a_I j_I p_E
+cật 1.0 c_B a_I a_I j_I t_E
+cậu 1.0 c_B a_I a_I j_I u_E
+cậy 1.0 c_B a_I a_I j_I y_E
+cắc 1.0 c_B a_I w_I s_I c_E
+cắm 1.0 c_B a_I w_I s_I m_E
+cắn 1.0 c_B a_I w_I s_I n_E
+cắp 1.0 c_B a_I w_I s_I p_E
+cắt 1.0 c_B a_I w_I s_I t_E
+cằm 1.0 c_B a_I w_I f_I m_E
+cằn 1.0 c_B a_I w_I f_I n_E
+cẳng 1.0 c_B a_I w_I r_I n_I g_E
+cặm 1.0 c_B a_I w_I j_I m_E
+cặn 1.0 c_B a_I w_I j_I n_E
+cặp 1.0 c_B a_I w_I j_I p_E
+cọ 1.0 c_B o_I j_E
+cọc 1.0 c_B o_I j_I c_E
+cọn 1.0 c_B o_I j_I n_E
+cọng 1.0 c_B o_I j_I n_I g_E
+cọp 1.0 c_B o_I j_I p_E
+cọt 1.0 c_B o_I j_I t_E
+cỏ 1.0 c_B o_I r_E
+cỏi 1.0 c_B o_I r_I i_E
+cỏm 1.0 c_B o_I r_I m_E
+cố 1.0 c_B o_I o_I s_E
+cốc 1.0 c_B o_I o_I s_I c_E
+cối 1.0 c_B o_I o_I s_I i_E
+cốm 1.0 c_B o_I o_I s_I m_E
+cống 1.0 c_B o_I o_I s_I n_I g_E
+cốt 1.0 c_B o_I o_I s_I t_E
+cồ 1.0 c_B o_I o_I f_E
+cồm 1.0 c_B o_I o_I f_I m_E
+cồn 1.0 c_B o_I o_I f_I n_E
+cồng 1.0 c_B o_I o_I f_I n_I g_E
+cổ 1.0 c_B o_I o_I r_E
+cổng 1.0 c_B o_I o_I r_I n_I g_E
+cỗ 1.0 c_B o_I o_I x_E
+cỗi 1.0 c_B o_I o_I x_I i_E
+cộ 1.0 c_B o_I o_I j_E
+cội 1.0 c_B o_I o_I j_I i_E
+cộng 1.0 c_B o_I o_I j_I n_I g_E
+cộp 1.0 c_B o_I o_I j_I p_E
+cột 1.0 c_B o_I o_I j_I t_E
+cớ 1.0 c_B o_I w_I s_E
+cờ 1.0 c_B o_I w_I f_E
+cời 1.0 c_B o_I w_I f_I i_E
+cởi 1.0 c_B o_I w_I r_I i_E
+cỡ 1.0 c_B o_I w_I x_E
+cỡi 1.0 c_B o_I w_I x_I i_E
+cỡn 1.0 c_B o_I w_I x_I n_E
+cợt 1.0 c_B o_I w_I j_I t_E
+cụ 1.0 c_B u_I j_E
+cục 1.0 c_B u_I j_I c_E
+cụi 1.0 c_B u_I j_I i_E
+cụm 1.0 c_B u_I j_I m_E
+cụp 1.0 c_B u_I j_I p_E
+cụt 1.0 c_B u_I j_I t_E
+củ 1.0 c_B u_I r_E
+của 1.0 c_B u_I r_I a_E
+củi 1.0 c_B u_I r_I i_E
+củng 1.0 c_B u_I r_I n_I g_E
+cứ 1.0 c_B u_I w_I s_E
+cứa 1.0 c_B u_I w_I s_I a_E
+cứng 1.0 c_B u_I w_I s_I n_I g_E
+cứu 1.0 c_B u_I w_I s_I u_E
+cừ 1.0 c_B u_I w_I f_E
+cừu 1.0 c_B u_I w_I f_I u_E
+cử 1.0 c_B u_I w_I r_E
+cửa 1.0 c_B u_I w_I r_I a_E
+cửi 1.0 c_B u_I w_I r_I i_E
+cửu 1.0 c_B u_I w_I r_I u_E
+cữ 1.0 c_B u_I w_I x_E
+cự 1.0 c_B u_I w_I j_E
+cựa 1.0 c_B u_I w_I j_I a_E
+cực 1.0 c_B u_I w_I j_I c_E
+cựu 1.0 c_B u_I w_I j_I u_E
+d 1.0 d_S
+da 1.0 d_B a_E
+dai 1.0 d_B a_I i_E
+dan 1.0 d_B a_I n_E
+dang 1.0 d_B a_I n_I g_E
+danh 1.0 d_B a_I n_I h_E
+dao 1.0 d_B a_I o_E
+di 1.0 d_B i_E
+dim 1.0 d_B i_I m_E
+dinh 1.0 d_B i_I n_I h_E
+diêm 1.0 d_B i_I e_I e_I m_E
+diên 1.0 d_B i_I e_I e_I n_E
+diêu 1.0 d_B i_I e_I e_I u_E
+diếc 1.0 d_B i_I e_I e_I s_I c_E
+diết 1.0 d_B i_I e_I e_I s_I t_E
+diếu 1.0 d_B i_I e_I e_I s_I u_E
+diều 1.0 d_B i_I e_I e_I f_I u_E
+diễm 1.0 d_B i_I e_I e_I x_I m_E
+diễn 1.0 d_B i_I e_I e_I x_I n_E
+diệc 1.0 d_B i_I e_I e_I j_I c_E
+diệm 1.0 d_B i_I e_I e_I j_I m_E
+diện 1.0 d_B i_I e_I e_I j_I n_E
+diệp 1.0 d_B i_I e_I e_I j_I p_E
+diệt 1.0 d_B i_I e_I e_I j_I t_E
+diệu 1.0 d_B i_I e_I e_I j_I u_E
+do 1.0 d_B o_E
+doanh 1.0 d_B o_I a_I n_I h_E
+doi 1.0 d_B o_I i_E
+dong 1.0 d_B o_I n_I g_E
+doãn 1.0 d_B o_I a_I x_I n_E
+du 1.0 d_B u_E
+dua 1.0 d_B u_I a_E
+dung 1.0 d_B u_I n_I g_E
+duy 1.0 d_B u_I y_E
+duyên 1.0 d_B u_I y_I e_I e_I n_E
+duyệt 1.0 d_B u_I y_I e_I e_I j_I t_E
+duỗi 1.0 d_B u_I o_I o_I x_I i_E
+dà 1.0 d_B a_I f_E
+dài 1.0 d_B a_I f_I i_E
+dàn 1.0 d_B a_I f_I n_E
+dàng 1.0 d_B a_I f_I n_I g_E
+dành 1.0 d_B a_I f_I n_I h_E
+dào 1.0 d_B a_I f_I o_E
+dày 1.0 d_B a_I f_I y_E
+dác 1.0 d_B a_I s_I c_E
+dám 1.0 d_B a_I s_I m_E
+dán 1.0 d_B a_I s_I n_E
+dáng 1.0 d_B a_I s_I n_I g_E
+dáo 1.0 d_B a_I s_I o_E
+dát 1.0 d_B a_I s_I t_E
+dâm 1.0 d_B a_I a_I m_E
+dân 1.0 d_B a_I a_I n_E
+dâng 1.0 d_B a_I a_I n_I g_E
+dâu 1.0 d_B a_I a_I u_E
+dây 1.0 d_B a_I a_I y_E
+dã 1.0 d_B a_I x_E
+dãi 1.0 d_B a_I x_I i_E
+dãng 1.0 d_B a_I x_I n_I g_E
+dãy 1.0 d_B a_I x_I y_E
+dè 1.0 d_B e_I f_E
+dép 1.0 d_B e_I s_I p_E
+dê 1.0 d_B e_I e_E
+dì 1.0 d_B i_I f_E
+dìu 1.0 d_B i_I f_I u_E
+dí 1.0 d_B i_I s_E
+dính 1.0 d_B i_I s_I n_I h_E
+dò 1.0 d_B o_I f_E
+dòi 1.0 d_B o_I f_I i_E
+dòm 1.0 d_B o_I f_I m_E
+dòng 1.0 d_B o_I f_I n_I g_E
+dó 1.0 d_B o_I s_E
+dóc 1.0 d_B o_I s_I c_E
+dóm 1.0 d_B o_I s_I m_E
+dôi 1.0 d_B o_I o_I i_E
+dông 1.0 d_B o_I o_I n_I g_E
+dõi 1.0 d_B o_I x_I i_E
+dõng 1.0 d_B o_I x_I n_I g_E
+dù 1.0 d_B u_I f_E
+dùi 1.0 d_B u_I f_I i_E
+dùng 1.0 d_B u_I f_I n_I g_E
+dúi 1.0 d_B u_I s_I i_E
+dúm 1.0 d_B u_I s_I m_E
+dún 1.0 d_B u_I s_I n_E
+dăm 1.0 d_B a_I w_I m_E
+dăn 1.0 d_B a_I w_I n_E
+dăng 1.0 d_B a_I w_I n_I g_E
+dĩ 1.0 d_B i_I x_E
+dĩa 1.0 d_B i_I x_I a_E
+dũng 1.0 d_B u_I x_I n_I g_E
+dơi 1.0 d_B o_I w_I i_E
+dư 1.0 d_B u_I w_E
+dưa 1.0 d_B u_I w_I a_E
+dưng 1.0 d_B u_I w_I n_I g_E
+dương 1.0 d_B u_I w_I o_I w_I n_I g_E
+dưới 1.0 d_B u_I w_I o_I w_I s_I i_E
+dường 1.0 d_B u_I w_I o_I w_I f_I n_I g_E
+dưỡng 1.0 d_B u_I w_I o_I w_I x_I n_I g_E
+dược 1.0 d_B u_I w_I o_I w_I j_I c_E
+dượt 1.0 d_B u_I w_I o_I w_I j_I t_E
+dạ 1.0 d_B a_I j_E
+dạc 1.0 d_B a_I j_I c_E
+dại 1.0 d_B a_I j_I i_E
+dạm 1.0 d_B a_I j_I m_E
+dạn 1.0 d_B a_I j_I n_E
+dạng 1.0 d_B a_I j_I n_I g_E
+dạo 1.0 d_B a_I j_I o_E
+dạt 1.0 d_B a_I j_I t_E
+dạy 1.0 d_B a_I j_I y_E
+dả 1.0 d_B a_I r_E
+dải 1.0 d_B a_I r_I i_E
+dấm 1.0 d_B a_I a_I s_I m_E
+dấn 1.0 d_B a_I a_I s_I n_E
+dấp 1.0 d_B a_I a_I s_I p_E
+dấu 1.0 d_B a_I a_I s_I u_E
+dấy 1.0 d_B a_I a_I s_I y_E
+dầm 1.0 d_B a_I a_I f_I m_E
+dần 1.0 d_B a_I a_I f_I n_E
+dầu 1.0 d_B a_I a_I f_I u_E
+dẩn 1.0 d_B a_I a_I r_I n_E
+dẫm 1.0 d_B a_I a_I x_I m_E
+dẫn 1.0 d_B a_I a_I x_I n_E
+dẫu 1.0 d_B a_I a_I x_I u_E
+dẫy 1.0 d_B a_I a_I x_I y_E
+dậm 1.0 d_B a_I a_I j_I m_E
+dập 1.0 d_B a_I a_I j_I p_E
+dậy 1.0 d_B a_I a_I j_I y_E
+dắt 1.0 d_B a_I w_I s_I t_E
+dằn 1.0 d_B a_I w_I f_I n_E
+dằng 1.0 d_B a_I w_I f_I n_I g_E
+dẳng 1.0 d_B a_I w_I r_I n_I g_E
+dặc 1.0 d_B a_I w_I j_I c_E
+dặm 1.0 d_B a_I w_I j_I m_E
+dặn 1.0 d_B a_I w_I j_I n_E
+dặt 1.0 d_B a_I w_I j_I t_E
+dẹp 1.0 d_B e_I j_I p_E
+dẹt 1.0 d_B e_I j_I t_E
+dẻo 1.0 d_B e_I r_I o_E
+dế 1.0 d_B e_I e_I s_E
+dề 1.0 d_B e_I e_I f_E
+dềnh 1.0 d_B e_I e_I f_I n_I h_E
+dễ 1.0 d_B e_I e_I x_E
+dệt 1.0 d_B e_I e_I j_I t_E
+dị 1.0 d_B i_I j_E
+dịch 1.0 d_B i_I j_I c_I h_E
+dịp 1.0 d_B i_I j_I p_E
+dịu 1.0 d_B i_I j_I u_E
+dọa 1.0 d_B o_I j_I a_E
+dọc 1.0 d_B o_I j_I c_E
+dọn 1.0 d_B o_I j_I n_E
+dỏng 1.0 d_B o_I r_I n_I g_E
+dốc 1.0 d_B o_I o_I s_I c_E
+dối 1.0 d_B o_I o_I s_I i_E
+dốt 1.0 d_B o_I o_I s_I t_E
+dồi 1.0 d_B o_I o_I f_I i_E
+dồn 1.0 d_B o_I o_I f_I n_E
+dỗ 1.0 d_B o_I o_I x_E
+dỗi 1.0 d_B o_I o_I x_I i_E
+dội 1.0 d_B o_I o_I j_I i_E
+dột 1.0 d_B o_I o_I j_I t_E
+dớ 1.0 d_B o_I w_I s_E
+dời 1.0 d_B o_I w_I f_I i_E
+dờn 1.0 d_B o_I w_I f_I n_E
+dở 1.0 d_B o_I w_I r_E
+dỡ 1.0 d_B o_I w_I x_E
+dụ 1.0 d_B u_I j_E
+dục 1.0 d_B u_I j_I c_E
+dụng 1.0 d_B u_I j_I n_I g_E
+dứa 1.0 d_B u_I w_I s_I a_E
+dứt 1.0 d_B u_I w_I s_I t_E
+dừa 1.0 d_B u_I w_I f_I a_E
+dừng 1.0 d_B u_I w_I f_I n_I g_E
+dử 1.0 d_B u_I w_I r_E
+dửng 1.0 d_B u_I w_I r_I n_I g_E
+dữ 1.0 d_B u_I w_I x_E
+dự 1.0 d_B u_I w_I j_E
+dựa 1.0 d_B u_I w_I j_I a_E
+dực 1.0 d_B u_I w_I j_I c_E
+dựng 1.0 d_B u_I w_I j_I n_I g_E
+e 1.0 e_S
+em 1.0 e_B m_E
+eo 1.0 e_B o_E
+ga 1.0 g_B a_E
+gai 1.0 g_B a_I i_E
+gam 1.0 g_B a_I m_E
+gan 1.0 g_B a_I n_E
+gang 1.0 g_B a_I n_I g_E
+ganh 1.0 g_B a_I n_I h_E
+gao 1.0 g_B a_I o_E
+gay 1.0 g_B a_I y_E
+gen 1.0 g_B e_I n_E
+ghe 1.0 g_B h_I e_E
+ghen 1.0 g_B h_I e_I n_E
+ghi 1.0 g_B h_I i_E
+ghim 1.0 g_B h_I i_I m_E
+ghiền 1.0 g_B h_I i_I e_I e_I f_I n_E
+ghè 1.0 g_B h_I e_I f_E
+ghèn 1.0 g_B h_I e_I f_I n_E
+ghé 1.0 g_B h_I e_I s_E
+ghém 1.0 g_B h_I e_I s_I m_E
+ghép 1.0 g_B h_I e_I s_I p_E
+ghét 1.0 g_B h_I e_I s_I t_E
+ghê 1.0 g_B h_I e_I e_E
+ghì 1.0 g_B h_I i_I f_E
+ghìm 1.0 g_B h_I i_I f_I m_E
+ghẹ 1.0 g_B h_I e_I j_E
+ghẹo 1.0 g_B h_I e_I j_I o_E
+ghẻ 1.0 g_B h_I e_I r_E
+ghẽ 1.0 g_B h_I e_I x_E
+ghế 1.0 g_B h_I e_I e_I s_E
+ghề 1.0 g_B h_I e_I e_I f_E
+ghềnh 1.0 g_B h_I e_I e_I f_I n_I h_E
+ghểnh 1.0 g_B h_I e_I e_I r_I n_I h_E
+ghệt 1.0 g_B h_I e_I e_I j_I t_E
+gia 1.0 g_B i_I a_E
+giai 1.0 g_B i_I a_I i_E
+giam 1.0 g_B i_I a_I m_E
+gian 1.0 g_B i_I a_I n_E
+giang 1.0 g_B i_I a_I n_I g_E
+gianh 1.0 g_B i_I a_I n_I h_E
+giao 1.0 g_B i_I a_I o_E
+gieo 1.0 g_B i_I e_I o_E
+gion 1.0 g_B i_I o_I n_E
+giua 1.0 g_B i_I u_I a_E
+giun 1.0 g_B i_I u_I n_E
+già 1.0 g_B i_I a_I f_E
+giàn 1.0 g_B i_I a_I f_I n_E
+giành 1.0 g_B i_I a_I f_I n_I h_E
+giàu 1.0 g_B i_I a_I f_I u_E
+giày 1.0 g_B i_I a_I f_I y_E
+giá 1.0 g_B i_I a_I s_E
+giác 1.0 g_B i_I a_I s_I c_E
+giám 1.0 g_B i_I a_I s_I m_E
+gián 1.0 g_B i_I a_I s_I n_E
+giáng 1.0 g_B i_I a_I s_I n_I g_E
+giáo 1.0 g_B i_I a_I s_I o_E
+giáp 1.0 g_B i_I a_I s_I p_E
+giây 1.0 g_B i_I a_I a_I y_E
+giã 1.0 g_B i_I a_I x_E
+giãn 1.0 g_B i_I a_I x_I n_E
+giãy 1.0 g_B i_I a_I x_I y_E
+gièm 1.0 g_B i_I e_I f_I m_E
+gié 1.0 g_B i_I e_I s_E
+giêng 1.0 g_B i_I e_I e_I n_I g_E
+giò 1.0 g_B i_I o_I f_E
+giòn 1.0 g_B i_I o_I f_I n_E
+gió 1.0 g_B i_I o_I s_E
+gión 1.0 g_B i_I o_I s_I n_E
+gióng 1.0 g_B i_I o_I s_I n_I g_E
+giô 1.0 g_B i_I o_I o_E
+giông 1.0 g_B i_I o_I o_I n_I g_E
+giùm 1.0 g_B i_I u_I f_I m_E
+giú 1.0 g_B i_I u_I s_E
+giúp 1.0 g_B i_I u_I s_I p_E
+giăm 1.0 g_B i_I a_I w_I m_E
+giăng 1.0 g_B i_I a_I w_I n_I g_E
+giũ 1.0 g_B i_I u_I x_E
+giũa 1.0 g_B i_I u_I x_I a_E
+giơ 1.0 g_B i_I o_I w_E
+giương 1.0 g_B i_I u_I w_I o_I w_I n_I g_E
+giướng 1.0 g_B i_I u_I w_I o_I w_I s_I n_I g_E
+giường 1.0 g_B i_I u_I w_I o_I w_I f_I n_I g_E
+giạt 1.0 g_B i_I a_I j_I t_E
+giả 1.0 g_B i_I a_I r_E
+giải 1.0 g_B i_I a_I r_I i_E
+giảm 1.0 g_B i_I a_I r_I m_E
+giản 1.0 g_B i_I a_I r_I n_E
+giảng 1.0 g_B i_I a_I r_I n_I g_E
+giảnh 1.0 g_B i_I a_I r_I n_I h_E
+giảo 1.0 g_B i_I a_I r_I o_E
+giấc 1.0 g_B i_I a_I a_I s_I c_E
+giấm 1.0 g_B i_I a_I a_I s_I m_E
+giấp 1.0 g_B i_I a_I a_I s_I p_E
+giấu 1.0 g_B i_I a_I a_I s_I u_E
+giấy 1.0 g_B i_I a_I a_I s_I y_E
+giầm 1.0 g_B i_I a_I a_I f_I m_E
+giần 1.0 g_B i_I a_I a_I f_I n_E
+giầy 1.0 g_B i_I a_I a_I f_I y_E
+giẫm 1.0 g_B i_I a_I a_I x_I m_E
+giậm 1.0 g_B i_I a_I a_I j_I m_E
+giận 1.0 g_B i_I a_I a_I j_I n_E
+giập 1.0 g_B i_I a_I a_I j_I p_E
+giật 1.0 g_B i_I a_I a_I j_I t_E
+giắt 1.0 g_B i_I a_I w_I s_I t_E
+giằm 1.0 g_B i_I a_I w_I f_I m_E
+giằn 1.0 g_B i_I a_I w_I f_I n_E
+giằng 1.0 g_B i_I a_I w_I f_I n_I g_E
+giặc 1.0 g_B i_I a_I w_I j_I c_E
+giặm 1.0 g_B i_I a_I w_I j_I m_E
+giặn 1.0 g_B i_I a_I w_I j_I n_E
+giặt 1.0 g_B i_I a_I w_I j_I t_E
+giẹo 1.0 g_B i_I e_I j_I o_E
+giếm 1.0 g_B i_I e_I e_I s_I m_E
+giếng 1.0 g_B i_I e_I e_I s_I n_I g_E
+giết 1.0 g_B i_I e_I e_I s_I t_E
+giềng 1.0 g_B i_I e_I e_I f_I n_I g_E
+giễu 1.0 g_B i_I e_I e_I x_I u_E
+giọ 1.0 g_B i_I o_I j_E
+giọng 1.0 g_B i_I o_I j_I n_I g_E
+giọt 1.0 g_B i_I o_I j_I t_E
+giỏ 1.0 g_B i_I o_I r_E
+giỏi 1.0 g_B i_I o_I r_I i_E
+giỏn 1.0 g_B i_I o_I r_I n_E
+giống 1.0 g_B i_I o_I o_I s_I n_I g_E
+giồng 1.0 g_B i_I o_I o_I f_I n_I g_E
+giỗ 1.0 g_B i_I o_I o_I x_E
+giới 1.0 g_B i_I o_I w_I s_I i_E
+giờ 1.0 g_B i_I o_I w_I f_E
+giời 1.0 g_B i_I o_I w_I f_I i_E
+giở 1.0 g_B i_I o_I w_I r_E
+giỡn 1.0 g_B i_I o_I w_I x_I n_E
+giụa 1.0 g_B i_I u_I j_I a_E
+giục 1.0 g_B i_I u_I j_I c_E
+giủi 1.0 g_B i_I u_I r_I i_E
+giữ 1.0 g_B i_I u_I w_I x_E
+giữa 1.0 g_B i_I u_I w_I x_I a_E
+giựt 1.0 g_B i_I u_I w_I j_I t_E
+go 1.0 g_B o_E
+gom 1.0 g_B o_I m_E
+gu 1.0 g_B u_E
+guốc 1.0 g_B u_I o_I o_I s_I c_E
+guộc 1.0 g_B u_I o_I o_I j_I c_E
+gà 1.0 g_B a_I f_E
+gài 1.0 g_B a_I f_I i_E
+gàn 1.0 g_B a_I f_I n_E
+gàng 1.0 g_B a_I f_I n_I g_E
+gành 1.0 g_B a_I f_I n_I h_E
+gào 1.0 g_B a_I f_I o_E
+gàu 1.0 g_B a_I f_I u_E
+gác 1.0 g_B a_I s_I c_E
+gái 1.0 g_B a_I s_I i_E
+gán 1.0 g_B a_I s_I n_E
+gánh 1.0 g_B a_I s_I n_I h_E
+gáo 1.0 g_B a_I s_I o_E
+gáp 1.0 g_B a_I s_I p_E
+gáy 1.0 g_B a_I s_I y_E
+gân 1.0 g_B a_I a_I n_E
+gây 1.0 g_B a_I a_I y_E
+gã 1.0 g_B a_I x_E
+gãi 1.0 g_B a_I x_I i_E
+gãy 1.0 g_B a_I x_I y_E
+gì 1.0 g_B i_I f_E
+gìn 1.0 g_B i_I f_I n_E
+gí 1.0 g_B i_I s_E
+gò 1.0 g_B o_I f_E
+gòn 1.0 g_B o_I f_I n_E
+góa 1.0 g_B o_I s_I a_E
+góc 1.0 g_B o_I s_I c_E
+gói 1.0 g_B o_I s_I i_E
+góp 1.0 g_B o_I s_I p_E
+gót 1.0 g_B o_I s_I t_E
+gô 1.0 g_B o_I o_E
+gôn 1.0 g_B o_I o_I n_E
+gông 1.0 g_B o_I o_I n_I g_E
+gõ 1.0 g_B o_I x_E
+gù 1.0 g_B u_I f_E
+gú 1.0 g_B u_I s_E
+gút 1.0 g_B u_I s_I t_E
+găm 1.0 g_B a_I w_I m_E
+gũi 1.0 g_B u_I x_I i_E
+gươm 1.0 g_B u_I w_I o_I w_I m_E
+gương 1.0 g_B u_I w_I o_I w_I n_I g_E
+gườm 1.0 g_B u_I w_I o_I w_I f_I m_E
+gường 1.0 g_B u_I w_I o_I w_I f_I n_I g_E
+gượng 1.0 g_B u_I w_I o_I w_I j_I n_I g_E
+gạ 1.0 g_B a_I j_E
+gạch 1.0 g_B a_I j_I c_I h_E
+gạn 1.0 g_B a_I j_I n_E
+gạo 1.0 g_B a_I j_I o_E
+gạt 1.0 g_B a_I j_I t_E
+gả 1.0 g_B a_I r_E
+gảy 1.0 g_B a_I r_I y_E
+gấp 1.0 g_B a_I a_I s_I p_E
+gấu 1.0 g_B a_I a_I s_I u_E
+gấy 1.0 g_B a_I a_I s_I y_E
+gầm 1.0 g_B a_I a_I f_I m_E
+gần 1.0 g_B a_I a_I f_I n_E
+gầu 1.0 g_B a_I a_I f_I u_E
+gầy 1.0 g_B a_I a_I f_I y_E
+gẫm 1.0 g_B a_I a_I x_I m_E
+gẫu 1.0 g_B a_I a_I x_I u_E
+gập 1.0 g_B a_I a_I j_I p_E
+gật 1.0 g_B a_I a_I j_I t_E
+gậy 1.0 g_B a_I a_I j_I y_E
+gắm 1.0 g_B a_I w_I s_I m_E
+gắn 1.0 g_B a_I w_I s_I n_E
+gắng 1.0 g_B a_I w_I s_I n_I g_E
+gắp 1.0 g_B a_I w_I s_I p_E
+gắt 1.0 g_B a_I w_I s_I t_E
+gằn 1.0 g_B a_I w_I f_I n_E
+gặm 1.0 g_B a_I w_I j_I m_E
+gặn 1.0 g_B a_I w_I j_I n_E
+gặng 1.0 g_B a_I w_I j_I n_I g_E
+gặp 1.0 g_B a_I w_I j_I p_E
+gặt 1.0 g_B a_I w_I j_I t_E
+gỉ 1.0 g_B i_I r_E
+gọi 1.0 g_B o_I j_I i_E
+gọn 1.0 g_B o_I j_I n_E
+gọt 1.0 g_B o_I j_I t_E
+gỏi 1.0 g_B o_I r_I i_E
+gỏng 1.0 g_B o_I r_I n_I g_E
+gốc 1.0 g_B o_I o_I s_I c_E
+gối 1.0 g_B o_I o_I s_I i_E
+gốm 1.0 g_B o_I o_I s_I m_E
+gồ 1.0 g_B o_I o_I f_E
+gồm 1.0 g_B o_I o_I f_I m_E
+gồng 1.0 g_B o_I o_I f_I n_I g_E
+gổ 1.0 g_B o_I o_I r_E
+gỗ 1.0 g_B o_I o_I x_E
+gội 1.0 g_B o_I o_I j_I i_E
+gộp 1.0 g_B o_I o_I j_I p_E
+gớm 1.0 g_B o_I w_I s_I m_E
+gờm 1.0 g_B o_I w_I f_I m_E
+gởi 1.0 g_B o_I w_I r_I i_E
+gỡ 1.0 g_B o_I w_I x_E
+gợi 1.0 g_B o_I w_I j_I i_E
+gợn 1.0 g_B o_I w_I j_I n_E
+gợt 1.0 g_B o_I w_I j_I t_E
+gụ 1.0 g_B u_I j_E
+gục 1.0 g_B u_I j_I c_E
+gửi 1.0 g_B u_I w_I r_I i_E
+h 1.0 h_S
+ha 1.0 h_B a_E
+hai 1.0 h_B a_I i_E
+ham 1.0 h_B a_I m_E
+han 1.0 h_B a_I n_E
+hang 1.0 h_B a_I n_I g_E
+hao 1.0 h_B a_I o_E
+hay 1.0 h_B a_I y_E
+he 1.0 h_B e_E
+hem 1.0 h_B e_I m_E
+hen 1.0 h_B e_I n_E
+heo 1.0 h_B e_I o_E
+hi 1.0 h_B i_E
+hia 1.0 h_B i_I a_E
+hiu 1.0 h_B i_I u_E
+hiên 1.0 h_B i_I e_I e_I n_E
+hiêng 1.0 h_B i_I e_I e_I n_I g_E
+hiếm 1.0 h_B i_I e_I e_I s_I m_E
+hiến 1.0 h_B i_I e_I e_I s_I n_E
+hiếp 1.0 h_B i_I e_I e_I s_I p_E
+hiếu 1.0 h_B i_I e_I e_I s_I u_E
+hiền 1.0 h_B i_I e_I e_I f_I n_E
+hiểm 1.0 h_B i_I e_I e_I r_I m_E
+hiển 1.0 h_B i_I e_I e_I r_I n_E
+hiểu 1.0 h_B i_I e_I e_I r_I u_E
+hiện 1.0 h_B i_I e_I e_I j_I n_E
+hiệp 1.0 h_B i_I e_I e_I j_I p_E
+hiệu 1.0 h_B i_I e_I e_I j_I u_E
+ho 1.0 h_B o_E
+hoa 1.0 h_B o_I a_E
+hoan 1.0 h_B o_I a_I n_E
+hoang 1.0 h_B o_I a_I n_I g_E
+hoay 1.0 h_B o_I a_I y_E
+hoi 1.0 h_B o_I i_E
+hom 1.0 h_B o_I m_E
+hoà 1.0 h_B o_I a_I f_E
+hoài 1.0 h_B o_I a_I f_I i_E
+hoàn 1.0 h_B o_I a_I f_I n_E
+hoàng 1.0 h_B o_I a_I f_I n_I g_E
+hoành 1.0 h_B o_I a_I f_I n_I h_E
+hoá 1.0 h_B o_I a_I s_E
+hoác 1.0 h_B o_I a_I s_I c_E
+hoãn 1.0 h_B o_I a_I x_I n_E
+hoét 1.0 h_B o_I e_I s_I t_E
+hoạ 1.0 h_B o_I a_I j_E
+hoạch 1.0 h_B o_I a_I j_I c_I h_E
+hoại 1.0 h_B o_I a_I j_I i_E
+hoạn 1.0 h_B o_I a_I j_I n_E
+hoạnh 1.0 h_B o_I a_I j_I n_I h_E
+hoạt 1.0 h_B o_I a_I j_I t_E
+hoải 1.0 h_B o_I a_I r_I i_E
+hoảng 1.0 h_B o_I a_I r_I n_I g_E
+hoắc 1.0 h_B o_I a_I w_I s_I c_E
+hoắt 1.0 h_B o_I a_I w_I s_I t_E
+hoẳn 1.0 h_B o_I a_I w_I r_I n_E
+hoặc 1.0 h_B o_I a_I w_I j_I c_E
+hu 1.0 h_B u_E
+hun 1.0 h_B u_I n_E
+hung 1.0 h_B u_I n_I g_E
+huy 1.0 h_B u_I y_E
+huynh 1.0 h_B u_I y_I n_I h_E
+huyên 1.0 h_B u_I y_I e_I e_I n_E
+huyết 1.0 h_B u_I y_I e_I e_I s_I t_E
+huyền 1.0 h_B u_I y_I e_I e_I f_I n_E
+huyễn 1.0 h_B u_I y_I e_I e_I x_I n_E
+huyện 1.0 h_B u_I y_I e_I e_I j_I n_E
+huyệt 1.0 h_B u_I y_I e_I e_I j_I t_E
+huân 1.0 h_B u_I a_I a_I n_E
+huê 1.0 h_B u_I e_I e_E
+huýt 1.0 h_B u_I y_I s_I t_E
+huơ 1.0 h_B u_I o_I w_E
+huấn 1.0 h_B u_I a_I a_I s_I n_E
+huế 1.0 h_B u_I e_I e_I s_E
+huếch 1.0 h_B u_I e_I e_I s_I c_I h_E
+huề 1.0 h_B u_I e_I e_I f_E
+huệ 1.0 h_B u_I e_I e_I j_E
+huống 1.0 h_B u_I o_I o_I s_I n_I g_E
+huỳnh 1.0 h_B u_I y_I f_I n_I h_E
+huỷ 1.0 h_B u_I y_I r_E
+hy 1.0 h_B y_E
+hà 1.0 h_B a_I f_E
+hài 1.0 h_B a_I f_I i_E
+hàm 1.0 h_B a_I f_I m_E
+hàn 1.0 h_B a_I f_I n_E
+hàng 1.0 h_B a_I f_I n_I g_E
+hành 1.0 h_B a_I f_I n_I h_E
+hào 1.0 h_B a_I f_I o_E
+hàu 1.0 h_B a_I f_I u_E
+há 1.0 h_B a_I s_E
+hái 1.0 h_B a_I s_I i_E
+hám 1.0 h_B a_I s_I m_E
+hán 1.0 h_B a_I s_I n_E
+háng 1.0 h_B a_I s_I n_I g_E
+háo 1.0 h_B a_I s_I o_E
+hát 1.0 h_B a_I s_I t_E
+hâm 1.0 h_B a_I a_I m_E
+hân 1.0 h_B a_I a_I n_E
+hãi 1.0 h_B a_I x_I i_E
+hãn 1.0 h_B a_I x_I n_E
+hãng 1.0 h_B a_I x_I n_I g_E
+hãnh 1.0 h_B a_I x_I n_I h_E
+hão 1.0 h_B a_I x_I o_E
+hãy 1.0 h_B a_I x_I y_E
+hè 1.0 h_B e_I f_E
+hèn 1.0 h_B e_I f_I n_E
+hé 1.0 h_B e_I s_E
+héo 1.0 h_B e_I s_I o_E
+hét 1.0 h_B e_I s_I t_E
+hên 1.0 h_B e_I e_I n_E
+hênh 1.0 h_B e_I e_I n_I h_E
+hì 1.0 h_B i_I f_E
+hình 1.0 h_B i_I f_I n_I h_E
+hí 1.0 h_B i_I s_E
+hít 1.0 h_B i_I s_I t_E
+hò 1.0 h_B o_I f_E
+hòa 1.0 h_B o_I f_I a_E
+hòn 1.0 h_B o_I f_I n_E
+hóa 1.0 h_B o_I s_I a_E
+hóc 1.0 h_B o_I s_I c_E
+hói 1.0 h_B o_I s_I i_E
+hóm 1.0 h_B o_I s_I m_E
+hóng 1.0 h_B o_I s_I n_I g_E
+hót 1.0 h_B o_I s_I t_E
+hô 1.0 h_B o_I o_E
+hôi 1.0 h_B o_I o_I i_E
+hôm 1.0 h_B o_I o_I m_E
+hôn 1.0 h_B o_I o_I n_E
+hông 1.0 h_B o_I o_I n_I g_E
+hùa 1.0 h_B u_I f_I a_E
+hùn 1.0 h_B u_I f_I n_E
+hùng 1.0 h_B u_I f_I n_I g_E
+hú 1.0 h_B u_I s_E
+húc 1.0 h_B u_I s_I c_E
+húi 1.0 h_B u_I s_I i_E
+húng 1.0 h_B u_I s_I n_I g_E
+húp 1.0 h_B u_I s_I p_E
+hút 1.0 h_B u_I s_I t_E
+húy 1.0 h_B u_I s_I y_E
+hăm 1.0 h_B a_I w_I m_E
+hăng 1.0 h_B a_I w_I n_I g_E
+hĩnh 1.0 h_B i_I x_I n_I h_E
+hũ 1.0 h_B u_I x_E
+hũm 1.0 h_B u_I x_I m_E
+hơi 1.0 h_B o_I w_I i_E
+hơn 1.0 h_B o_I w_I n_E
+hư 1.0 h_B u_I w_E
+hưng 1.0 h_B u_I w_I n_I g_E
+hưu 1.0 h_B u_I w_I u_E
+hương 1.0 h_B u_I w_I o_I w_I n_I g_E
+hươu 1.0 h_B u_I w_I o_I w_I u_E
+hước 1.0 h_B u_I w_I o_I w_I s_I c_E
+hướm 1.0 h_B u_I w_I o_I w_I s_I m_E
+hướng 1.0 h_B u_I w_I o_I w_I s_I n_I g_E
+hường 1.0 h_B u_I w_I o_I w_I f_I n_I g_E
+hưởng 1.0 h_B u_I w_I o_I w_I r_I n_I g_E
+hượm 1.0 h_B u_I w_I o_I w_I j_I m_E
+hạ 1.0 h_B a_I j_E
+hạc 1.0 h_B a_I j_I c_E
+hạch 1.0 h_B a_I j_I c_I h_E
+hại 1.0 h_B a_I j_I i_E
+hạm 1.0 h_B a_I j_I m_E
+hạn 1.0 h_B a_I j_I n_E
+hạng 1.0 h_B a_I j_I n_I g_E
+hạnh 1.0 h_B a_I j_I n_I h_E
+hạo 1.0 h_B a_I j_I o_E
+hạp 1.0 h_B a_I j_I p_E
+hạt 1.0 h_B a_I j_I t_E
+hả 1.0 h_B a_I r_E
+hải 1.0 h_B a_I r_I i_E
+hảm 1.0 h_B a_I r_I m_E
+hảo 1.0 h_B a_I r_I o_E
+hấng 1.0 h_B a_I a_I s_I n_I g_E
+hấp 1.0 h_B a_I a_I s_I p_E
+hất 1.0 h_B a_I a_I s_I t_E
+hấu 1.0 h_B a_I a_I s_I u_E
+hầm 1.0 h_B a_I a_I f_I m_E
+hầu 1.0 h_B a_I a_I f_I u_E
+hầy 1.0 h_B a_I a_I f_I y_E
+hẩm 1.0 h_B a_I a_I r_I m_E
+hẫng 1.0 h_B a_I a_I x_I n_I g_E
+hận 1.0 h_B a_I a_I j_I n_E
+hập 1.0 h_B a_I a_I j_I p_E
+hậu 1.0 h_B a_I a_I j_I u_E
+hắc 1.0 h_B a_I w_I s_I c_E
+hắn 1.0 h_B a_I w_I s_I n_E
+hắng 1.0 h_B a_I w_I s_I n_I g_E
+hắt 1.0 h_B a_I w_I s_I t_E
+hằn 1.0 h_B a_I w_I f_I n_E
+hằng 1.0 h_B a_I w_I f_I n_I g_E
+hẳn 1.0 h_B a_I w_I r_I n_E
+hẵng 1.0 h_B a_I w_I x_I n_I g_E
+hặc 1.0 h_B a_I w_I j_I c_E
+hẹ 1.0 h_B e_I j_E
+hẹn 1.0 h_B e_I j_I n_E
+hẹp 1.0 h_B e_I j_I p_E
+hẻm 1.0 h_B e_I r_I m_E
+hến 1.0 h_B e_I e_I s_I n_E
+hết 1.0 h_B e_I e_I s_I t_E
+hề 1.0 h_B e_I e_I f_E
+hể 1.0 h_B e_I e_I r_E
+hển 1.0 h_B e_I e_I r_I n_E
+hểnh 1.0 h_B e_I e_I r_I n_I h_E
+hễ 1.0 h_B e_I e_I x_E
+hệ 1.0 h_B e_I e_I j_E
+hệt 1.0 h_B e_I e_I j_I t_E
+hỉ 1.0 h_B i_I r_E
+hỉnh 1.0 h_B i_I r_I n_I h_E
+họ 1.0 h_B o_I j_E
+họa 1.0 h_B o_I j_I a_E
+học 1.0 h_B o_I j_I c_E
+họe 1.0 h_B o_I j_I e_E
+họng 1.0 h_B o_I j_I n_I g_E
+họp 1.0 h_B o_I j_I p_E
+hỏa 1.0 h_B o_I r_I a_E
+hỏi 1.0 h_B o_I r_I i_E
+hỏm 1.0 h_B o_I r_I m_E
+hỏng 1.0 h_B o_I r_I n_I g_E
+hố 1.0 h_B o_I o_I s_E
+hốc 1.0 h_B o_I o_I s_I c_E
+hối 1.0 h_B o_I o_I s_I i_E
+hốt 1.0 h_B o_I o_I s_I t_E
+hồ 1.0 h_B o_I o_I f_E
+hồi 1.0 h_B o_I o_I f_I i_E
+hồn 1.0 h_B o_I o_I f_I n_E
+hồng 1.0 h_B o_I o_I f_I n_I g_E
+hổ 1.0 h_B o_I o_I r_E
+hổi 1.0 h_B o_I o_I r_I i_E
+hổm 1.0 h_B o_I o_I r_I m_E
+hổn 1.0 h_B o_I o_I r_I n_E
+hổng 1.0 h_B o_I o_I r_I n_I g_E
+hỗ 1.0 h_B o_I o_I x_E
+hỗn 1.0 h_B o_I o_I x_I n_E
+hộ 1.0 h_B o_I o_I j_E
+hộc 1.0 h_B o_I o_I j_I c_E
+hội 1.0 h_B o_I o_I j_I i_E
+hộn 1.0 h_B o_I o_I j_I n_E
+hộp 1.0 h_B o_I o_I j_I p_E
+hột 1.0 h_B o_I o_I j_I t_E
+hớ 1.0 h_B o_I w_I s_E
+hớn 1.0 h_B o_I w_I s_I n_E
+hớp 1.0 h_B o_I w_I s_I p_E
+hớt 1.0 h_B o_I w_I s_I t_E
+hờn 1.0 h_B o_I w_I f_I n_E
+hở 1.0 h_B o_I w_I r_E
+hởi 1.0 h_B o_I w_I r_I i_E
+hợi 1.0 h_B o_I w_I j_I i_E
+hợm 1.0 h_B o_I w_I j_I m_E
+hợp 1.0 h_B o_I w_I j_I p_E
+hụ 1.0 h_B u_I j_E
+hục 1.0 h_B u_I j_I c_E
+hụi 1.0 h_B u_I j_I i_E
+hụt 1.0 h_B u_I j_I t_E
+hủ 1.0 h_B u_I r_E
+hủy 1.0 h_B u_I r_I y_E
+hứa 1.0 h_B u_I w_I s_I a_E
+hức 1.0 h_B u_I w_I s_I c_E
+hứng 1.0 h_B u_I w_I s_I n_I g_E
+hừ 1.0 h_B u_I w_I f_E
+hừng 1.0 h_B u_I w_I f_I n_I g_E
+hữu 1.0 h_B u_I w_I x_I u_E
+hự 1.0 h_B u_I w_I j_E
+hực 1.0 h_B u_I w_I j_I c_E
+hựu 1.0 h_B u_I w_I j_I u_E
+i 1.0 i_S
+im 1.0 i_B m_E
+in 1.0 i_B n_E
+inh 1.0 i_B n_I h_E
+k 1.0 k_S
+ka 1.0 k_B a_E
+kem 1.0 k_B e_I m_E
+ken 1.0 k_B e_I n_E
+keo 1.0 k_B e_I o_E
+kha 1.0 k_B h_I a_E
+khai 1.0 k_B h_I a_I i_E
+khan 1.0 k_B h_I a_I n_E
+khang 1.0 k_B h_I a_I n_I g_E
+khanh 1.0 k_B h_I a_I n_I h_E
+khao 1.0 k_B h_I a_I o_E
+khe 1.0 k_B h_I e_E
+khen 1.0 k_B h_I e_I n_E
+kheo 1.0 k_B h_I e_I o_E
+khi 1.0 k_B h_I i_E
+khinh 1.0 k_B h_I i_I n_I h_E
+khiêm 1.0 k_B h_I i_I e_I e_I m_E
+khiên 1.0 k_B h_I i_I e_I e_I n_E
+khiêng 1.0 k_B h_I i_I e_I e_I n_I g_E
+khiêu 1.0 k_B h_I i_I e_I e_I u_E
+khiếm 1.0 k_B h_I i_I e_I e_I s_I m_E
+khiến 1.0 k_B h_I i_I e_I e_I s_I n_E
+khiếp 1.0 k_B h_I i_I e_I e_I s_I p_E
+khiết 1.0 k_B h_I i_I e_I e_I s_I t_E
+khiếu 1.0 k_B h_I i_I e_I e_I s_I u_E
+khiển 1.0 k_B h_I i_I e_I e_I r_I n_E
+kho 1.0 k_B h_I o_E
+khoa 1.0 k_B h_I o_I a_E
+khoai 1.0 k_B h_I o_I a_I i_E
+khoan 1.0 k_B h_I o_I a_I n_E
+khoang 1.0 k_B h_I o_I a_I n_I g_E
+khoanh 1.0 k_B h_I o_I a_I n_I h_E
+khoe 1.0 k_B h_I o_I e_E
+khom 1.0 k_B h_I o_I m_E
+khoá 1.0 k_B h_I o_I a_I s_E
+khoác 1.0 k_B h_I o_I a_I s_I c_E
+khoái 1.0 k_B h_I o_I a_I s_I i_E
+khoán 1.0 k_B h_I o_I a_I s_I n_E
+khoát 1.0 k_B h_I o_I a_I s_I t_E
+khoèo 1.0 k_B h_I o_I e_I f_I o_E
+khoét 1.0 k_B h_I o_I e_I s_I t_E
+khoăn 1.0 k_B h_I o_I a_I w_I n_E
+khoải 1.0 k_B h_I o_I a_I r_I i_E
+khoản 1.0 k_B h_I o_I a_I r_I n_E
+khoảng 1.0 k_B h_I o_I a_I r_I n_I g_E
+khoảnh 1.0 k_B h_I o_I a_I r_I n_I h_E
+khoắt 1.0 k_B h_I o_I a_I w_I s_I t_E
+khoẻ 1.0 k_B h_I o_I e_I r_E
+khu 1.0 k_B h_I u_E
+khua 1.0 k_B h_I u_I a_E
+khum 1.0 k_B h_I u_I m_E
+khung 1.0 k_B h_I u_I n_I g_E
+khuy 1.0 k_B h_I u_I y_E
+khuya 1.0 k_B h_I u_I y_I a_E
+khuynh 1.0 k_B h_I u_I y_I n_I h_E
+khuyên 1.0 k_B h_I u_I y_I e_I e_I n_E
+khuyến 1.0 k_B h_I u_I y_I e_I e_I s_I n_E
+khuyết 1.0 k_B h_I u_I y_I e_I e_I s_I t_E
+khuân 1.0 k_B h_I u_I a_I a_I n_E
+khuâng 1.0 k_B h_I u_I a_I a_I n_I g_E
+khuây 1.0 k_B h_I u_I a_I a_I y_E
+khuôn 1.0 k_B h_I u_I o_I o_I n_E
+khuất 1.0 k_B h_I u_I a_I a_I s_I t_E
+khuấy 1.0 k_B h_I u_I a_I a_I s_I y_E
+khuẩn 1.0 k_B h_I u_I a_I a_I r_I n_E
+khuỳnh 1.0 k_B h_I u_I y_I f_I n_I h_E
+khuỷu 1.0 k_B h_I u_I y_I r_I u_E
+khà 1.0 k_B h_I a_I f_E
+khàn 1.0 k_B h_I a_I f_I n_E
+khàng 1.0 k_B h_I a_I f_I n_I g_E
+khá 1.0 k_B h_I a_I s_E
+khác 1.0 k_B h_I a_I s_I c_E
+khách 1.0 k_B h_I a_I s_I c_I h_E
+khái 1.0 k_B h_I a_I s_I i_E
+khám 1.0 k_B h_I a_I s_I m_E
+khán 1.0 k_B h_I a_I s_I n_E
+kháng 1.0 k_B h_I a_I s_I n_I g_E
+khánh 1.0 k_B h_I a_I s_I n_I h_E
+kháo 1.0 k_B h_I a_I s_I o_E
+kháp 1.0 k_B h_I a_I s_I p_E
+khát 1.0 k_B h_I a_I s_I t_E
+khâm 1.0 k_B h_I a_I a_I m_E
+khâu 1.0 k_B h_I a_I a_I u_E
+khè 1.0 k_B h_I e_I f_E
+khèn 1.0 k_B h_I e_I f_I n_E
+khèo 1.0 k_B h_I e_I f_I o_E
+khén 1.0 k_B h_I e_I s_I n_E
+khéo 1.0 k_B h_I e_I s_I o_E
+khép 1.0 k_B h_I e_I s_I p_E
+khét 1.0 k_B h_I e_I s_I t_E
+khê 1.0 k_B h_I e_I e_E
+khênh 1.0 k_B h_I e_I e_I n_I h_E
+khí 1.0 k_B h_I i_I s_E
+khía 1.0 k_B h_I i_I s_I a_E
+khích 1.0 k_B h_I i_I s_I c_I h_E
+khít 1.0 k_B h_I i_I s_I t_E
+khíu 1.0 k_B h_I i_I s_I u_E
+khò 1.0 k_B h_I o_I f_E
+khó 1.0 k_B h_I o_I s_E
+khóa 1.0 k_B h_I o_I s_I a_E
+khóc 1.0 k_B h_I o_I s_I c_E
+khóe 1.0 k_B h_I o_I s_I e_E
+khói 1.0 k_B h_I o_I s_I i_E
+khô 1.0 k_B h_I o_I o_E
+khôi 1.0 k_B h_I o_I o_I i_E
+khôn 1.0 k_B h_I o_I o_I n_E
+không 1.0 k_B h_I o_I o_I n_I g_E
+khù 1.0 k_B h_I u_I f_E
+khú 1.0 k_B h_I u_I s_E
+khúc 1.0 k_B h_I u_I s_I c_E
+khúm 1.0 k_B h_I u_I s_I m_E
+khăm 1.0 k_B h_I a_I w_I m_E
+khăn 1.0 k_B h_I a_I w_I n_E
+khơ 1.0 k_B h_I o_I w_E
+khơi 1.0 k_B h_I o_I w_I i_E
+khư 1.0 k_B h_I u_I w_E
+khươm 1.0 k_B h_I u_I w_I o_I w_I m_E
+khươn 1.0 k_B h_I u_I w_I o_I w_I n_E
+khương 1.0 k_B h_I u_I w_I o_I w_I n_I g_E
+khước 1.0 k_B h_I u_I w_I o_I w_I s_I c_E
+khạc 1.0 k_B h_I a_I j_I c_E
+khạng 1.0 k_B h_I a_I j_I n_I g_E
+khả 1.0 k_B h_I a_I r_E
+khải 1.0 k_B h_I a_I r_I i_E
+khảo 1.0 k_B h_I a_I r_I o_E
+khảy 1.0 k_B h_I a_I r_I y_E
+khấn 1.0 k_B h_I a_I a_I s_I n_E
+khấp 1.0 k_B h_I a_I a_I s_I p_E
+khất 1.0 k_B h_I a_I a_I s_I t_E
+khấu 1.0 k_B h_I a_I a_I s_I u_E
+khẩn 1.0 k_B h_I a_I a_I r_I n_E
+khẩu 1.0 k_B h_I a_I a_I r_I u_E
+khật 1.0 k_B h_I a_I a_I j_I t_E
+khắc 1.0 k_B h_I a_I w_I s_I c_E
+khắm 1.0 k_B h_I a_I w_I s_I m_E
+khắng 1.0 k_B h_I a_I w_I s_I n_I g_E
+khắp 1.0 k_B h_I a_I w_I s_I p_E
+khắt 1.0 k_B h_I a_I w_I s_I t_E
+khẳm 1.0 k_B h_I a_I w_I r_I m_E
+khẳng 1.0 k_B h_I a_I w_I r_I n_I g_E
+khẻ 1.0 k_B h_I e_I r_E
+khẽ 1.0 k_B h_I e_I x_E
+khế 1.0 k_B h_I e_I e_I s_E
+khề 1.0 k_B h_I e_I e_I f_E
+khều 1.0 k_B h_I e_I e_I f_I u_E
+khệ 1.0 k_B h_I e_I e_I j_E
+khệnh 1.0 k_B h_I e_I e_I j_I n_I h_E
+khỉ 1.0 k_B h_I i_I r_E
+khịt 1.0 k_B h_I i_I j_I t_E
+khỏa 1.0 k_B h_I o_I r_I a_E
+khỏe 1.0 k_B h_I o_I r_I e_E
+khỏi 1.0 k_B h_I o_I r_I i_E
+khố 1.0 k_B h_I o_I o_I s_E
+khốc 1.0 k_B h_I o_I o_I s_I c_E
+khối 1.0 k_B h_I o_I o_I s_I i_E
+khốn 1.0 k_B h_I o_I o_I s_I n_E
+khống 1.0 k_B h_I o_I o_I s_I n_I g_E
+khổ 1.0 k_B h_I o_I o_I r_E
+khổng 1.0 k_B h_I o_I o_I r_I n_I g_E
+khớ 1.0 k_B h_I o_I w_I s_E
+khớp 1.0 k_B h_I o_I w_I s_I p_E
+khờ 1.0 k_B h_I o_I w_I f_E
+khởi 1.0 k_B h_I o_I w_I r_I i_E
+khụ 1.0 k_B h_I u_I j_E
+khủng 1.0 k_B h_I u_I r_I n_I g_E
+khứ 1.0 k_B h_I u_I w_I s_E
+khứu 1.0 k_B h_I u_I w_I s_I u_E
+khừ 1.0 k_B h_I u_I w_I f_E
+khựng 1.0 k_B h_I u_I w_I j_I n_I g_E
+ki 1.0 k_B i_E
+kia 1.0 k_B i_I a_E
+kim 1.0 k_B i_I m_E
+kinh 1.0 k_B i_I n_I h_E
+kiêm 1.0 k_B i_I e_I e_I m_E
+kiên 1.0 k_B i_I e_I e_I n_E
+kiêng 1.0 k_B i_I e_I e_I n_I g_E
+kiêu 1.0 k_B i_I e_I e_I u_E
+kiếm 1.0 k_B i_I e_I e_I s_I m_E
+kiến 1.0 k_B i_I e_I e_I s_I n_E
+kiếp 1.0 k_B i_I e_I e_I s_I p_E
+kiềm 1.0 k_B i_I e_I e_I f_I m_E
+kiền 1.0 k_B i_I e_I e_I f_I n_E
+kiềng 1.0 k_B i_I e_I e_I f_I n_I g_E
+kiều 1.0 k_B i_I e_I e_I f_I u_E
+kiểm 1.0 k_B i_I e_I e_I r_I m_E
+kiểng 1.0 k_B i_I e_I e_I r_I n_I g_E
+kiểu 1.0 k_B i_I e_I e_I r_I u_E
+kiệm 1.0 k_B i_I e_I e_I j_I m_E
+kiện 1.0 k_B i_I e_I e_I j_I n_E
+kiệt 1.0 k_B i_I e_I e_I j_I t_E
+kiệu 1.0 k_B i_I e_I e_I j_I u_E
+ko 1.0 k_B o_E
+ky 1.0 k_B y_E
+kè 1.0 k_B e_I f_E
+kèm 1.0 k_B e_I f_I m_E
+kèn 1.0 k_B e_I f_I n_E
+kèo 1.0 k_B e_I f_I o_E
+kém 1.0 k_B e_I s_I m_E
+kén 1.0 k_B e_I s_I n_E
+kéo 1.0 k_B e_I s_I o_E
+kép 1.0 k_B e_I s_I p_E
+két 1.0 k_B e_I s_I t_E
+kê 1.0 k_B e_I e_E
+kênh 1.0 k_B e_I e_I n_I h_E
+kêu 1.0 k_B e_I e_I u_E
+kì 1.0 k_B i_I f_E
+kìa 1.0 k_B i_I f_I a_E
+kìm 1.0 k_B i_I f_I m_E
+kình 1.0 k_B i_I f_I n_I h_E
+kí 1.0 k_B i_I s_E
+kích 1.0 k_B i_I s_I c_I h_E
+kín 1.0 k_B i_I s_I n_E
+kính 1.0 k_B i_I s_I n_I h_E
+kíp 1.0 k_B i_I s_I p_E
+kít 1.0 k_B i_I s_I t_E
+ký 1.0 k_B y_I s_E
+kĩ 1.0 k_B i_I x_E
+kẹn 1.0 k_B e_I j_I n_E
+kẹo 1.0 k_B e_I j_I o_E
+kẹp 1.0 k_B e_I j_I p_E
+kẹt 1.0 k_B e_I j_I t_E
+kẻ 1.0 k_B e_I r_E
+kẻng 1.0 k_B e_I r_I n_I g_E
+kẻo 1.0 k_B e_I r_I o_E
+kẽ 1.0 k_B e_I x_E
+kẽm 1.0 k_B e_I x_I m_E
+kẽo 1.0 k_B e_I x_I o_E
+kế 1.0 k_B e_I e_I s_E
+kếch 1.0 k_B e_I e_I s_I c_I h_E
+kết 1.0 k_B e_I e_I s_I t_E
+kề 1.0 k_B e_I e_I f_E
+kền 1.0 k_B e_I e_I f_I n_E
+kềnh 1.0 k_B e_I e_I f_I n_I h_E
+kể 1.0 k_B e_I e_I r_E
+kệ 1.0 k_B e_I e_I j_E
+kệnh 1.0 k_B e_I e_I j_I n_I h_E
+kỉ 1.0 k_B i_I r_E
+kỉnh 1.0 k_B i_I r_I n_I h_E
+kị 1.0 k_B i_I j_E
+kịch 1.0 k_B i_I j_I c_I h_E
+kịp 1.0 k_B i_I j_I p_E
+kịt 1.0 k_B i_I j_I t_E
+kỳ 1.0 k_B y_I f_E
+kỵ 1.0 k_B y_I j_E
+kỷ 1.0 k_B y_I r_E
+kỹ 1.0 k_B y_I x_E
+la 1.0 l_B a_E
+lai 1.0 l_B a_I i_E
+lam 1.0 l_B a_I m_E
+lan 1.0 l_B a_I n_E
+lang 1.0 l_B a_I n_I g_E
+lanh 1.0 l_B a_I n_I h_E
+lao 1.0 l_B a_I o_E
+lau 1.0 l_B a_I u_E
+lay 1.0 l_B a_I y_E
+le 1.0 l_B e_E
+lem 1.0 l_B e_I m_E
+len 1.0 l_B e_I n_E
+leo 1.0 l_B e_I o_E
+li 1.0 l_B i_E
+lia 1.0 l_B i_I a_E
+lim 1.0 l_B i_I m_E
+lin 1.0 l_B i_I n_E
+linh 1.0 l_B i_I n_I h_E
+liu 1.0 l_B i_I u_E
+liêm 1.0 l_B i_I e_I e_I m_E
+liên 1.0 l_B i_I e_I e_I n_E
+liêng 1.0 l_B i_I e_I e_I n_I g_E
+liêu 1.0 l_B i_I e_I e_I u_E
+liếc 1.0 l_B i_I e_I e_I s_I c_E
+liếm 1.0 l_B i_I e_I e_I s_I m_E
+liến 1.0 l_B i_I e_I e_I s_I n_E
+liếng 1.0 l_B i_I e_I e_I s_I n_I g_E
+liềm 1.0 l_B i_I e_I e_I f_I m_E
+liền 1.0 l_B i_I e_I e_I f_I n_E
+liều 1.0 l_B i_I e_I e_I f_I u_E
+liễu 1.0 l_B i_I e_I e_I x_I u_E
+liệng 1.0 l_B i_I e_I e_I j_I n_I g_E
+liệt 1.0 l_B i_I e_I e_I j_I t_E
+liệu 1.0 l_B i_I e_I e_I j_I u_E
+lo 1.0 l_B o_E
+loa 1.0 l_B o_I a_E
+loan 1.0 l_B o_I a_I n_E
+loanh 1.0 l_B o_I a_I n_I h_E
+loay 1.0 l_B o_I a_I y_E
+loi 1.0 l_B o_I i_E
+lom 1.0 l_B o_I m_E
+long 1.0 l_B o_I n_I g_E
+loài 1.0 l_B o_I a_I f_I i_E
+loàn 1.0 l_B o_I a_I f_I n_E
+loàng 1.0 l_B o_I a_I f_I n_I g_E
+loáng 1.0 l_B o_I a_I s_I n_I g_E
+loãng 1.0 l_B o_I a_I x_I n_I g_E
+loé 1.0 l_B o_I e_I s_E
+loét 1.0 l_B o_I e_I s_I t_E
+loại 1.0 l_B o_I a_I j_I i_E
+loạn 1.0 l_B o_I a_I j_I n_E
+loạng 1.0 l_B o_I a_I j_I n_I g_E
+loạt 1.0 l_B o_I a_I j_I t_E
+loảng 1.0 l_B o_I a_I r_I n_I g_E
+loắt 1.0 l_B o_I a_I w_I s_I t_E
+loằng 1.0 l_B o_I a_I w_I f_I n_I g_E
+lu 1.0 l_B u_E
+lua 1.0 l_B u_I a_E
+lui 1.0 l_B u_I i_E
+lung 1.0 l_B u_I n_I g_E
+luyến 1.0 l_B u_I y_I e_I e_I s_I n_E
+luyện 1.0 l_B u_I y_I e_I e_I j_I n_E
+luân 1.0 l_B u_I a_I a_I n_E
+luôn 1.0 l_B u_I o_I o_I n_E
+luẩn 1.0 l_B u_I a_I a_I r_I n_E
+luận 1.0 l_B u_I a_I a_I j_I n_E
+luật 1.0 l_B u_I a_I a_I j_I t_E
+luống 1.0 l_B u_I o_I o_I s_I n_I g_E
+luồn 1.0 l_B u_I o_I o_I f_I n_E
+luồng 1.0 l_B u_I o_I o_I f_I n_I g_E
+luỗng 1.0 l_B u_I o_I o_I x_I n_I g_E
+luộc 1.0 l_B u_I o_I o_I j_I c_E
+ly 1.0 l_B y_E
+là 1.0 l_B a_I f_E
+lài 1.0 l_B a_I f_I i_E
+làm 1.0 l_B a_I f_I m_E
+làn 1.0 l_B a_I f_I n_E
+làng 1.0 l_B a_I f_I n_I g_E
+lành 1.0 l_B a_I f_I n_I h_E
+lào 1.0 l_B a_I f_I o_E
+làu 1.0 l_B a_I f_I u_E
+lá 1.0 l_B a_I s_E
+lác 1.0 l_B a_I s_I c_E
+lách 1.0 l_B a_I s_I c_I h_E
+lái 1.0 l_B a_I s_I i_E
+láng 1.0 l_B a_I s_I n_I g_E
+lánh 1.0 l_B a_I s_I n_I h_E
+láo 1.0 l_B a_I s_I o_E
+láp 1.0 l_B a_I s_I p_E
+lát 1.0 l_B a_I s_I t_E
+láu 1.0 l_B a_I s_I u_E
+láy 1.0 l_B a_I s_I y_E
+lâm 1.0 l_B a_I a_I m_E
+lân 1.0 l_B a_I a_I n_E
+lâng 1.0 l_B a_I a_I n_I g_E
+lâu 1.0 l_B a_I a_I u_E
+lây 1.0 l_B a_I a_I y_E
+lã 1.0 l_B a_I x_E
+lãi 1.0 l_B a_I x_I i_E
+lãm 1.0 l_B a_I x_I m_E
+lãn 1.0 l_B a_I x_I n_E
+lãng 1.0 l_B a_I x_I n_I g_E
+lãnh 1.0 l_B a_I x_I n_I h_E
+lão 1.0 l_B a_I x_I o_E
+lè 1.0 l_B e_I f_E
+lèo 1.0 l_B e_I f_I o_E
+lé 1.0 l_B e_I s_E
+léc 1.0 l_B e_I s_I c_E
+lém 1.0 l_B e_I s_I m_E
+lén 1.0 l_B e_I s_I n_E
+léng 1.0 l_B e_I s_I n_I g_E
+léo 1.0 l_B e_I s_I o_E
+lép 1.0 l_B e_I s_I p_E
+lét 1.0 l_B e_I s_I t_E
+lê 1.0 l_B e_I e_E
+lên 1.0 l_B e_I e_I n_E
+lênh 1.0 l_B e_I e_I n_I h_E
+lêu 1.0 l_B e_I e_I u_E
+lì 1.0 l_B i_I f_E
+lìa 1.0 l_B i_I f_I a_E
+lìm 1.0 l_B i_I f_I m_E
+lình 1.0 l_B i_I f_I n_I h_E
+lí 1.0 l_B i_I s_E
+lính 1.0 l_B i_I s_I n_I h_E
+líp 1.0 l_B i_I s_I p_E
+lít 1.0 l_B i_I s_I t_E
+líu 1.0 l_B i_I s_I u_E
+lò 1.0 l_B o_I f_E
+lòa 1.0 l_B o_I f_I a_E
+lòi 1.0 l_B o_I f_I i_E
+lòm 1.0 l_B o_I f_I m_E
+lòng 1.0 l_B o_I f_I n_I g_E
+lóc 1.0 l_B o_I s_I c_E
+lóe 1.0 l_B o_I s_I e_E
+lóm 1.0 l_B o_I s_I m_E
+lóng 1.0 l_B o_I s_I n_I g_E
+lót 1.0 l_B o_I s_I t_E
+lô 1.0 l_B o_I o_E
+lôi 1.0 l_B o_I o_I i_E
+lôm 1.0 l_B o_I o_I m_E
+lông 1.0 l_B o_I o_I n_I g_E
+lõi 1.0 l_B o_I x_I i_E
+lõm 1.0 l_B o_I x_I m_E
+lõng 1.0 l_B o_I x_I n_I g_E
+lù 1.0 l_B u_I f_E
+lùa 1.0 l_B u_I f_I a_E
+lùi 1.0 l_B u_I f_I i_E
+lùm 1.0 l_B u_I f_I m_E
+lùng 1.0 l_B u_I f_I n_I g_E
+lú 1.0 l_B u_I s_E
+lúa 1.0 l_B u_I s_I a_E
+lúc 1.0 l_B u_I s_I c_E
+lúi 1.0 l_B u_I s_I i_E
+lúm 1.0 l_B u_I s_I m_E
+lún 1.0 l_B u_I s_I n_E
+lúng 1.0 l_B u_I s_I n_I g_E
+lý 1.0 l_B y_I s_E
+lăm 1.0 l_B a_I w_I m_E
+lăn 1.0 l_B a_I w_I n_E
+lăng 1.0 l_B a_I w_I n_I g_E
+lĩnh 1.0 l_B i_I x_I n_I h_E
+lũ 1.0 l_B u_I x_E
+lũi 1.0 l_B u_I x_I i_E
+lũm 1.0 l_B u_I x_I m_E
+lũn 1.0 l_B u_I x_I n_E
+lũng 1.0 l_B u_I x_I n_I g_E
+lũy 1.0 l_B u_I x_I y_E
+lơ 1.0 l_B o_I w_E
+lơi 1.0 l_B o_I w_I i_E
+lơn 1.0 l_B o_I w_I n_E
+lư 1.0 l_B u_I w_E
+lưng 1.0 l_B u_I w_I n_I g_E
+lưu 1.0 l_B u_I w_I u_E
+lươm 1.0 l_B u_I w_I o_I w_I m_E
+lươn 1.0 l_B u_I w_I o_I w_I n_E
+lương 1.0 l_B u_I w_I o_I w_I n_I g_E
+lưới 1.0 l_B u_I w_I o_I w_I s_I i_E
+lướng 1.0 l_B u_I w_I o_I w_I s_I n_I g_E
+lướt 1.0 l_B u_I w_I o_I w_I s_I t_E
+lười 1.0 l_B u_I w_I o_I w_I f_I i_E
+lường 1.0 l_B u_I w_I o_I w_I f_I n_I g_E
+lưỡi 1.0 l_B u_I w_I o_I w_I x_I i_E
+lưỡng 1.0 l_B u_I w_I o_I w_I x_I n_I g_E
+lược 1.0 l_B u_I w_I o_I w_I j_I c_E
+lượm 1.0 l_B u_I w_I o_I w_I j_I m_E
+lượn 1.0 l_B u_I w_I o_I w_I j_I n_E
+lượng 1.0 l_B u_I w_I o_I w_I j_I n_I g_E
+lượt 1.0 l_B u_I w_I o_I w_I j_I t_E
+lạ 1.0 l_B a_I j_E
+lạc 1.0 l_B a_I j_I c_E
+lạch 1.0 l_B a_I j_I c_I h_E
+lại 1.0 l_B a_I j_I i_E
+lạm 1.0 l_B a_I j_I m_E
+lạn 1.0 l_B a_I j_I n_E
+lạng 1.0 l_B a_I j_I n_I g_E
+lạnh 1.0 l_B a_I j_I n_I h_E
+lạo 1.0 l_B a_I j_I o_E
+lạp 1.0 l_B a_I j_I p_E
+lạt 1.0 l_B a_I j_I t_E
+lạy 1.0 l_B a_I j_I y_E
+lả 1.0 l_B a_I r_E
+lải 1.0 l_B a_I r_I i_E
+lảm 1.0 l_B a_I r_I m_E
+lảng 1.0 l_B a_I r_I n_I g_E
+lảnh 1.0 l_B a_I r_I n_I h_E
+lảy 1.0 l_B a_I r_I y_E
+lấm 1.0 l_B a_I a_I s_I m_E
+lấn 1.0 l_B a_I a_I s_I n_E
+lấp 1.0 l_B a_I a_I s_I p_E
+lất 1.0 l_B a_I a_I s_I t_E
+lấy 1.0 l_B a_I a_I s_I y_E
+lầm 1.0 l_B a_I a_I f_I m_E
+lần 1.0 l_B a_I a_I f_I n_E
+lầu 1.0 l_B a_I a_I f_I u_E
+lầy 1.0 l_B a_I a_I f_I y_E
+lẩm 1.0 l_B a_I a_I r_I m_E
+lẩn 1.0 l_B a_I a_I r_I n_E
+lẩu 1.0 l_B a_I a_I r_I u_E
+lẫn 1.0 l_B a_I a_I x_I n_E
+lẫy 1.0 l_B a_I a_I x_I y_E
+lận 1.0 l_B a_I a_I j_I n_E
+lập 1.0 l_B a_I a_I j_I p_E
+lật 1.0 l_B a_I a_I j_I t_E
+lậu 1.0 l_B a_I a_I j_I u_E
+lắc 1.0 l_B a_I w_I s_I c_E
+lắm 1.0 l_B a_I w_I s_I m_E
+lắng 1.0 l_B a_I w_I s_I n_I g_E
+lắp 1.0 l_B a_I w_I s_I p_E
+lắt 1.0 l_B a_I w_I s_I t_E
+lằn 1.0 l_B a_I w_I f_I n_E
+lằng 1.0 l_B a_I w_I f_I n_I g_E
+lẳm 1.0 l_B a_I w_I r_I m_E
+lẳn 1.0 l_B a_I w_I r_I n_E
+lẳng 1.0 l_B a_I w_I r_I n_I g_E
+lặm 1.0 l_B a_I w_I j_I m_E
+lặn 1.0 l_B a_I w_I j_I n_E
+lặng 1.0 l_B a_I w_I j_I n_I g_E
+lặp 1.0 l_B a_I w_I j_I p_E
+lặt 1.0 l_B a_I w_I j_I t_E
+lẹ 1.0 l_B e_I j_E
+lẹm 1.0 l_B e_I j_I m_E
+lẻ 1.0 l_B e_I r_E
+lẻn 1.0 l_B e_I r_I n_E
+lẻng 1.0 l_B e_I r_I n_I g_E
+lẽ 1.0 l_B e_I x_E
+lẽn 1.0 l_B e_I x_I n_E
+lẽo 1.0 l_B e_I x_I o_E
+lết 1.0 l_B e_I e_I s_I t_E
+lếu 1.0 l_B e_I e_I s_I u_E
+lề 1.0 l_B e_I e_I f_E
+lềnh 1.0 l_B e_I e_I f_I n_I h_E
+lều 1.0 l_B e_I e_I f_I u_E
+lể 1.0 l_B e_I e_I r_E
+lễ 1.0 l_B e_I e_I x_E
+lệ 1.0 l_B e_I e_I j_E
+lệch 1.0 l_B e_I e_I j_I c_I h_E
+lệnh 1.0 l_B e_I e_I j_I n_I h_E
+lỉm 1.0 l_B i_I r_I m_E
+lỉnh 1.0 l_B i_I r_I n_I h_E
+lịa 1.0 l_B i_I j_I a_E
+lịch 1.0 l_B i_I j_I c_I h_E
+lịm 1.0 l_B i_I j_I m_E
+lịnh 1.0 l_B i_I j_I n_I h_E
+lọ 1.0 l_B o_I j_E
+lọc 1.0 l_B o_I j_I c_E
+lọng 1.0 l_B o_I j_I n_I g_E
+lọt 1.0 l_B o_I j_I t_E
+lỏi 1.0 l_B o_I r_I i_E
+lỏn 1.0 l_B o_I r_I n_E
+lỏng 1.0 l_B o_I r_I n_I g_E
+lố 1.0 l_B o_I o_I s_E
+lốc 1.0 l_B o_I o_I s_I c_E
+lối 1.0 l_B o_I o_I s_I i_E
+lốm 1.0 l_B o_I o_I s_I m_E
+lốp 1.0 l_B o_I o_I s_I p_E
+lốt 1.0 l_B o_I o_I s_I t_E
+lồ 1.0 l_B o_I o_I f_E
+lồi 1.0 l_B o_I o_I f_I i_E
+lồm 1.0 l_B o_I o_I f_I m_E
+lồng 1.0 l_B o_I o_I f_I n_I g_E
+lổm 1.0 l_B o_I o_I r_I m_E
+lổng 1.0 l_B o_I o_I r_I n_I g_E
+lỗ 1.0 l_B o_I o_I x_E
+lỗi 1.0 l_B o_I o_I x_I i_E
+lộ 1.0 l_B o_I o_I j_E
+lộc 1.0 l_B o_I o_I j_I c_E
+lội 1.0 l_B o_I o_I j_I i_E
+lộn 1.0 l_B o_I o_I j_I n_E
+lộng 1.0 l_B o_I o_I j_I n_I g_E
+lộp 1.0 l_B o_I o_I j_I p_E
+lột 1.0 l_B o_I o_I j_I t_E
+lớn 1.0 l_B o_I w_I s_I n_E
+lớp 1.0 l_B o_I w_I s_I p_E
+lớt 1.0 l_B o_I w_I s_I t_E
+lờ 1.0 l_B o_I w_I f_E
+lời 1.0 l_B o_I w_I f_I i_E
+lờm 1.0 l_B o_I w_I f_I m_E
+lờn 1.0 l_B o_I w_I f_I n_E
+lở 1.0 l_B o_I w_I r_E
+lởi 1.0 l_B o_I w_I r_I i_E
+lởn 1.0 l_B o_I w_I r_I n_E
+lỡ 1.0 l_B o_I w_I x_E
+lỡm 1.0 l_B o_I w_I x_I m_E
+lợi 1.0 l_B o_I w_I j_I i_E
+lợm 1.0 l_B o_I w_I j_I m_E
+lợn 1.0 l_B o_I w_I j_I n_E
+lợp 1.0 l_B o_I w_I j_I p_E
+lụ 1.0 l_B u_I j_E
+lụa 1.0 l_B u_I j_I a_E
+lục 1.0 l_B u_I j_I c_E
+lụng 1.0 l_B u_I j_I n_I g_E
+lụp 1.0 l_B u_I j_I p_E
+lụt 1.0 l_B u_I j_I t_E
+lủ 1.0 l_B u_I r_E
+lủi 1.0 l_B u_I r_I i_E
+lủm 1.0 l_B u_I r_I m_E
+lủng 1.0 l_B u_I r_I n_I g_E
+lứa 1.0 l_B u_I w_I s_I a_E
+lức 1.0 l_B u_I w_I s_I c_E
+lứt 1.0 l_B u_I w_I s_I t_E
+lừ 1.0 l_B u_I w_I f_E
+lừa 1.0 l_B u_I w_I f_I a_E
+lừng 1.0 l_B u_I w_I f_I n_I g_E
+lử 1.0 l_B u_I w_I r_E
+lửa 1.0 l_B u_I w_I r_I a_E
+lửng 1.0 l_B u_I w_I r_I n_I g_E
+lữ 1.0 l_B u_I w_I x_E
+lữa 1.0 l_B u_I w_I x_I a_E
+lững 1.0 l_B u_I w_I x_I n_I g_E
+lựa 1.0 l_B u_I w_I j_I a_E
+lực 1.0 l_B u_I w_I j_I c_E
+lựu 1.0 l_B u_I w_I j_I u_E
+lỵ 1.0 l_B y_I j_E
+m 1.0 m_S
+ma 1.0 m_B a_E
+mai 1.0 m_B a_I i_E
+man 1.0 m_B a_I n_E
+mang 1.0 m_B a_I n_I g_E
+manh 1.0 m_B a_I n_I h_E
+mau 1.0 m_B a_I u_E
+may 1.0 m_B a_I y_E
+me 1.0 m_B e_E
+men 1.0 m_B e_I n_E
+mi 1.0 m_B i_E
+min 1.0 m_B i_I n_E
+minh 1.0 m_B i_I n_I h_E
+miên 1.0 m_B i_I e_I e_I n_E
+miêu 1.0 m_B i_I e_I e_I u_E
+miếng 1.0 m_B i_I e_I e_I s_I n_I g_E
+miết 1.0 m_B i_I e_I e_I s_I t_E
+miếu 1.0 m_B i_I e_I e_I s_I u_E
+miền 1.0 m_B i_I e_I e_I f_I n_E
+miều 1.0 m_B i_I e_I e_I f_I u_E
+miễn 1.0 m_B i_I e_I e_I x_I n_E
+miện 1.0 m_B i_I e_I e_I j_I n_E
+miệng 1.0 m_B i_I e_I e_I j_I n_I g_E
+miệt 1.0 m_B i_I e_I e_I j_I t_E
+mo 1.0 m_B o_E
+mon 1.0 m_B o_I n_E
+mong 1.0 m_B o_I n_I g_E
+mu 1.0 m_B u_E
+mua 1.0 m_B u_I a_E
+mun 1.0 m_B u_I n_E
+muôn 1.0 m_B u_I o_I o_I n_E
+muông 1.0 m_B u_I o_I o_I n_I g_E
+muối 1.0 m_B u_I o_I o_I s_I i_E
+muốn 1.0 m_B u_I o_I o_I s_I n_E
+muống 1.0 m_B u_I o_I o_I s_I n_I g_E
+muốt 1.0 m_B u_I o_I o_I s_I t_E
+muồi 1.0 m_B u_I o_I o_I f_I i_E
+muỗi 1.0 m_B u_I o_I o_I x_I i_E
+muỗm 1.0 m_B u_I o_I o_I x_I m_E
+muỗng 1.0 m_B u_I o_I o_I x_I n_I g_E
+muộn 1.0 m_B u_I o_I o_I j_I n_E
+my 1.0 m_B y_E
+mà 1.0 m_B a_I f_E
+mài 1.0 m_B a_I f_I i_E
+màn 1.0 m_B a_I f_I n_E
+màng 1.0 m_B a_I f_I n_I g_E
+mành 1.0 m_B a_I f_I n_I h_E
+mào 1.0 m_B a_I f_I o_E
+màu 1.0 m_B a_I f_I u_E
+mày 1.0 m_B a_I f_I y_E
+má 1.0 m_B a_I s_E
+mác 1.0 m_B a_I s_I c_E
+mách 1.0 m_B a_I s_I c_I h_E
+mái 1.0 m_B a_I s_I i_E
+mán 1.0 m_B a_I s_I n_E
+máng 1.0 m_B a_I s_I n_I g_E
+mánh 1.0 m_B a_I s_I n_I h_E
+máo 1.0 m_B a_I s_I o_E
+mát 1.0 m_B a_I s_I t_E
+máu 1.0 m_B a_I s_I u_E
+máy 1.0 m_B a_I s_I y_E
+mâm 1.0 m_B a_I a_I m_E
+mân 1.0 m_B a_I a_I n_E
+mâu 1.0 m_B a_I a_I u_E
+mây 1.0 m_B a_I a_I y_E
+mã 1.0 m_B a_I x_E
+mãi 1.0 m_B a_I x_I i_E
+mãn 1.0 m_B a_I x_I n_E
+mãng 1.0 m_B a_I x_I n_I g_E
+mãnh 1.0 m_B a_I x_I n_I h_E
+mè 1.0 m_B e_I f_E
+mèn 1.0 m_B e_I f_I n_E
+mèo 1.0 m_B e_I f_I o_E
+mé 1.0 m_B e_I s_E
+mém 1.0 m_B e_I s_I m_E
+mén 1.0 m_B e_I s_I n_E
+méo 1.0 m_B e_I s_I o_E
+mép 1.0 m_B e_I s_I p_E
+mét 1.0 m_B e_I s_I t_E
+mê 1.0 m_B e_I e_E
+mênh 1.0 m_B e_I e_I n_I h_E
+mì 1.0 m_B i_I f_E
+mìn 1.0 m_B i_I f_I n_E
+mình 1.0 m_B i_I f_I n_I h_E
+mí 1.0 m_B i_I s_E
+mía 1.0 m_B i_I s_I a_E
+míp 1.0 m_B i_I s_I p_E
+mít 1.0 m_B i_I s_I t_E
+míu 1.0 m_B i_I s_I u_E
+mò 1.0 m_B o_I f_E
+mòi 1.0 m_B o_I f_I i_E
+mòn 1.0 m_B o_I f_I n_E
+mòng 1.0 m_B o_I f_I n_I g_E
+mó 1.0 m_B o_I s_E
+móc 1.0 m_B o_I s_I c_E
+mói 1.0 m_B o_I s_I i_E
+móm 1.0 m_B o_I s_I m_E
+món 1.0 m_B o_I s_I n_E
+móng 1.0 m_B o_I s_I n_I g_E
+móp 1.0 m_B o_I s_I p_E
+mót 1.0 m_B o_I s_I t_E
+mô 1.0 m_B o_I o_E
+môi 1.0 m_B o_I o_I i_E
+môn 1.0 m_B o_I o_I n_E
+mông 1.0 m_B o_I o_I n_I g_E
+mõ 1.0 m_B o_I x_E
+mõm 1.0 m_B o_I x_I m_E
+mù 1.0 m_B u_I f_E
+mùa 1.0 m_B u_I f_I a_E
+mùi 1.0 m_B u_I f_I i_E
+mùn 1.0 m_B u_I f_I n_E
+mùng 1.0 m_B u_I f_I n_I g_E
+mú 1.0 m_B u_I s_E
+múa 1.0 m_B u_I s_I a_E
+múi 1.0 m_B u_I s_I i_E
+mún 1.0 m_B u_I s_I n_E
+múp 1.0 m_B u_I s_I p_E
+mút 1.0 m_B u_I s_I t_E
+măm 1.0 m_B a_I w_I m_E
+măn 1.0 m_B a_I w_I n_E
+măng 1.0 m_B a_I w_I n_I g_E
+mĩm 1.0 m_B i_I x_I m_E
+mũ 1.0 m_B u_I x_E
+mũi 1.0 m_B u_I x_I i_E
+mũm 1.0 m_B u_I x_I m_E
+mơ 1.0 m_B o_I w_E
+mơn 1.0 m_B o_I w_I n_E
+mưa 1.0 m_B u_I w_I a_E
+mưu 1.0 m_B u_I w_I u_E
+mươi 1.0 m_B u_I w_I o_I w_I i_E
+mương 1.0 m_B u_I w_I o_I w_I n_I g_E
+mướn 1.0 m_B u_I w_I o_I w_I s_I n_E
+mướp 1.0 m_B u_I w_I o_I w_I s_I p_E
+mướt 1.0 m_B u_I w_I o_I w_I s_I t_E
+mười 1.0 m_B u_I w_I o_I w_I f_I i_E
+mường 1.0 m_B u_I w_I o_I w_I f_I n_I g_E
+mượn 1.0 m_B u_I w_I o_I w_I j_I n_E
+mượt 1.0 m_B u_I w_I o_I w_I j_I t_E
+mạ 1.0 m_B a_I j_E
+mạc 1.0 m_B a_I j_I c_E
+mạch 1.0 m_B a_I j_I c_I h_E
+mại 1.0 m_B a_I j_I i_E
+mạn 1.0 m_B a_I j_I n_E
+mạng 1.0 m_B a_I j_I n_I g_E
+mạnh 1.0 m_B a_I j_I n_I h_E
+mạo 1.0 m_B a_I j_I o_E
+mạp 1.0 m_B a_I j_I p_E
+mạt 1.0 m_B a_I j_I t_E
+mạy 1.0 m_B a_I j_I y_E
+mả 1.0 m_B a_I r_E
+mải 1.0 m_B a_I r_I i_E
+mảng 1.0 m_B a_I r_I n_I g_E
+mảnh 1.0 m_B a_I r_I n_I h_E
+mấn 1.0 m_B a_I a_I s_I n_E
+mấp 1.0 m_B a_I a_I s_I p_E
+mất 1.0 m_B a_I a_I s_I t_E
+mấu 1.0 m_B a_I a_I s_I u_E
+mấy 1.0 m_B a_I a_I s_I y_E
+mầm 1.0 m_B a_I a_I f_I m_E
+mần 1.0 m_B a_I a_I f_I n_E
+mầu 1.0 m_B a_I a_I f_I u_E
+mẩn 1.0 m_B a_I a_I r_I n_E
+mẩu 1.0 m_B a_I a_I r_I u_E
+mẩy 1.0 m_B a_I a_I r_I y_E
+mẫn 1.0 m_B a_I a_I x_I n_E
+mẫu 1.0 m_B a_I a_I x_I u_E
+mận 1.0 m_B a_I a_I j_I n_E
+mập 1.0 m_B a_I a_I j_I p_E
+mật 1.0 m_B a_I a_I j_I t_E
+mậu 1.0 m_B a_I a_I j_I u_E
+mắc 1.0 m_B a_I w_I s_I c_E
+mắm 1.0 m_B a_I w_I s_I m_E
+mắn 1.0 m_B a_I w_I s_I n_E
+mắng 1.0 m_B a_I w_I s_I n_I g_E
+mắt 1.0 m_B a_I w_I s_I t_E
+mằn 1.0 m_B a_I w_I f_I n_E
+mẳn 1.0 m_B a_I w_I r_I n_E
+mặc 1.0 m_B a_I w_I j_I c_E
+mặn 1.0 m_B a_I w_I j_I n_E
+mặt 1.0 m_B a_I w_I j_I t_E
+mẹ 1.0 m_B e_I j_E
+mẹo 1.0 m_B e_I j_I o_E
+mẹt 1.0 m_B e_I j_I t_E
+mẻ 1.0 m_B e_I r_E
+mẽ 1.0 m_B e_I x_E
+mếch 1.0 m_B e_I e_I s_I c_I h_E
+mến 1.0 m_B e_I e_I s_I n_E
+mếu 1.0 m_B e_I e_I s_I u_E
+mề 1.0 m_B e_I e_I f_E
+mềm 1.0 m_B e_I e_I f_I m_E
+mền 1.0 m_B e_I e_I f_I n_E
+mệ 1.0 m_B e_I e_I j_E
+mệnh 1.0 m_B e_I e_I j_I n_I h_E
+mệt 1.0 m_B e_I e_I j_I t_E
+mỉ 1.0 m_B i_I r_E
+mỉa 1.0 m_B i_I r_I a_E
+mỉm 1.0 m_B i_I r_I m_E
+mị 1.0 m_B i_I j_E
+mịn 1.0 m_B i_I j_I n_E
+mịt 1.0 m_B i_I j_I t_E
+mọ 1.0 m_B o_I j_E
+mọc 1.0 m_B o_I j_I c_E
+mọi 1.0 m_B o_I j_I i_E
+mọn 1.0 m_B o_I j_I n_E
+mọng 1.0 m_B o_I j_I n_I g_E
+mọt 1.0 m_B o_I j_I t_E
+mỏ 1.0 m_B o_I r_E
+mỏi 1.0 m_B o_I r_I i_E
+mỏm 1.0 m_B o_I r_I m_E
+mỏng 1.0 m_B o_I r_I n_I g_E
+mố 1.0 m_B o_I o_I s_E
+mốc 1.0 m_B o_I o_I s_I c_E
+mối 1.0 m_B o_I o_I s_I i_E
+mốt 1.0 m_B o_I o_I s_I t_E
+mồ 1.0 m_B o_I o_I f_E
+mồi 1.0 m_B o_I o_I f_I i_E
+mồm 1.0 m_B o_I o_I f_I m_E
+mồng 1.0 m_B o_I o_I f_I n_I g_E
+mổ 1.0 m_B o_I o_I r_E
+mỗ 1.0 m_B o_I o_I x_E
+mỗi 1.0 m_B o_I o_I x_I i_E
+mộ 1.0 m_B o_I o_I j_E
+mộc 1.0 m_B o_I o_I j_I c_E
+mộng 1.0 m_B o_I o_I j_I n_I g_E
+một 1.0 m_B o_I o_I j_I t_E
+mớ 1.0 m_B o_I w_I s_E
+mới 1.0 m_B o_I w_I s_I i_E
+mớp 1.0 m_B o_I w_I s_I p_E
+mờ 1.0 m_B o_I w_I f_E
+mời 1.0 m_B o_I w_I f_I i_E
+mở 1.0 m_B o_I w_I r_E
+mởn 1.0 m_B o_I w_I r_I n_E
+mỡ 1.0 m_B o_I w_I x_E
+mợ 1.0 m_B o_I w_I j_E
+mụ 1.0 m_B u_I j_E
+mục 1.0 m_B u_I j_I c_E
+mụn 1.0 m_B u_I j_I n_E
+mụp 1.0 m_B u_I j_I p_E
+mủ 1.0 m_B u_I r_E
+mủi 1.0 m_B u_I r_I i_E
+mủn 1.0 m_B u_I r_I n_E
+mức 1.0 m_B u_I w_I s_I c_E
+mứt 1.0 m_B u_I w_I s_I t_E
+mừng 1.0 m_B u_I w_I f_I n_I g_E
+mửa 1.0 m_B u_I w_I r_I a_E
+mực 1.0 m_B u_I w_I j_I c_E
+mỹ 1.0 m_B y_I x_E
+na 1.0 n_B a_E
+nai 1.0 n_B a_I i_E
+nam 1.0 n_B a_I m_E
+nan 1.0 n_B a_I n_E
+nang 1.0 n_B a_I n_I g_E
+nanh 1.0 n_B a_I n_I h_E
+nao 1.0 n_B a_I o_E
+nay 1.0 n_B a_I y_E
+nem 1.0 n_B e_I m_E
+neo 1.0 n_B e_I o_E
+nga 1.0 n_B g_I a_E
+ngai 1.0 n_B g_I a_I i_E
+ngan 1.0 n_B g_I a_I n_E
+ngang 1.0 n_B g_I a_I n_I g_E
+ngao 1.0 n_B g_I a_I o_E
+ngay 1.0 n_B g_I a_I y_E
+nghe 1.0 n_B g_I h_I e_E
+nghi 1.0 n_B g_I h_I i_E
+nghiêm 1.0 n_B g_I h_I i_I e_I e_I m_E
+nghiên 1.0 n_B g_I h_I i_I e_I e_I n_E
+nghiêng 1.0 n_B g_I h_I i_I e_I e_I n_I g_E
+nghiến 1.0 n_B g_I h_I i_I e_I e_I s_I n_E
+nghiền 1.0 n_B g_I h_I i_I e_I e_I f_I n_E
+nghiệm 1.0 n_B g_I h_I i_I e_I e_I j_I m_E
+nghiện 1.0 n_B g_I h_I i_I e_I e_I j_I n_E
+nghiệp 1.0 n_B g_I h_I i_I e_I e_I j_I p_E
+nghiệt 1.0 n_B g_I h_I i_I e_I e_I j_I t_E
+nghè 1.0 n_B g_I h_I e_I f_E
+nghèo 1.0 n_B g_I h_I e_I f_I o_E
+nghé 1.0 n_B g_I h_I e_I s_E
+nghê 1.0 n_B g_I h_I e_I e_E
+nghênh 1.0 n_B g_I h_I e_I e_I n_I h_E
+nghêu 1.0 n_B g_I h_I e_I e_I u_E
+nghìn 1.0 n_B g_I h_I i_I f_I n_E
+nghĩ 1.0 n_B g_I h_I i_I x_E
+nghĩa 1.0 n_B g_I h_I i_I x_I a_E
+nghĩnh 1.0 n_B g_I h_I i_I x_I n_I h_E
+nghẹn 1.0 n_B g_I h_I e_I j_I n_E
+nghẹo 1.0 n_B g_I h_I e_I j_I o_E
+nghẹt 1.0 n_B g_I h_I e_I j_I t_E
+nghẻo 1.0 n_B g_I h_I e_I r_I o_E
+nghẽn 1.0 n_B g_I h_I e_I x_I n_E
+nghếch 1.0 n_B g_I h_I e_I e_I s_I c_I h_E
+nghề 1.0 n_B g_I h_I e_I e_I f_E
+nghệ 1.0 n_B g_I h_I e_I e_I j_E
+nghỉ 1.0 n_B g_I h_I i_I r_E
+nghỉu 1.0 n_B g_I h_I i_I r_I u_E
+nghị 1.0 n_B g_I h_I i_I j_E
+nghịch 1.0 n_B g_I h_I i_I j_I c_I h_E
+ngoa 1.0 n_B g_I o_I a_E
+ngoan 1.0 n_B g_I o_I a_I n_E
+ngoang 1.0 n_B g_I o_I a_I n_I g_E
+ngoay 1.0 n_B g_I o_I a_I y_E
+ngoe 1.0 n_B g_I o_I e_E
+ngoi 1.0 n_B g_I o_I i_E
+ngon 1.0 n_B g_I o_I n_E
+ngoài 1.0 n_B g_I o_I a_I f_I i_E
+ngoàm 1.0 n_B g_I o_I a_I f_I m_E
+ngoác 1.0 n_B g_I o_I a_I s_I c_E
+ngoách 1.0 n_B g_I o_I a_I s_I c_I h_E
+ngoái 1.0 n_B g_I o_I a_I s_I i_E
+ngoáo 1.0 n_B g_I o_I a_I s_I o_E
+ngoáy 1.0 n_B g_I o_I a_I s_I y_E
+ngoãn 1.0 n_B g_I o_I a_I x_I n_E
+ngoèo 1.0 n_B g_I o_I e_I f_I o_E
+ngoéo 1.0 n_B g_I o_I e_I s_I o_E
+ngoại 1.0 n_B g_I o_I a_I j_I i_E
+ngoạn 1.0 n_B g_I o_I a_I j_I n_E
+ngoảnh 1.0 n_B g_I o_I a_I r_I n_I h_E
+ngoắc 1.0 n_B g_I o_I a_I w_I s_I c_E
+ngoắt 1.0 n_B g_I o_I a_I w_I s_I t_E
+ngoằn 1.0 n_B g_I o_I a_I w_I f_I n_E
+ngoằng 1.0 n_B g_I o_I a_I w_I f_I n_I g_E
+ngoẵng 1.0 n_B g_I o_I a_I w_I x_I n_I g_E
+ngoặc 1.0 n_B g_I o_I a_I w_I j_I c_E
+ngoặt 1.0 n_B g_I o_I a_I w_I j_I t_E
+ngu 1.0 n_B g_I u_E
+nguy 1.0 n_B g_I u_I y_E
+nguyên 1.0 n_B g_I u_I y_I e_I e_I n_E
+nguyền 1.0 n_B g_I u_I y_I e_I e_I f_I n_E
+nguyễn 1.0 n_B g_I u_I y_I e_I e_I x_I n_E
+nguyện 1.0 n_B g_I u_I y_I e_I e_I j_I n_E
+nguyệt 1.0 n_B g_I u_I y_I e_I e_I j_I t_E
+nguôi 1.0 n_B g_I u_I o_I o_I i_E
+nguẩy 1.0 n_B g_I u_I a_I a_I r_I y_E
+nguồi 1.0 n_B g_I u_I o_I o_I f_I i_E
+nguồn 1.0 n_B g_I u_I o_I o_I f_I n_E
+nguội 1.0 n_B g_I u_I o_I o_I j_I i_E
+ngà 1.0 n_B g_I a_I f_E
+ngài 1.0 n_B g_I a_I f_I i_E
+ngàm 1.0 n_B g_I a_I f_I m_E
+ngàn 1.0 n_B g_I a_I f_I n_E
+ngàng 1.0 n_B g_I a_I f_I n_I g_E
+ngành 1.0 n_B g_I a_I f_I n_I h_E
+ngào 1.0 n_B g_I a_I f_I o_E
+ngày 1.0 n_B g_I a_I f_I y_E
+ngách 1.0 n_B g_I a_I s_I c_I h_E
+ngán 1.0 n_B g_I a_I s_I n_E
+ngáng 1.0 n_B g_I a_I s_I n_I g_E
+ngáo 1.0 n_B g_I a_I s_I o_E
+ngáp 1.0 n_B g_I a_I s_I p_E
+ngát 1.0 n_B g_I a_I s_I t_E
+ngáu 1.0 n_B g_I a_I s_I u_E
+ngáy 1.0 n_B g_I a_I s_I y_E
+ngâm 1.0 n_B g_I a_I a_I m_E
+ngân 1.0 n_B g_I a_I a_I n_E
+ngây 1.0 n_B g_I a_I a_I y_E
+ngã 1.0 n_B g_I a_I x_E
+ngãi 1.0 n_B g_I a_I x_I i_E
+ngía 1.0 n_B g_I i_I s_I a_E
+ngò 1.0 n_B g_I o_I f_E
+ngòi 1.0 n_B g_I o_I f_I i_E
+ngó 1.0 n_B g_I o_I s_E
+ngóc 1.0 n_B g_I o_I s_I c_E
+ngóe 1.0 n_B g_I o_I s_I e_E
+ngói 1.0 n_B g_I o_I s_I i_E
+ngón 1.0 n_B g_I o_I s_I n_E
+ngóng 1.0 n_B g_I o_I s_I n_I g_E
+ngót 1.0 n_B g_I o_I s_I t_E
+ngô 1.0 n_B g_I o_I o_E
+ngôi 1.0 n_B g_I o_I o_I i_E
+ngôn 1.0 n_B g_I o_I o_I n_E
+ngông 1.0 n_B g_I o_I o_I n_I g_E
+ngõ 1.0 n_B g_I o_I x_E
+ngùi 1.0 n_B g_I u_I f_I i_E
+ngúc 1.0 n_B g_I u_I s_I c_E
+ngúng 1.0 n_B g_I u_I s_I n_I g_E
+ngút 1.0 n_B g_I u_I s_I t_E
+ngăn 1.0 n_B g_I a_I w_I n_E
+ngũ 1.0 n_B g_I u_I x_E
+ngơ 1.0 n_B g_I o_I w_E
+ngơi 1.0 n_B g_I o_I w_I i_E
+ngư 1.0 n_B g_I u_I w_E
+ngưa 1.0 n_B g_I u_I w_I a_E
+ngưng 1.0 n_B g_I u_I w_I n_I g_E
+ngưu 1.0 n_B g_I u_I w_I u_E
+ngươi 1.0 n_B g_I u_I w_I o_I w_I i_E
+ngước 1.0 n_B g_I u_I w_I o_I w_I s_I c_E
+người 1.0 n_B g_I u_I w_I o_I w_I f_I i_E
+ngưởng 1.0 n_B g_I u_I w_I o_I w_I r_I n_I g_E
+ngưỡng 1.0 n_B g_I u_I w_I o_I w_I x_I n_I g_E
+ngược 1.0 n_B g_I u_I w_I o_I w_I j_I c_E
+ngượng 1.0 n_B g_I u_I w_I o_I w_I j_I n_I g_E
+ngạc 1.0 n_B g_I a_I j_I c_E
+ngại 1.0 n_B g_I a_I j_I i_E
+ngạn 1.0 n_B g_I a_I j_I n_E
+ngạo 1.0 n_B g_I a_I j_I o_E
+ngạt 1.0 n_B g_I a_I j_I t_E
+ngả 1.0 n_B g_I a_I r_E
+ngải 1.0 n_B g_I a_I r_I i_E
+ngảnh 1.0 n_B g_I a_I r_I n_I h_E
+ngất 1.0 n_B g_I a_I a_I s_I t_E
+ngấu 1.0 n_B g_I a_I a_I s_I u_E
+ngấy 1.0 n_B g_I a_I a_I s_I y_E
+ngầm 1.0 n_B g_I a_I a_I f_I m_E
+ngần 1.0 n_B g_I a_I a_I f_I n_E
+ngầy 1.0 n_B g_I a_I a_I f_I y_E
+ngẩm 1.0 n_B g_I a_I a_I r_I m_E
+ngẩn 1.0 n_B g_I a_I a_I r_I n_E
+ngẩng 1.0 n_B g_I a_I a_I r_I n_I g_E
+ngẫm 1.0 n_B g_I a_I a_I x_I m_E
+ngẫu 1.0 n_B g_I a_I a_I x_I u_E
+ngậm 1.0 n_B g_I a_I a_I j_I m_E
+ngập 1.0 n_B g_I a_I a_I j_I p_E
+ngậu 1.0 n_B g_I a_I a_I j_I u_E
+ngậy 1.0 n_B g_I a_I a_I j_I y_E
+ngắc 1.0 n_B g_I a_I w_I s_I c_E
+ngắm 1.0 n_B g_I a_I w_I s_I m_E
+ngắn 1.0 n_B g_I a_I w_I s_I n_E
+ngắt 1.0 n_B g_I a_I w_I s_I t_E
+ngẳng 1.0 n_B g_I a_I w_I r_I n_I g_E
+ngẵng 1.0 n_B g_I a_I w_I x_I n_I g_E
+ngặt 1.0 n_B g_I a_I w_I j_I t_E
+ngọ 1.0 n_B g_I o_I j_E
+ngọc 1.0 n_B g_I o_I j_I c_E
+ngọn 1.0 n_B g_I o_I j_I n_E
+ngọng 1.0 n_B g_I o_I j_I n_I g_E
+ngọt 1.0 n_B g_I o_I j_I t_E
+ngỏ 1.0 n_B g_I o_I r_E
+ngốc 1.0 n_B g_I o_I o_I s_I c_E
+ngồi 1.0 n_B g_I o_I o_I f_I i_E
+ngồm 1.0 n_B g_I o_I o_I f_I m_E
+ngồn 1.0 n_B g_I o_I o_I f_I n_E
+ngồng 1.0 n_B g_I o_I o_I f_I n_I g_E
+ngổ 1.0 n_B g_I o_I o_I r_E
+ngổm 1.0 n_B g_I o_I o_I r_I m_E
+ngỗ 1.0 n_B g_I o_I o_I x_E
+ngỗng 1.0 n_B g_I o_I o_I x_I n_I g_E
+ngộ 1.0 n_B g_I o_I o_I j_E
+ngộn 1.0 n_B g_I o_I o_I j_I n_E
+ngột 1.0 n_B g_I o_I o_I j_I t_E
+ngớ 1.0 n_B g_I o_I w_I s_E
+ngớn 1.0 n_B g_I o_I w_I s_I n_E
+ngớt 1.0 n_B g_I o_I w_I s_I t_E
+ngờ 1.0 n_B g_I o_I w_I f_E
+ngời 1.0 n_B g_I o_I w_I f_I i_E
+ngỡ 1.0 n_B g_I o_I w_I x_E
+ngợ 1.0 n_B g_I o_I w_I j_E
+ngợi 1.0 n_B g_I o_I w_I j_I i_E
+ngợm 1.0 n_B g_I o_I w_I j_I m_E
+ngợp 1.0 n_B g_I o_I w_I j_I p_E
+ngụ 1.0 n_B g_I u_I j_E
+ngụa 1.0 n_B g_I u_I j_I a_E
+ngục 1.0 n_B g_I u_I j_I c_E
+ngụm 1.0 n_B g_I u_I j_I m_E
+ngụp 1.0 n_B g_I u_I j_I p_E
+ngủ 1.0 n_B g_I u_I r_E
+ngủi 1.0 n_B g_I u_I r_I i_E
+ngủn 1.0 n_B g_I u_I r_I n_E
+ngứ 1.0 n_B g_I u_I w_I s_E
+ngứa 1.0 n_B g_I u_I w_I s_I a_E
+ngừ 1.0 n_B g_I u_I w_I f_E
+ngừa 1.0 n_B g_I u_I w_I f_I a_E
+ngừng 1.0 n_B g_I u_I w_I f_I n_I g_E
+ngửi 1.0 n_B g_I u_I w_I r_I i_E
+ngửng 1.0 n_B g_I u_I w_I r_I n_I g_E
+ngữ 1.0 n_B g_I u_I w_I x_E
+ngự 1.0 n_B g_I u_I w_I j_E
+ngựa 1.0 n_B g_I u_I w_I j_I a_E
+ngực 1.0 n_B g_I u_I w_I j_I c_E
+nha 1.0 n_B h_I a_E
+nhai 1.0 n_B h_I a_I i_E
+nham 1.0 n_B h_I a_I m_E
+nhan 1.0 n_B h_I a_I n_E
+nhang 1.0 n_B h_I a_I n_I g_E
+nhanh 1.0 n_B h_I a_I n_I h_E
+nhao 1.0 n_B h_I a_I o_E
+nhau 1.0 n_B h_I a_I u_E
+nhay 1.0 n_B h_I a_I y_E
+nhe 1.0 n_B h_I e_E
+nhem 1.0 n_B h_I e_I m_E
+nhen 1.0 n_B h_I e_I n_E
+nheo 1.0 n_B h_I e_I o_E
+nhi 1.0 n_B h_I i_E
+nhiên 1.0 n_B h_I i_I e_I e_I n_E
+nhiêu 1.0 n_B h_I i_I e_I e_I u_E
+nhiếc 1.0 n_B h_I i_I e_I e_I s_I c_E
+nhiếp 1.0 n_B h_I i_I e_I e_I s_I p_E
+nhiều 1.0 n_B h_I i_I e_I e_I f_I u_E
+nhiễm 1.0 n_B h_I i_I e_I e_I x_I m_E
+nhiễu 1.0 n_B h_I i_I e_I e_I x_I u_E
+nhiệm 1.0 n_B h_I i_I e_I e_I j_I m_E
+nhiệt 1.0 n_B h_I i_I e_I e_I j_I t_E
+nho 1.0 n_B h_I o_E
+nhoai 1.0 n_B h_I o_I a_I i_E
+nhoe 1.0 n_B h_I o_I e_E
+nhoen 1.0 n_B h_I o_I e_I n_E
+nhom 1.0 n_B h_I o_I m_E
+nhong 1.0 n_B h_I o_I n_I g_E
+nhoài 1.0 n_B h_I o_I a_I f_I i_E
+nhoáng 1.0 n_B h_I o_I a_I s_I n_I g_E
+nhoét 1.0 n_B h_I o_I e_I s_I t_E
+nhoẻn 1.0 n_B h_I o_I e_I r_I n_E
+nhu 1.0 n_B h_I u_E
+nhung 1.0 n_B h_I u_I n_I g_E
+nhuyễn 1.0 n_B h_I u_I y_I e_I e_I x_I n_E
+nhuần 1.0 n_B h_I u_I a_I a_I f_I n_E
+nhuận 1.0 n_B h_I u_I a_I a_I j_I n_E
+nhuệ 1.0 n_B h_I u_I e_I e_I j_E
+nhuốm 1.0 n_B h_I u_I o_I o_I s_I m_E
+nhuộm 1.0 n_B h_I u_I o_I o_I j_I m_E
+nhà 1.0 n_B h_I a_I f_E
+nhài 1.0 n_B h_I a_I f_I i_E
+nhàm 1.0 n_B h_I a_I f_I m_E
+nhàn 1.0 n_B h_I a_I f_I n_E
+nhàng 1.0 n_B h_I a_I f_I n_I g_E
+nhành 1.0 n_B h_I a_I f_I n_I h_E
+nhào 1.0 n_B h_I a_I f_I o_E
+nhàu 1.0 n_B h_I a_I f_I u_E
+nhá 1.0 n_B h_I a_I s_E
+nhác 1.0 n_B h_I a_I s_I c_E
+nháng 1.0 n_B h_I a_I s_I n_I g_E
+nhánh 1.0 n_B h_I a_I s_I n_I h_E
+nháo 1.0 n_B h_I a_I s_I o_E
+nhát 1.0 n_B h_I a_I s_I t_E
+nháy 1.0 n_B h_I a_I s_I y_E
+nhâm 1.0 n_B h_I a_I a_I m_E
+nhân 1.0 n_B h_I a_I a_I n_E
+nhã 1.0 n_B h_I a_I x_E
+nhãi 1.0 n_B h_I a_I x_I i_E
+nhãn 1.0 n_B h_I a_I x_I n_E
+nhãng 1.0 n_B h_I a_I x_I n_I g_E
+nhão 1.0 n_B h_I a_I x_I o_E
+nhè 1.0 n_B h_I e_I f_E
+nhèm 1.0 n_B h_I e_I f_I m_E
+nhé 1.0 n_B h_I e_I s_E
+nhép 1.0 n_B h_I e_I s_I p_E
+nhét 1.0 n_B h_I e_I s_I t_E
+nhì 1.0 n_B h_I i_I f_E
+nhìn 1.0 n_B h_I i_I f_I n_E
+nhí 1.0 n_B h_I i_I s_E
+nhích 1.0 n_B h_I i_I s_I c_I h_E
+nhím 1.0 n_B h_I i_I s_I m_E
+nhít 1.0 n_B h_I i_I s_I t_E
+nhíu 1.0 n_B h_I i_I s_I u_E
+nhòe 1.0 n_B h_I o_I f_I e_E
+nhòm 1.0 n_B h_I o_I f_I m_E
+nhóc 1.0 n_B h_I o_I s_I c_E
+nhói 1.0 n_B h_I o_I s_I i_E
+nhóm 1.0 n_B h_I o_I s_I m_E
+nhóng 1.0 n_B h_I o_I s_I n_I g_E
+nhóp 1.0 n_B h_I o_I s_I p_E
+nhót 1.0 n_B h_I o_I s_I t_E
+nhô 1.0 n_B h_I o_I o_E
+nhôm 1.0 n_B h_I o_I o_I m_E
+nhôn 1.0 n_B h_I o_I o_I n_E
+nhông 1.0 n_B h_I o_I o_I n_I g_E
+nhõ 1.0 n_B h_I o_I x_E
+nhõm 1.0 n_B h_I o_I x_I m_E
+nhõn 1.0 n_B h_I o_I x_I n_E
+nhõng 1.0 n_B h_I o_I x_I n_I g_E
+nhù 1.0 n_B h_I u_I f_E
+nhùi 1.0 n_B h_I u_I f_I i_E
+nhùng 1.0 n_B h_I u_I f_I n_I g_E
+nhú 1.0 n_B h_I u_I s_E
+nhúa 1.0 n_B h_I u_I s_I a_E
+nhúc 1.0 n_B h_I u_I s_I c_E
+nhún 1.0 n_B h_I u_I s_I n_E
+nhúng 1.0 n_B h_I u_I s_I n_I g_E
+nhút 1.0 n_B h_I u_I s_I t_E
+nhăm 1.0 n_B h_I a_I w_I m_E
+nhăn 1.0 n_B h_I a_I w_I n_E
+nhăng 1.0 n_B h_I a_I w_I n_I g_E
+nhĩ 1.0 n_B h_I i_I x_E
+nhũ 1.0 n_B h_I u_I x_E
+nhũng 1.0 n_B h_I u_I x_I n_I g_E
+nhơi 1.0 n_B h_I o_I w_I i_E
+nhơn 1.0 n_B h_I o_I w_I n_E
+như 1.0 n_B h_I u_I w_E
+nhưng 1.0 n_B h_I u_I w_I n_I g_E
+nhướng 1.0 n_B h_I u_I w_I o_I w_I s_I n_I g_E
+nhường 1.0 n_B h_I u_I w_I o_I w_I f_I n_I g_E
+nhưỡng 1.0 n_B h_I u_I w_I o_I w_I x_I n_I g_E
+nhược 1.0 n_B h_I u_I w_I o_I w_I j_I c_E
+nhượng 1.0 n_B h_I u_I w_I o_I w_I j_I n_I g_E
+nhạc 1.0 n_B h_I a_I j_I c_E
+nhại 1.0 n_B h_I a_I j_I i_E
+nhạnh 1.0 n_B h_I a_I j_I n_I h_E
+nhạo 1.0 n_B h_I a_I j_I o_E
+nhạt 1.0 n_B h_I a_I j_I t_E
+nhạy 1.0 n_B h_I a_I j_I y_E
+nhả 1.0 n_B h_I a_I r_E
+nhải 1.0 n_B h_I a_I r_I i_E
+nhảm 1.0 n_B h_I a_I r_I m_E
+nhảnh 1.0 n_B h_I a_I r_I n_I h_E
+nhảy 1.0 n_B h_I a_I r_I y_E
+nhấc 1.0 n_B h_I a_I a_I s_I c_E
+nhấm 1.0 n_B h_I a_I a_I s_I m_E
+nhấn 1.0 n_B h_I a_I a_I s_I n_E
+nhấp 1.0 n_B h_I a_I a_I s_I p_E
+nhất 1.0 n_B h_I a_I a_I s_I t_E
+nhầm 1.0 n_B h_I a_I a_I f_I m_E
+nhầy 1.0 n_B h_I a_I a_I f_I y_E
+nhẩm 1.0 n_B h_I a_I a_I r_I m_E
+nhẫn 1.0 n_B h_I a_I a_I x_I n_E
+nhẫy 1.0 n_B h_I a_I a_I x_I y_E
+nhậm 1.0 n_B h_I a_I a_I j_I m_E
+nhận 1.0 n_B h_I a_I a_I j_I n_E
+nhập 1.0 n_B h_I a_I a_I j_I p_E
+nhật 1.0 n_B h_I a_I a_I j_I t_E
+nhậu 1.0 n_B h_I a_I a_I j_I u_E
+nhắc 1.0 n_B h_I a_I w_I s_I c_E
+nhắm 1.0 n_B h_I a_I w_I s_I m_E
+nhắn 1.0 n_B h_I a_I w_I s_I n_E
+nhắt 1.0 n_B h_I a_I w_I s_I t_E
+nhằm 1.0 n_B h_I a_I w_I f_I m_E
+nhằn 1.0 n_B h_I a_I w_I f_I n_E
+nhằng 1.0 n_B h_I a_I w_I f_I n_I g_E
+nhẵn 1.0 n_B h_I a_I w_I x_I n_E
+nhặm 1.0 n_B h_I a_I w_I j_I m_E
+nhặng 1.0 n_B h_I a_I w_I j_I n_I g_E
+nhặt 1.0 n_B h_I a_I w_I j_I t_E
+nhẹ 1.0 n_B h_I e_I j_E
+nhẹm 1.0 n_B h_I e_I j_I m_E
+nhẹp 1.0 n_B h_I e_I j_I p_E
+nhẻm 1.0 n_B h_I e_I r_I m_E
+nhẽo 1.0 n_B h_I e_I x_I o_E
+nhếch 1.0 n_B h_I e_I e_I s_I c_I h_E
+nhện 1.0 n_B h_I e_I e_I j_I n_E
+nhệu 1.0 n_B h_I e_I e_I j_I u_E
+nhỉ 1.0 n_B h_I i_I r_E
+nhỉnh 1.0 n_B h_I i_I r_I n_I h_E
+nhị 1.0 n_B h_I i_I j_E
+nhịn 1.0 n_B h_I i_I j_I n_E
+nhịp 1.0 n_B h_I i_I j_I p_E
+nhọc 1.0 n_B h_I o_I j_I c_E
+nhọn 1.0 n_B h_I o_I j_I n_E
+nhọt 1.0 n_B h_I o_I j_I t_E
+nhỏ 1.0 n_B h_I o_I r_E
+nhỏm 1.0 n_B h_I o_I r_I m_E
+nhố 1.0 n_B h_I o_I o_I s_E
+nhối 1.0 n_B h_I o_I o_I s_I i_E
+nhốt 1.0 n_B h_I o_I o_I s_I t_E
+nhồi 1.0 n_B h_I o_I o_I f_I i_E
+nhồn 1.0 n_B h_I o_I o_I f_I n_E
+nhồng 1.0 n_B h_I o_I o_I f_I n_I g_E
+nhổm 1.0 n_B h_I o_I o_I r_I m_E
+nhổn 1.0 n_B h_I o_I o_I r_I n_E
+nhộn 1.0 n_B h_I o_I o_I j_I n_E
+nhột 1.0 n_B h_I o_I o_I j_I t_E
+nhớ 1.0 n_B h_I o_I w_I s_E
+nhớp 1.0 n_B h_I o_I w_I s_I p_E
+nhờ 1.0 n_B h_I o_I w_I f_E
+nhờn 1.0 n_B h_I o_I w_I f_I n_E
+nhở 1.0 n_B h_I o_I w_I r_E
+nhợt 1.0 n_B h_I o_I w_I j_I t_E
+nhụa 1.0 n_B h_I u_I j_I a_E
+nhục 1.0 n_B h_I u_I j_I c_E
+nhụy 1.0 n_B h_I u_I j_I y_E
+nhủ 1.0 n_B h_I u_I r_E
+nhủi 1.0 n_B h_I u_I r_I i_E
+nhủn 1.0 n_B h_I u_I r_I n_E
+nhứ 1.0 n_B h_I u_I w_I s_E
+nhức 1.0 n_B h_I u_I w_I s_I c_E
+nhừ 1.0 n_B h_I u_I w_I f_E
+những 1.0 n_B h_I u_I w_I x_I n_I g_E
+nhựa 1.0 n_B h_I u_I w_I j_I a_E
+nhựt 1.0 n_B h_I u_I w_I j_I t_E
+ni 1.0 n_B i_E
+nia 1.0 n_B i_I a_E
+nin 1.0 n_B i_I n_E
+ninh 1.0 n_B i_I n_I h_E
+niu 1.0 n_B i_I u_E
+niêm 1.0 n_B i_I e_I e_I m_E
+niên 1.0 n_B i_I e_I e_I n_E
+niêu 1.0 n_B i_I e_I e_I u_E
+niết 1.0 n_B i_I e_I e_I s_I t_E
+niềm 1.0 n_B i_I e_I e_I f_I m_E
+niềng 1.0 n_B i_I e_I e_I f_I n_I g_E
+niệm 1.0 n_B i_I e_I e_I j_I m_E
+niệu 1.0 n_B i_I e_I e_I j_I u_E
+no 1.0 n_B o_E
+nom 1.0 n_B o_I m_E
+non 1.0 n_B o_I n_E
+nong 1.0 n_B o_I n_I g_E
+nua 1.0 n_B u_I a_E
+nung 1.0 n_B u_I n_I g_E
+nuôi 1.0 n_B u_I o_I o_I i_E
+nuông 1.0 n_B u_I o_I o_I n_I g_E
+nuối 1.0 n_B u_I o_I o_I s_I i_E
+nuốt 1.0 n_B u_I o_I o_I s_I t_E
+nà 1.0 n_B a_I f_E
+nàn 1.0 n_B a_I f_I n_E
+nàng 1.0 n_B a_I f_I n_I g_E
+nành 1.0 n_B a_I f_I n_I h_E
+nào 1.0 n_B a_I f_I o_E
+này 1.0 n_B a_I f_I y_E
+ná 1.0 n_B a_I s_E
+nách 1.0 n_B a_I s_I c_I h_E
+nám 1.0 n_B a_I s_I m_E
+nán 1.0 n_B a_I s_I n_E
+náo 1.0 n_B a_I s_I o_E
+nát 1.0 n_B a_I s_I t_E
+náu 1.0 n_B a_I s_I u_E
+náy 1.0 n_B a_I s_I y_E
+nâng 1.0 n_B a_I a_I n_I g_E
+nâu 1.0 n_B a_I a_I u_E
+nây 1.0 n_B a_I a_I y_E
+não 1.0 n_B a_I x_I o_E
+nãy 1.0 n_B a_I x_I y_E
+nè 1.0 n_B e_I f_E
+nèo 1.0 n_B e_I f_I o_E
+né 1.0 n_B e_I s_E
+ném 1.0 n_B e_I s_I m_E
+nén 1.0 n_B e_I s_I n_E
+néo 1.0 n_B e_I s_I o_E
+nép 1.0 n_B e_I s_I p_E
+nét 1.0 n_B e_I s_I t_E
+nê 1.0 n_B e_I e_E
+nêm 1.0 n_B e_I e_I m_E
+nên 1.0 n_B e_I e_I n_E
+nêu 1.0 n_B e_I e_I u_E
+nì 1.0 n_B i_I f_E
+nình 1.0 n_B i_I f_I n_I h_E
+ních 1.0 n_B i_I s_I c_I h_E
+nín 1.0 n_B i_I s_I n_E
+nính 1.0 n_B i_I s_I n_I h_E
+nít 1.0 n_B i_I s_I t_E
+níu 1.0 n_B i_I s_I u_E
+nó 1.0 n_B o_I s_E
+nóc 1.0 n_B o_I s_I c_E
+nói 1.0 n_B o_I s_I i_E
+nón 1.0 n_B o_I s_I n_E
+nóng 1.0 n_B o_I s_I n_I g_E
+nót 1.0 n_B o_I s_I t_E
+nô 1.0 n_B o_I o_E
+nôi 1.0 n_B o_I o_I i_E
+nôm 1.0 n_B o_I o_I m_E
+nôn 1.0 n_B o_I o_I n_E
+nông 1.0 n_B o_I o_I n_I g_E
+nõn 1.0 n_B o_I x_I n_E
+nùn 1.0 n_B u_I f_I n_E
+nùng 1.0 n_B u_I f_I n_I g_E
+núc 1.0 n_B u_I s_I c_E
+núi 1.0 n_B u_I s_I i_E
+núm 1.0 n_B u_I s_I m_E
+núng 1.0 n_B u_I s_I n_I g_E
+núp 1.0 n_B u_I s_I p_E
+nút 1.0 n_B u_I s_I t_E
+năm 1.0 n_B a_I w_I m_E
+năn 1.0 n_B a_I w_I n_E
+năng 1.0 n_B a_I w_I n_I g_E
+nĩa 1.0 n_B i_I x_I a_E
+nũng 1.0 n_B u_I x_I n_I g_E
+nơi 1.0 n_B o_I w_I i_E
+nơm 1.0 n_B o_I w_I m_E
+nư 1.0 n_B u_I w_E
+nương 1.0 n_B u_I w_I o_I w_I n_I g_E
+nước 1.0 n_B u_I w_I o_I w_I s_I c_E
+nướng 1.0 n_B u_I w_I o_I w_I s_I n_I g_E
+nạ 1.0 n_B a_I j_E
+nạc 1.0 n_B a_I j_I c_E
+nại 1.0 n_B a_I j_I i_E
+nạn 1.0 n_B a_I j_I n_E
+nạnh 1.0 n_B a_I j_I n_I h_E
+nạo 1.0 n_B a_I j_I o_E
+nạp 1.0 n_B a_I j_I p_E
+nạt 1.0 n_B a_I j_I t_E
+nả 1.0 n_B a_I r_E
+nản 1.0 n_B a_I r_I n_E
+nảy 1.0 n_B a_I r_I y_E
+nấc 1.0 n_B a_I a_I s_I c_E
+nấm 1.0 n_B a_I a_I s_I m_E
+nấng 1.0 n_B a_I a_I s_I n_I g_E
+nấu 1.0 n_B a_I a_I s_I u_E
+nấy 1.0 n_B a_I a_I s_I y_E
+nần 1.0 n_B a_I a_I f_I n_E
+nầy 1.0 n_B a_I a_I f_I y_E
+nậm 1.0 n_B a_I a_I j_I m_E
+nập 1.0 n_B a_I a_I j_I p_E
+nậu 1.0 n_B a_I a_I j_I u_E
+nắc 1.0 n_B a_I w_I s_I c_E
+nắm 1.0 n_B a_I w_I s_I m_E
+nắn 1.0 n_B a_I w_I s_I n_E
+nắng 1.0 n_B a_I w_I s_I n_I g_E
+nắp 1.0 n_B a_I w_I s_I p_E
+nằm 1.0 n_B a_I w_I f_I m_E
+nằn 1.0 n_B a_I w_I f_I n_E
+nằng 1.0 n_B a_I w_I f_I n_I g_E
+nẵng 1.0 n_B a_I w_I x_I n_I g_E
+nặc 1.0 n_B a_I w_I j_I c_E
+nặng 1.0 n_B a_I w_I j_I n_I g_E
+nẹp 1.0 n_B e_I j_I p_E
+nẻ 1.0 n_B e_I r_E
+nẻo 1.0 n_B e_I r_I o_E
+nếm 1.0 n_B e_I e_I s_I m_E
+nến 1.0 n_B e_I e_I s_I n_E
+nếp 1.0 n_B e_I e_I s_I p_E
+nết 1.0 n_B e_I e_I s_I t_E
+nếu 1.0 n_B e_I e_I s_I u_E
+nề 1.0 n_B e_I e_I f_E
+nền 1.0 n_B e_I e_I f_I n_E
+nể 1.0 n_B e_I e_I r_E
+nệ 1.0 n_B e_I e_I j_E
+nệm 1.0 n_B e_I e_I j_I m_E
+nỉ 1.0 n_B i_I r_E
+nịch 1.0 n_B i_I j_I c_I h_E
+nịnh 1.0 n_B i_I j_I n_I h_E
+nịu 1.0 n_B i_I j_I u_E
+nọ 1.0 n_B o_I j_E
+nọc 1.0 n_B o_I j_I c_E
+nọng 1.0 n_B o_I j_I n_I g_E
+nọt 1.0 n_B o_I j_I t_E
+nỏ 1.0 n_B o_I r_E
+nố 1.0 n_B o_I o_I s_E
+nốc 1.0 n_B o_I o_I s_I c_E
+nối 1.0 n_B o_I o_I s_I i_E
+nống 1.0 n_B o_I o_I s_I n_I g_E
+nốt 1.0 n_B o_I o_I s_I t_E
+nồ 1.0 n_B o_I o_I f_E
+nồi 1.0 n_B o_I o_I f_I i_E
+nồm 1.0 n_B o_I o_I f_I m_E
+nồng 1.0 n_B o_I o_I f_I n_I g_E
+nổ 1.0 n_B o_I o_I r_E
+nổi 1.0 n_B o_I o_I r_I i_E
+nỗ 1.0 n_B o_I o_I x_E
+nỗi 1.0 n_B o_I o_I x_I i_E
+nộ 1.0 n_B o_I o_I j_E
+nộc 1.0 n_B o_I o_I j_I c_E
+nội 1.0 n_B o_I o_I j_I i_E
+nộn 1.0 n_B o_I o_I j_I n_E
+nộp 1.0 n_B o_I o_I j_I p_E
+nớ 1.0 n_B o_I w_I s_E
+nới 1.0 n_B o_I w_I s_I i_E
+nớp 1.0 n_B o_I w_I s_I p_E
+nớt 1.0 n_B o_I w_I s_I t_E
+nở 1.0 n_B o_I w_I r_E
+nỡ 1.0 n_B o_I w_I x_E
+nợ 1.0 n_B o_I w_I j_E
+nụ 1.0 n_B u_I j_E
+nức 1.0 n_B u_I w_I s_I c_E
+nứt 1.0 n_B u_I w_I s_I t_E
+nửa 1.0 n_B u_I w_I r_I a_E
+nữ 1.0 n_B u_I w_I x_E
+nữa 1.0 n_B u_I w_I x_I a_E
+nự 1.0 n_B u_I w_I j_E
+nực 1.0 n_B u_I w_I j_I c_E
+o 1.0 o_S
+oai 1.0 o_B a_I i_E
+oan 1.0 o_B a_I n_E
+oanh 1.0 o_B a_I n_I h_E
+oe 1.0 o_B e_E
+oi 1.0 o_B i_E
+om 1.0 o_B m_E
+ong 1.0 o_B n_I g_E
+oành 1.0 o_B a_I f_I n_I h_E
+oác 1.0 o_B a_I s_I c_E
+oách 1.0 o_B a_I s_I c_I h_E
+oái 1.0 o_B a_I s_I i_E
+oán 1.0 o_B a_I s_I n_E
+oăm 1.0 o_B a_I w_I m_E
+oạp 1.0 o_B a_I j_I p_E
+oải 1.0 o_B a_I r_I i_E
+oắt 1.0 o_B a_I w_I s_I t_E
+oằn 1.0 o_B a_I w_I f_I n_E
+pa 1.0 p_B a_E
+pha 1.0 p_B h_I a_E
+phai 1.0 p_B h_I a_I i_E
+phan 1.0 p_B h_I a_I n_E
+phanh 1.0 p_B h_I a_I n_I h_E
+phao 1.0 p_B h_I a_I o_E
+phay 1.0 p_B h_I a_I y_E
+phe 1.0 p_B h_I e_E
+phen 1.0 p_B h_I e_I n_E
+phi 1.0 p_B h_I i_E
+phim 1.0 p_B h_I i_I m_E
+phiên 1.0 p_B h_I i_I e_I e_I n_E
+phiêu 1.0 p_B h_I i_I e_I e_I u_E
+phiếm 1.0 p_B h_I i_I e_I e_I s_I m_E
+phiết 1.0 p_B h_I i_I e_I e_I s_I t_E
+phiếu 1.0 p_B h_I i_I e_I e_I s_I u_E
+phiền 1.0 p_B h_I i_I e_I e_I f_I n_E
+phiện 1.0 p_B h_I i_I e_I e_I j_I n_E
+pho 1.0 p_B h_I o_E
+phong 1.0 p_B h_I o_I n_I g_E
+phu 1.0 p_B h_I u_E
+phun 1.0 p_B h_I u_I n_E
+phung 1.0 p_B h_I u_I n_I g_E
+phuy 1.0 p_B h_I u_I y_E
+phàm 1.0 p_B h_I a_I f_I m_E
+phàn 1.0 p_B h_I a_I f_I n_E
+phào 1.0 p_B h_I a_I f_I o_E
+phá 1.0 p_B h_I a_I s_E
+phác 1.0 p_B h_I a_I s_I c_E
+phách 1.0 p_B h_I a_I s_I c_I h_E
+phái 1.0 p_B h_I a_I s_I i_E
+phán 1.0 p_B h_I a_I s_I n_E
+pháo 1.0 p_B h_I a_I s_I o_E
+pháp 1.0 p_B h_I a_I s_I p_E
+phát 1.0 p_B h_I a_I s_I t_E
+phân 1.0 p_B h_I a_I a_I n_E
+phây 1.0 p_B h_I a_I a_I y_E
+phè 1.0 p_B h_I e_I f_E
+phèn 1.0 p_B h_I e_I f_I n_E
+phèng 1.0 p_B h_I e_I f_I n_I g_E
+phèo 1.0 p_B h_I e_I f_I o_E
+phéng 1.0 p_B h_I e_I s_I n_I g_E
+phép 1.0 p_B h_I e_I s_I p_E
+phét 1.0 p_B h_I e_I s_I t_E
+phê 1.0 p_B h_I e_I e_E
+phì 1.0 p_B h_I i_I f_E
+phình 1.0 p_B h_I i_I f_I n_I h_E
+phí 1.0 p_B h_I i_I s_E
+phía 1.0 p_B h_I i_I s_I a_E
+phích 1.0 p_B h_I i_I s_I c_I h_E
+phím 1.0 p_B h_I i_I s_I m_E
+phính 1.0 p_B h_I i_I s_I n_I h_E
+phò 1.0 p_B h_I o_I f_E
+phòi 1.0 p_B h_I o_I f_I i_E
+phòng 1.0 p_B h_I o_I f_I n_I g_E
+phó 1.0 p_B h_I o_I s_E
+phóc 1.0 p_B h_I o_I s_I c_E
+phóng 1.0 p_B h_I o_I s_I n_I g_E
+phót 1.0 p_B h_I o_I s_I t_E
+phô 1.0 p_B h_I o_I o_E
+phôi 1.0 p_B h_I o_I o_I i_E
+phù 1.0 p_B h_I u_I f_E
+phùng 1.0 p_B h_I u_I f_I n_I g_E
+phú 1.0 p_B h_I u_I s_E
+phúc 1.0 p_B h_I u_I s_I c_E
+phúng 1.0 p_B h_I u_I s_I n_I g_E
+phút 1.0 p_B h_I u_I s_I t_E
+phăng 1.0 p_B h_I a_I w_I n_I g_E
+phĩnh 1.0 p_B h_I i_I x_I n_I h_E
+phơ 1.0 p_B h_I o_I w_E
+phơi 1.0 p_B h_I o_I w_I i_E
+phơn 1.0 p_B h_I o_I w_I n_E
+phương 1.0 p_B h_I u_I w_I o_I w_I n_I g_E
+phước 1.0 p_B h_I u_I w_I o_I w_I s_I c_E
+phướn 1.0 p_B h_I u_I w_I o_I w_I s_I n_E
+phường 1.0 p_B h_I u_I w_I o_I w_I f_I n_I g_E
+phượng 1.0 p_B h_I u_I w_I o_I w_I j_I n_I g_E
+phạc 1.0 p_B h_I a_I j_I c_E
+phạm 1.0 p_B h_I a_I j_I m_E
+phạng 1.0 p_B h_I a_I j_I n_I g_E
+phạt 1.0 p_B h_I a_I j_I t_E
+phả 1.0 p_B h_I a_I r_E
+phải 1.0 p_B h_I a_I r_I i_E
+phản 1.0 p_B h_I a_I r_I n_E
+phảy 1.0 p_B h_I a_I r_I y_E
+phấn 1.0 p_B h_I a_I a_I s_I n_E
+phất 1.0 p_B h_I a_I a_I s_I t_E
+phầm 1.0 p_B h_I a_I a_I f_I m_E
+phần 1.0 p_B h_I a_I a_I f_I n_E
+phẩm 1.0 p_B h_I a_I a_I r_I m_E
+phẩy 1.0 p_B h_I a_I a_I r_I y_E
+phẫn 1.0 p_B h_I a_I a_I x_I n_E
+phẫu 1.0 p_B h_I a_I a_I x_I u_E
+phận 1.0 p_B h_I a_I a_I j_I n_E
+phật 1.0 p_B h_I a_I a_I j_I t_E
+phắc 1.0 p_B h_I a_I w_I s_I c_E
+phẳng 1.0 p_B h_I a_I w_I r_I n_I g_E
+phế 1.0 p_B h_I e_I e_I s_E
+phếch 1.0 p_B h_I e_I e_I s_I c_I h_E
+phết 1.0 p_B h_I e_I e_I s_I t_E
+phề 1.0 p_B h_I e_I e_I f_E
+phều 1.0 p_B h_I e_I e_I f_I u_E
+phễu 1.0 p_B h_I e_I e_I x_I u_E
+phệ 1.0 p_B h_I e_I e_I j_E
+phệnh 1.0 p_B h_I e_I e_I j_I n_I h_E
+phỉ 1.0 p_B h_I i_I r_E
+phỉnh 1.0 p_B h_I i_I r_I n_I h_E
+phịch 1.0 p_B h_I i_I j_I c_I h_E
+phọt 1.0 p_B h_I o_I j_I t_E
+phỏng 1.0 p_B h_I o_I r_I n_I g_E
+phố 1.0 p_B h_I o_I o_I s_E
+phốc 1.0 p_B h_I o_I o_I s_I c_E
+phối 1.0 p_B h_I o_I o_I s_I i_E
+phồm 1.0 p_B h_I o_I o_I f_I m_E
+phồng 1.0 p_B h_I o_I o_I f_I n_I g_E
+phổ 1.0 p_B h_I o_I o_I r_E
+phổi 1.0 p_B h_I o_I o_I r_I i_E
+phổng 1.0 p_B h_I o_I o_I r_I n_I g_E
+phỗng 1.0 p_B h_I o_I o_I x_I n_I g_E
+phộng 1.0 p_B h_I o_I o_I j_I n_I g_E
+phới 1.0 p_B h_I o_I w_I s_I i_E
+phớt 1.0 p_B h_I o_I w_I s_I t_E
+phờ 1.0 p_B h_I o_I w_I f_E
+phở 1.0 p_B h_I o_I w_I r_E
+phỡn 1.0 p_B h_I o_I w_I x_I n_E
+phụ 1.0 p_B h_I u_I j_E
+phục 1.0 p_B h_I u_I j_I c_E
+phụng 1.0 p_B h_I u_I j_I n_I g_E
+phủ 1.0 p_B h_I u_I r_E
+phủi 1.0 p_B h_I u_I r_I i_E
+phức 1.0 p_B h_I u_I w_I s_I c_E
+pin 1.0 p_B i_I n_E
+piêu 1.0 p_B i_I e_I e_I u_E
+pí 1.0 p_B i_I s_E
+qua 1.0 q_B u_I a_E
+quai 1.0 q_B u_I a_I i_E
+quan 1.0 q_B u_I a_I n_E
+quang 1.0 q_B u_I a_I n_I g_E
+quanh 1.0 q_B u_I a_I n_I h_E
+quay 1.0 q_B u_I a_I y_E
+que 1.0 q_B u_I e_E
+quen 1.0 q_B u_I e_I n_E
+queo 1.0 q_B u_I e_I o_E
+qui 1.0 q_B u_I i_E
+quoạng 1.0 q_B u_I o_I a_I j_I n_I g_E
+quy 1.0 q_B u_I y_E
+quyên 1.0 q_B u_I y_I e_I e_I n_E
+quyến 1.0 q_B u_I y_I e_I e_I s_I n_E
+quyết 1.0 q_B u_I y_I e_I e_I s_I t_E
+quyền 1.0 q_B u_I y_I e_I e_I f_I n_E
+quyển 1.0 q_B u_I y_I e_I e_I r_I n_E
+quyện 1.0 q_B u_I y_I e_I e_I j_I n_E
+quyệt 1.0 q_B u_I y_I e_I e_I j_I t_E
+quà 1.0 q_B u_I a_I f_E
+quài 1.0 q_B u_I a_I f_I i_E
+quàng 1.0 q_B u_I a_I f_I n_I g_E
+quày 1.0 q_B u_I a_I f_I y_E
+quá 1.0 q_B u_I a_I s_E
+quác 1.0 q_B u_I a_I s_I c_E
+quách 1.0 q_B u_I a_I s_I c_I h_E
+quái 1.0 q_B u_I a_I s_I i_E
+quán 1.0 q_B u_I a_I s_I n_E
+quáng 1.0 q_B u_I a_I s_I n_I g_E
+quánh 1.0 q_B u_I a_I s_I n_I h_E
+quát 1.0 q_B u_I a_I s_I t_E
+quân 1.0 q_B u_I a_I a_I n_E
+quây 1.0 q_B u_I a_I a_I y_E
+quãng 1.0 q_B u_I a_I x_I n_I g_E
+què 1.0 q_B u_I e_I f_E
+quèn 1.0 q_B u_I e_I f_I n_E
+quét 1.0 q_B u_I e_I s_I t_E
+quê 1.0 q_B u_I e_I e_E
+quên 1.0 q_B u_I e_I e_I n_E
+quì 1.0 q_B u_I i_I f_E
+quí 1.0 q_B u_I i_I s_E
+quít 1.0 q_B u_I i_I s_I t_E
+quý 1.0 q_B u_I y_I s_E
+quýnh 1.0 q_B u_I y_I s_I n_I h_E
+quýt 1.0 q_B u_I y_I s_I t_E
+quăm 1.0 q_B u_I a_I w_I m_E
+quăng 1.0 q_B u_I a_I w_I n_I g_E
+quĩ 1.0 q_B u_I i_I x_E
+quạc 1.0 q_B u_I a_I j_I c_E
+quạch 1.0 q_B u_I a_I j_I c_I h_E
+quại 1.0 q_B u_I a_I j_I i_E
+quạng 1.0 q_B u_I a_I j_I n_I g_E
+quạnh 1.0 q_B u_I a_I j_I n_I h_E
+quạt 1.0 q_B u_I a_I j_I t_E
+quả 1.0 q_B u_I a_I r_E
+quải 1.0 q_B u_I a_I r_I i_E
+quản 1.0 q_B u_I a_I r_I n_E
+quảng 1.0 q_B u_I a_I r_I n_I g_E
+quảy 1.0 q_B u_I a_I r_I y_E
+quấn 1.0 q_B u_I a_I a_I s_I n_E
+quất 1.0 q_B u_I a_I a_I s_I t_E
+quấy 1.0 q_B u_I a_I a_I s_I y_E
+quần 1.0 q_B u_I a_I a_I f_I n_E
+quầng 1.0 q_B u_I a_I a_I f_I n_I g_E
+quầy 1.0 q_B u_I a_I a_I f_I y_E
+quẩn 1.0 q_B u_I a_I a_I r_I n_E
+quẫn 1.0 q_B u_I a_I a_I x_I n_E
+quẫy 1.0 q_B u_I a_I a_I x_I y_E
+quận 1.0 q_B u_I a_I a_I j_I n_E
+quật 1.0 q_B u_I a_I a_I j_I t_E
+quậy 1.0 q_B u_I a_I a_I j_I y_E
+quắc 1.0 q_B u_I a_I w_I s_I c_E
+quắn 1.0 q_B u_I a_I w_I s_I n_E
+quắt 1.0 q_B u_I a_I w_I s_I t_E
+quằn 1.0 q_B u_I a_I w_I f_I n_E
+quẳng 1.0 q_B u_I a_I w_I r_I n_I g_E
+quặc 1.0 q_B u_I a_I w_I j_I c_E
+quặm 1.0 q_B u_I a_I w_I j_I m_E
+quặn 1.0 q_B u_I a_I w_I j_I n_E
+quặt 1.0 q_B u_I a_I w_I j_I t_E
+quẹo 1.0 q_B u_I e_I j_I o_E
+quế 1.0 q_B u_I e_I e_I s_E
+quết 1.0 q_B u_I e_I e_I s_I t_E
+quềnh 1.0 q_B u_I e_I e_I f_I n_I h_E
+quệ 1.0 q_B u_I e_I e_I j_E
+quệnh 1.0 q_B u_I e_I e_I j_I n_I h_E
+quỉ 1.0 q_B u_I i_I r_E
+quị 1.0 q_B u_I i_I j_E
+quốc 1.0 q_B u_I o_I o_I s_I c_E
+quới 1.0 q_B u_I o_I w_I s_I i_E
+quớt 1.0 q_B u_I o_I w_I s_I t_E
+quờ 1.0 q_B u_I o_I w_I f_E
+quờn 1.0 q_B u_I o_I w_I f_I n_E
+quỳ 1.0 q_B u_I y_I f_E
+quỳnh 1.0 q_B u_I y_I f_I n_I h_E
+quỵ 1.0 q_B u_I y_I j_E
+quỵt 1.0 q_B u_I y_I j_I t_E
+quỷ 1.0 q_B u_I y_I r_E
+quỹ 1.0 q_B u_I y_I x_E
+ra 1.0 r_B a_E
+rai 1.0 r_B a_I i_E
+ram 1.0 r_B a_I m_E
+ran 1.0 r_B a_I n_E
+rang 1.0 r_B a_I n_I g_E
+ranh 1.0 r_B a_I n_I h_E
+rao 1.0 r_B a_I o_E
+rau 1.0 r_B a_I u_E
+ray 1.0 r_B a_I y_E
+re 1.0 r_B e_E
+ren 1.0 r_B e_I n_E
+reng 1.0 r_B e_I n_I g_E
+reo 1.0 r_B e_I o_E
+ri 1.0 r_B i_E
+ria 1.0 r_B i_I a_E
+rinh 1.0 r_B i_I n_I h_E
+riu 1.0 r_B i_I u_E
+riêng 1.0 r_B i_I e_I e_I n_I g_E
+riêu 1.0 r_B i_I e_I e_I u_E
+riếp 1.0 r_B i_I e_I e_I s_I p_E
+riết 1.0 r_B i_I e_I e_I s_I t_E
+riệt 1.0 r_B i_I e_I e_I j_I t_E
+ro 1.0 r_B o_E
+roi 1.0 r_B o_I i_E
+rom 1.0 r_B o_I m_E
+rong 1.0 r_B o_I n_I g_E
+ru 1.0 r_B u_E
+rua 1.0 r_B u_I a_E
+run 1.0 r_B u_I n_E
+rung 1.0 r_B u_I n_I g_E
+ruốc 1.0 r_B u_I o_I o_I s_I c_E
+ruồi 1.0 r_B u_I o_I o_I f_I i_E
+ruổi 1.0 r_B u_I o_I o_I r_I i_E
+ruỗng 1.0 r_B u_I o_I o_I x_I n_I g_E
+ruộng 1.0 r_B u_I o_I o_I j_I n_I g_E
+ruột 1.0 r_B u_I o_I o_I j_I t_E
+rà 1.0 r_B a_I f_E
+ràng 1.0 r_B a_I f_I n_I g_E
+rành 1.0 r_B a_I f_I n_I h_E
+rào 1.0 r_B a_I f_I o_E
+rày 1.0 r_B a_I f_I y_E
+rác 1.0 r_B a_I s_I c_E
+rách 1.0 r_B a_I s_I c_I h_E
+rái 1.0 r_B a_I s_I i_E
+rán 1.0 r_B a_I s_I n_E
+ráng 1.0 r_B a_I s_I n_I g_E
+ráo 1.0 r_B a_I s_I o_E
+ráp 1.0 r_B a_I s_I p_E
+rát 1.0 r_B a_I s_I t_E
+ráy 1.0 r_B a_I s_I y_E
+râm 1.0 r_B a_I a_I m_E
+rân 1.0 r_B a_I a_I n_E
+râu 1.0 r_B a_I a_I u_E
+rã 1.0 r_B a_I x_E
+rãi 1.0 r_B a_I x_I i_E
+rãy 1.0 r_B a_I x_I y_E
+rèm 1.0 r_B e_I f_I m_E
+rèn 1.0 r_B e_I f_I n_E
+rèo 1.0 r_B e_I f_I o_E
+rén 1.0 r_B e_I s_I n_E
+réo 1.0 r_B e_I s_I o_E
+rét 1.0 r_B e_I s_I t_E
+rê 1.0 r_B e_I e_E
+rên 1.0 r_B e_I e_I n_E
+rêu 1.0 r_B e_I e_I u_E
+rì 1.0 r_B i_I f_E
+rìa 1.0 r_B i_I f_I a_E
+rình 1.0 r_B i_I f_I n_I h_E
+rít 1.0 r_B i_I s_I t_E
+ríu 1.0 r_B i_I s_I u_E
+ròi 1.0 r_B o_I f_I i_E
+ròm 1.0 r_B o_I f_I m_E
+ròng 1.0 r_B o_I f_I n_I g_E
+ró 1.0 r_B o_I s_E
+róc 1.0 r_B o_I s_I c_E
+rói 1.0 r_B o_I s_I i_E
+rón 1.0 r_B o_I s_I n_E
+rót 1.0 r_B o_I s_I t_E
+rô 1.0 r_B o_I o_E
+rôm 1.0 r_B o_I o_I m_E
+rõ 1.0 r_B o_I x_E
+rùa 1.0 r_B u_I f_I a_E
+rùm 1.0 r_B u_I f_I m_E
+rú 1.0 r_B u_I s_E
+rúc 1.0 r_B u_I s_I c_E
+rúm 1.0 r_B u_I s_I m_E
+rúng 1.0 r_B u_I s_I n_I g_E
+rút 1.0 r_B u_I s_I t_E
+răn 1.0 r_B a_I w_I n_E
+răng 1.0 r_B a_I w_I n_I g_E
+rĩ 1.0 r_B i_I x_E
+rũ 1.0 r_B u_I x_E
+rơ 1.0 r_B o_I w_E
+rơi 1.0 r_B o_I w_I i_E
+rơm 1.0 r_B o_I w_I m_E
+rơn 1.0 r_B o_I w_I n_E
+rưng 1.0 r_B u_I w_I n_I g_E
+rươi 1.0 r_B u_I w_I o_I w_I i_E
+rước 1.0 r_B u_I w_I o_I w_I s_I c_E
+rưới 1.0 r_B u_I w_I o_I w_I s_I i_E
+rướm 1.0 r_B u_I w_I o_I w_I s_I m_E
+rười 1.0 r_B u_I w_I o_I w_I f_I i_E
+rưởi 1.0 r_B u_I w_I o_I w_I r_I i_E
+rưỡi 1.0 r_B u_I w_I o_I w_I x_I i_E
+rượi 1.0 r_B u_I w_I o_I w_I j_I i_E
+rượt 1.0 r_B u_I w_I o_I w_I j_I t_E
+rượu 1.0 r_B u_I w_I o_I w_I j_I u_E
+rạ 1.0 r_B a_I j_E
+rạch 1.0 r_B a_I j_I c_I h_E
+rạn 1.0 r_B a_I j_I n_E
+rạng 1.0 r_B a_I j_I n_I g_E
+rạo 1.0 r_B a_I j_I o_E
+rạp 1.0 r_B a_I j_I p_E
+rạt 1.0 r_B a_I j_I t_E
+rạy 1.0 r_B a_I j_I y_E
+rả 1.0 r_B a_I r_E
+rải 1.0 r_B a_I r_I i_E
+rảnh 1.0 r_B a_I r_I n_I h_E
+rảo 1.0 r_B a_I r_I o_E
+rấn 1.0 r_B a_I a_I s_I n_E
+rấp 1.0 r_B a_I a_I s_I p_E
+rất 1.0 r_B a_I a_I s_I t_E
+rầm 1.0 r_B a_I a_I f_I m_E
+rần 1.0 r_B a_I a_I f_I n_E
+rầu 1.0 r_B a_I a_I f_I u_E
+rầy 1.0 r_B a_I a_I f_I y_E
+rẩy 1.0 r_B a_I a_I r_I y_E
+rẫy 1.0 r_B a_I a_I x_I y_E
+rận 1.0 r_B a_I a_I j_I n_E
+rập 1.0 r_B a_I a_I j_I p_E
+rật 1.0 r_B a_I a_I j_I t_E
+rắc 1.0 r_B a_I w_I s_I c_E
+rắm 1.0 r_B a_I w_I s_I m_E
+rắn 1.0 r_B a_I w_I s_I n_E
+rằm 1.0 r_B a_I w_I f_I m_E
+rằng 1.0 r_B a_I w_I f_I n_I g_E
+rặng 1.0 r_B a_I w_I j_I n_I g_E
+rẹo 1.0 r_B e_I j_I o_E
+rẹt 1.0 r_B e_I j_I t_E
+rẻ 1.0 r_B e_I r_E
+rẽ 1.0 r_B e_I x_E
+rế 1.0 r_B e_I e_I s_E
+rến 1.0 r_B e_I e_I s_I n_E
+rết 1.0 r_B e_I e_I s_I t_E
+rề 1.0 r_B e_I e_I f_E
+rể 1.0 r_B e_I e_I r_E
+rễ 1.0 r_B e_I e_I x_E
+rệ 1.0 r_B e_I e_I j_E
+rệt 1.0 r_B e_I e_I j_I t_E
+rệu 1.0 r_B e_I e_I j_I u_E
+rỉ 1.0 r_B i_I r_E
+rỉa 1.0 r_B i_I r_I a_E
+rỉnh 1.0 r_B i_I r_I n_I h_E
+rịa 1.0 r_B i_I j_I a_E
+rịch 1.0 r_B i_I j_I c_I h_E
+rịn 1.0 r_B i_I j_I n_E
+rịt 1.0 r_B i_I j_I t_E
+rọ 1.0 r_B o_I j_E
+rọc 1.0 r_B o_I j_I c_E
+rọi 1.0 r_B o_I j_I i_E
+rỏi 1.0 r_B o_I r_I i_E
+rốc 1.0 r_B o_I o_I s_I c_E
+rối 1.0 r_B o_I o_I s_I i_E
+rốn 1.0 r_B o_I o_I s_I n_E
+rống 1.0 r_B o_I o_I s_I n_I g_E
+rốp 1.0 r_B o_I o_I s_I p_E
+rốt 1.0 r_B o_I o_I s_I t_E
+rồ 1.0 r_B o_I o_I f_E
+rồi 1.0 r_B o_I o_I f_I i_E
+rồng 1.0 r_B o_I o_I f_I n_I g_E
+rổ 1.0 r_B o_I o_I r_E
+rỗi 1.0 r_B o_I o_I x_I i_E
+rỗng 1.0 r_B o_I o_I x_I n_I g_E
+rộ 1.0 r_B o_I o_I j_E
+rộc 1.0 r_B o_I o_I j_I c_E
+rộn 1.0 r_B o_I o_I j_I n_E
+rộng 1.0 r_B o_I o_I j_I n_I g_E
+rộp 1.0 r_B o_I o_I j_I p_E
+rớm 1.0 r_B o_I w_I s_I m_E
+rớt 1.0 r_B o_I w_I s_I t_E
+rờ 1.0 r_B o_I w_I f_E
+rời 1.0 r_B o_I w_I f_I i_E
+rờm 1.0 r_B o_I w_I f_I m_E
+rờn 1.0 r_B o_I w_I f_I n_E
+rỡ 1.0 r_B o_I w_I x_E
+rỡn 1.0 r_B o_I w_I x_I n_E
+rợ 1.0 r_B o_I w_I j_E
+rợi 1.0 r_B o_I w_I j_I i_E
+rợn 1.0 r_B o_I w_I j_I n_E
+rợp 1.0 r_B o_I w_I j_I p_E
+rục 1.0 r_B u_I j_I c_E
+rụi 1.0 r_B u_I j_I i_E
+rụng 1.0 r_B u_I j_I n_I g_E
+rủ 1.0 r_B u_I r_E
+rủa 1.0 r_B u_I r_I a_E
+rủi 1.0 r_B u_I r_I i_E
+rủng 1.0 r_B u_I r_I n_I g_E
+rức 1.0 r_B u_I w_I s_I c_E
+rứt 1.0 r_B u_I w_I s_I t_E
+rừng 1.0 r_B u_I w_I f_I n_I g_E
+rửa 1.0 r_B u_I w_I r_I a_E
+rữa 1.0 r_B u_I w_I x_I a_E
+rựa 1.0 r_B u_I w_I j_I a_E
+rực 1.0 r_B u_I w_I j_I c_E
+sa 1.0 s_B a_E
+sai 1.0 s_B a_I i_E
+sam 1.0 s_B a_I m_E
+san 1.0 s_B a_I n_E
+sang 1.0 s_B a_I n_I g_E
+sanh 1.0 s_B a_I n_I h_E
+sao 1.0 s_B a_I o_E
+sau 1.0 s_B a_I u_E
+say 1.0 s_B a_I y_E
+se 1.0 s_B e_E
+sen 1.0 s_B e_I n_E
+si 1.0 s_B i_E
+sim 1.0 s_B i_I m_E
+sinh 1.0 s_B i_I n_I h_E
+siêu 1.0 s_B i_I e_I e_I u_E
+siết 1.0 s_B i_I e_I e_I s_I t_E
+so 1.0 s_B o_E
+soi 1.0 s_B o_I i_E
+son 1.0 s_B o_I n_E
+song 1.0 s_B o_I n_I g_E
+soát 1.0 s_B o_I a_I s_I t_E
+soạn 1.0 s_B o_I a_I j_I n_E
+soạng 1.0 s_B o_I a_I j_I n_I g_E
+soạt 1.0 s_B o_I a_I j_I t_E
+su 1.0 s_B u_E
+sum 1.0 s_B u_I m_E
+sun 1.0 s_B u_I n_E
+sung 1.0 s_B u_I n_I g_E
+suy 1.0 s_B u_I y_E
+suyển 1.0 s_B u_I y_I e_I e_I r_I n_E
+suyễn 1.0 s_B u_I y_I e_I e_I x_I n_E
+suýt 1.0 s_B u_I y_I s_I t_E
+suất 1.0 s_B u_I a_I a_I s_I t_E
+suối 1.0 s_B u_I o_I o_I s_I i_E
+suốt 1.0 s_B u_I o_I o_I s_I t_E
+sà 1.0 s_B a_I f_E
+sài 1.0 s_B a_I f_I i_E
+sàm 1.0 s_B a_I f_I m_E
+sàn 1.0 s_B a_I f_I n_E
+sàng 1.0 s_B a_I f_I n_I g_E
+sành 1.0 s_B a_I f_I n_I h_E
+sào 1.0 s_B a_I f_I o_E
+sá 1.0 s_B a_I s_E
+sác 1.0 s_B a_I s_I c_E
+sách 1.0 s_B a_I s_I c_I h_E
+sái 1.0 s_B a_I s_I i_E
+sán 1.0 s_B a_I s_I n_E
+sáng 1.0 s_B a_I s_I n_I g_E
+sánh 1.0 s_B a_I s_I n_I h_E
+sáo 1.0 s_B a_I s_I o_E
+sáp 1.0 s_B a_I s_I p_E
+sát 1.0 s_B a_I s_I t_E
+sáu 1.0 s_B a_I s_I u_E
+sâm 1.0 s_B a_I a_I m_E
+sân 1.0 s_B a_I a_I n_E
+sâu 1.0 s_B a_I a_I u_E
+sãi 1.0 s_B a_I x_I i_E
+sèo 1.0 s_B e_I f_I o_E
+séc 1.0 s_B e_I s_I c_E
+sét 1.0 s_B e_I s_I t_E
+sên 1.0 s_B e_I e_I n_E
+sênh 1.0 s_B e_I e_I n_I h_E
+sêu 1.0 s_B e_I e_I u_E
+sì 1.0 s_B i_I f_E
+sính 1.0 s_B i_I s_I n_I h_E
+sò 1.0 s_B o_I f_E
+sòng 1.0 s_B o_I f_I n_I g_E
+sóc 1.0 s_B o_I s_I c_E
+sói 1.0 s_B o_I s_I i_E
+són 1.0 s_B o_I s_I n_E
+sóng 1.0 s_B o_I s_I n_I g_E
+sót 1.0 s_B o_I s_I t_E
+sô 1.0 s_B o_I o_E
+sôi 1.0 s_B o_I o_I i_E
+sông 1.0 s_B o_I o_I n_I g_E
+sõi 1.0 s_B o_I x_I i_E
+sùi 1.0 s_B u_I f_I i_E
+sú 1.0 s_B u_I s_E
+súc 1.0 s_B u_I s_I c_E
+súng 1.0 s_B u_I s_I n_I g_E
+súp 1.0 s_B u_I s_I p_E
+sút 1.0 s_B u_I s_I t_E
+súy 1.0 s_B u_I s_I y_E
+săn 1.0 s_B a_I w_I n_E
+sĩ 1.0 s_B i_I x_E
+sũng 1.0 s_B u_I x_I n_I g_E
+sơ 1.0 s_B o_I w_E
+sơm 1.0 s_B o_I w_I m_E
+sơn 1.0 s_B o_I w_I n_E
+sư 1.0 s_B u_I w_E
+sưa 1.0 s_B u_I w_I a_E
+sưng 1.0 s_B u_I w_I n_I g_E
+sưu 1.0 s_B u_I w_I u_E
+sương 1.0 s_B u_I w_I o_I w_I n_I g_E
+sướng 1.0 s_B u_I w_I o_I w_I s_I n_I g_E
+sướt 1.0 s_B u_I w_I o_I w_I s_I t_E
+sườn 1.0 s_B u_I w_I o_I w_I f_I n_E
+sường 1.0 s_B u_I w_I o_I w_I f_I n_I g_E
+sưởi 1.0 s_B u_I w_I o_I w_I r_I i_E
+sượt 1.0 s_B u_I w_I o_I w_I j_I t_E
+sạch 1.0 s_B a_I j_I c_I h_E
+sạm 1.0 s_B a_I j_I m_E
+sạn 1.0 s_B a_I j_I n_E
+sạo 1.0 s_B a_I j_I o_E
+sạp 1.0 s_B a_I j_I p_E
+sạt 1.0 s_B a_I j_I t_E
+sản 1.0 s_B a_I r_I n_E
+sảng 1.0 s_B a_I r_I n_I g_E
+sảnh 1.0 s_B a_I r_I n_I h_E
+sảo 1.0 s_B a_I r_I o_E
+sảy 1.0 s_B a_I r_I y_E
+sấm 1.0 s_B a_I a_I s_I m_E
+sấu 1.0 s_B a_I a_I s_I u_E
+sấy 1.0 s_B a_I a_I s_I y_E
+sầm 1.0 s_B a_I a_I f_I m_E
+sần 1.0 s_B a_I a_I f_I n_E
+sầu 1.0 s_B a_I a_I f_I u_E
+sẩn 1.0 s_B a_I a_I r_I n_E
+sẩy 1.0 s_B a_I a_I r_I y_E
+sẫm 1.0 s_B a_I a_I x_I m_E
+sập 1.0 s_B a_I a_I j_I p_E
+sắc 1.0 s_B a_I w_I s_I c_E
+sắm 1.0 s_B a_I w_I s_I m_E
+sắn 1.0 s_B a_I w_I s_I n_E
+sắng 1.0 s_B a_I w_I s_I n_I g_E
+sắp 1.0 s_B a_I w_I s_I p_E
+sắt 1.0 s_B a_I w_I s_I t_E
+sẵn 1.0 s_B a_I w_I x_I n_E
+sặc 1.0 s_B a_I w_I j_I c_E
+sẹm 1.0 s_B e_I j_I m_E
+sẹo 1.0 s_B e_I j_I o_E
+sẻ 1.0 s_B e_I r_E
+sẻn 1.0 s_B e_I r_I n_E
+sẽ 1.0 s_B e_I x_E
+sếp 1.0 s_B e_I e_I s_I p_E
+sếu 1.0 s_B e_I e_I s_I u_E
+sền 1.0 s_B e_I e_I f_I n_E
+sể 1.0 s_B e_I e_I r_E
+sểnh 1.0 s_B e_I e_I r_I n_I h_E
+sễ 1.0 s_B e_I e_I x_E
+sệt 1.0 s_B e_I e_I j_I t_E
+sịt 1.0 s_B i_I j_I t_E
+sọ 1.0 s_B o_I j_E
+sọm 1.0 s_B o_I j_I m_E
+sọt 1.0 s_B o_I j_I t_E
+sỏ 1.0 s_B o_I r_E
+sỏi 1.0 s_B o_I r_I i_E
+số 1.0 s_B o_I o_I s_E
+sốc 1.0 s_B o_I o_I s_I c_E
+sống 1.0 s_B o_I o_I s_I n_I g_E
+sốt 1.0 s_B o_I o_I s_I t_E
+sồ 1.0 s_B o_I o_I f_E
+sồi 1.0 s_B o_I o_I f_I i_E
+sồn 1.0 s_B o_I o_I f_I n_E
+sổ 1.0 s_B o_I o_I r_E
+sỗ 1.0 s_B o_I o_I x_E
+sộ 1.0 s_B o_I o_I j_E
+sột 1.0 s_B o_I o_I j_I t_E
+sớ 1.0 s_B o_I w_I s_E
+sới 1.0 s_B o_I w_I s_I i_E
+sớm 1.0 s_B o_I w_I s_I m_E
+sớn 1.0 s_B o_I w_I s_I n_E
+sớt 1.0 s_B o_I w_I s_I t_E
+sờ 1.0 s_B o_I w_I f_E
+sờm 1.0 s_B o_I w_I f_I m_E
+sờn 1.0 s_B o_I w_I f_I n_E
+sở 1.0 s_B o_I w_I r_E
+sỡ 1.0 s_B o_I w_I x_E
+sợ 1.0 s_B o_I w_I j_E
+sợi 1.0 s_B o_I w_I j_I i_E
+sụa 1.0 s_B u_I j_I a_E
+sục 1.0 s_B u_I j_I c_E
+sụn 1.0 s_B u_I j_I n_E
+sụp 1.0 s_B u_I j_I p_E
+sụt 1.0 s_B u_I j_I t_E
+sủa 1.0 s_B u_I r_I a_E
+sủi 1.0 s_B u_I r_I i_E
+sứ 1.0 s_B u_I w_I s_E
+sứa 1.0 s_B u_I w_I s_I a_E
+sức 1.0 s_B u_I w_I s_I c_E
+sứt 1.0 s_B u_I w_I s_I t_E
+sừng 1.0 s_B u_I w_I f_I n_I g_E
+sử 1.0 s_B u_I w_I r_E
+sửa 1.0 s_B u_I w_I r_I a_E
+sửng 1.0 s_B u_I w_I r_I n_I g_E
+sữa 1.0 s_B u_I w_I x_I a_E
+sững 1.0 s_B u_I w_I x_I n_I g_E
+sự 1.0 s_B u_I w_I j_E
+sực 1.0 s_B u_I w_I j_I c_E
+sỹ 1.0 s_B y_I x_E
+t 1.0 t_S
+ta 1.0 t_B a_E
+tai 1.0 t_B a_I i_E
+tam 1.0 t_B a_I m_E
+tan 1.0 t_B a_I n_E
+tang 1.0 t_B a_I n_I g_E
+tanh 1.0 t_B a_I n_I h_E
+tao 1.0 t_B a_I o_E
+tay 1.0 t_B a_I y_E
+te 1.0 t_B e_E
+tem 1.0 t_B e_I m_E
+ten 1.0 t_B e_I n_E
+teo 1.0 t_B e_I o_E
+tha 1.0 t_B h_I a_E
+thai 1.0 t_B h_I a_I i_E
+tham 1.0 t_B h_I a_I m_E
+than 1.0 t_B h_I a_I n_E
+thang 1.0 t_B h_I a_I n_I g_E
+thanh 1.0 t_B h_I a_I n_I h_E
+thao 1.0 t_B h_I a_I o_E
+thay 1.0 t_B h_I a_I y_E
+the 1.0 t_B h_I e_E
+then 1.0 t_B h_I e_I n_E
+theo 1.0 t_B h_I e_I o_E
+thi 1.0 t_B h_I i_E
+thia 1.0 t_B h_I i_I a_E
+thin 1.0 t_B h_I i_I n_E
+thinh 1.0 t_B h_I i_I n_I h_E
+thiêm 1.0 t_B h_I i_I e_I e_I m_E
+thiên 1.0 t_B h_I i_I e_I e_I n_E
+thiêng 1.0 t_B h_I i_I e_I e_I n_I g_E
+thiếc 1.0 t_B h_I i_I e_I e_I s_I c_E
+thiếp 1.0 t_B h_I i_I e_I e_I s_I p_E
+thiết 1.0 t_B h_I i_I e_I e_I s_I t_E
+thiếu 1.0 t_B h_I i_I e_I e_I s_I u_E
+thiềm 1.0 t_B h_I i_I e_I e_I f_I m_E
+thiền 1.0 t_B h_I i_I e_I e_I f_I n_E
+thiều 1.0 t_B h_I i_I e_I e_I f_I u_E
+thiển 1.0 t_B h_I i_I e_I e_I r_I n_E
+thiểu 1.0 t_B h_I i_I e_I e_I r_I u_E
+thiện 1.0 t_B h_I i_I e_I e_I j_I n_E
+thiệp 1.0 t_B h_I i_I e_I e_I j_I p_E
+thiệt 1.0 t_B h_I i_I e_I e_I j_I t_E
+thiệu 1.0 t_B h_I i_I e_I e_I j_I u_E
+tho 1.0 t_B h_I o_E
+thoa 1.0 t_B h_I o_I a_E
+thoang 1.0 t_B h_I o_I a_I n_I g_E
+thoi 1.0 t_B h_I o_I i_E
+thon 1.0 t_B h_I o_I n_E
+thong 1.0 t_B h_I o_I n_I g_E
+thoái 1.0 t_B h_I o_I a_I s_I i_E
+thoáng 1.0 t_B h_I o_I a_I s_I n_I g_E
+thoát 1.0 t_B h_I o_I a_I s_I t_E
+thoăn 1.0 t_B h_I o_I a_I w_I n_E
+thoại 1.0 t_B h_I o_I a_I j_I i_E
+thoạt 1.0 t_B h_I o_I a_I j_I t_E
+thoả 1.0 t_B h_I o_I a_I r_E
+thoải 1.0 t_B h_I o_I a_I r_I i_E
+thoảng 1.0 t_B h_I o_I a_I r_I n_I g_E
+thoắt 1.0 t_B h_I o_I a_I w_I s_I t_E
+thu 1.0 t_B h_I u_E
+thua 1.0 t_B h_I u_I a_E
+thui 1.0 t_B h_I u_I i_E
+thun 1.0 t_B h_I u_I n_E
+thung 1.0 t_B h_I u_I n_I g_E
+thuyên 1.0 t_B h_I u_I y_I e_I e_I n_E
+thuyết 1.0 t_B h_I u_I y_I e_I e_I s_I t_E
+thuyền 1.0 t_B h_I u_I y_I e_I e_I f_I n_E
+thuê 1.0 t_B h_I u_I e_I e_E
+thuần 1.0 t_B h_I u_I a_I a_I f_I n_E
+thuẫn 1.0 t_B h_I u_I a_I a_I x_I n_E
+thuận 1.0 t_B h_I u_I a_I a_I j_I n_E
+thuật 1.0 t_B h_I u_I a_I a_I j_I t_E
+thuế 1.0 t_B h_I u_I e_I e_I s_E
+thuốc 1.0 t_B h_I u_I o_I o_I s_I c_E
+thuồng 1.0 t_B h_I u_I o_I o_I f_I n_I g_E
+thuộc 1.0 t_B h_I u_I o_I o_I j_I c_E
+thuở 1.0 t_B h_I u_I o_I w_I r_E
+thuỷ 1.0 t_B h_I u_I y_I r_E
+thà 1.0 t_B h_I a_I f_E
+thài 1.0 t_B h_I a_I f_I i_E
+thành 1.0 t_B h_I a_I f_I n_I h_E
+thào 1.0 t_B h_I a_I f_I o_E
+thác 1.0 t_B h_I a_I s_I c_E
+thách 1.0 t_B h_I a_I s_I c_I h_E
+thái 1.0 t_B h_I a_I s_I i_E
+thám 1.0 t_B h_I a_I s_I m_E
+thán 1.0 t_B h_I a_I s_I n_E
+tháng 1.0 t_B h_I a_I s_I n_I g_E
+thánh 1.0 t_B h_I a_I s_I n_I h_E
+tháo 1.0 t_B h_I a_I s_I o_E
+tháp 1.0 t_B h_I a_I s_I p_E
+thâm 1.0 t_B h_I a_I a_I m_E
+thân 1.0 t_B h_I a_I a_I n_E
+thâu 1.0 t_B h_I a_I a_I u_E
+thây 1.0 t_B h_I a_I a_I y_E
+thãi 1.0 t_B h_I a_I x_I i_E
+thèm 1.0 t_B h_I e_I f_I m_E
+thèo 1.0 t_B h_I e_I f_I o_E
+thép 1.0 t_B h_I e_I s_I p_E
+thét 1.0 t_B h_I e_I s_I t_E
+thê 1.0 t_B h_I e_I e_E
+thêm 1.0 t_B h_I e_I e_I m_E
+thênh 1.0 t_B h_I e_I e_I n_I h_E
+thêu 1.0 t_B h_I e_I e_I u_E
+thì 1.0 t_B h_I i_I f_E
+thìa 1.0 t_B h_I i_I f_I a_E
+thìn 1.0 t_B h_I i_I f_I n_E
+thình 1.0 t_B h_I i_I f_I n_I h_E
+thìu 1.0 t_B h_I i_I f_I u_E
+thí 1.0 t_B h_I i_I s_E
+thía 1.0 t_B h_I i_I s_I a_E
+thích 1.0 t_B h_I i_I s_I c_I h_E
+thím 1.0 t_B h_I i_I s_I m_E
+thín 1.0 t_B h_I i_I s_I n_E
+thính 1.0 t_B h_I i_I s_I n_I h_E
+thíp 1.0 t_B h_I i_I s_I p_E
+thít 1.0 t_B h_I i_I s_I t_E
+thò 1.0 t_B h_I o_I f_E
+thòi 1.0 t_B h_I o_I f_I i_E
+thòng 1.0 t_B h_I o_I f_I n_I g_E
+thó 1.0 t_B h_I o_I s_E
+thóa 1.0 t_B h_I o_I s_I a_E
+thóc 1.0 t_B h_I o_I s_I c_E
+thói 1.0 t_B h_I o_I s_I i_E
+thóp 1.0 t_B h_I o_I s_I p_E
+thót 1.0 t_B h_I o_I s_I t_E
+thô 1.0 t_B h_I o_I o_E
+thôi 1.0 t_B h_I o_I o_I i_E
+thôn 1.0 t_B h_I o_I o_I n_E
+thông 1.0 t_B h_I o_I o_I n_I g_E
+thõng 1.0 t_B h_I o_I x_I n_I g_E
+thù 1.0 t_B h_I u_I f_E
+thùm 1.0 t_B h_I u_I f_I m_E
+thùng 1.0 t_B h_I u_I f_I n_I g_E
+thùy 1.0 t_B h_I u_I f_I y_E
+thú 1.0 t_B h_I u_I s_E
+thúc 1.0 t_B h_I u_I s_I c_E
+thúng 1.0 t_B h_I u_I s_I n_I g_E
+thút 1.0 t_B h_I u_I s_I t_E
+thúy 1.0 t_B h_I u_I s_I y_E
+thăm 1.0 t_B h_I a_I w_I m_E
+thăng 1.0 t_B h_I a_I w_I n_I g_E
+thũng 1.0 t_B h_I u_I x_I n_I g_E
+thơ 1.0 t_B h_I o_I w_E
+thơi 1.0 t_B h_I o_I w_I i_E
+thơm 1.0 t_B h_I o_I w_I m_E
+thư 1.0 t_B h_I u_I w_E
+thưa 1.0 t_B h_I u_I w_I a_E
+thương 1.0 t_B h_I u_I w_I o_I w_I n_I g_E
+thước 1.0 t_B h_I u_I w_I o_I w_I s_I c_E
+thường 1.0 t_B h_I u_I w_I o_I w_I f_I n_I g_E
+thưởng 1.0 t_B h_I u_I w_I o_I w_I r_I n_I g_E
+thưỡi 1.0 t_B h_I u_I w_I o_I w_I x_I i_E
+thưỡn 1.0 t_B h_I u_I w_I o_I w_I x_I n_E
+thược 1.0 t_B h_I u_I w_I o_I w_I j_I c_E
+thượng 1.0 t_B h_I u_I w_I o_I w_I j_I n_I g_E
+thạc 1.0 t_B h_I a_I j_I c_E
+thạch 1.0 t_B h_I a_I j_I c_I h_E
+thạnh 1.0 t_B h_I a_I j_I n_I h_E
+thạo 1.0 t_B h_I a_I j_I o_E
+thả 1.0 t_B h_I a_I r_E
+thải 1.0 t_B h_I a_I r_I i_E
+thảm 1.0 t_B h_I a_I r_I m_E
+thản 1.0 t_B h_I a_I r_I n_E
+thảng 1.0 t_B h_I a_I r_I n_I g_E
+thảnh 1.0 t_B h_I a_I r_I n_I h_E
+thảo 1.0 t_B h_I a_I r_I o_E
+thảy 1.0 t_B h_I a_I r_I y_E
+thấm 1.0 t_B h_I a_I a_I s_I m_E
+thấp 1.0 t_B h_I a_I a_I s_I p_E
+thất 1.0 t_B h_I a_I a_I s_I t_E
+thấu 1.0 t_B h_I a_I a_I s_I u_E
+thấy 1.0 t_B h_I a_I a_I s_I y_E
+thầm 1.0 t_B h_I a_I a_I f_I m_E
+thần 1.0 t_B h_I a_I a_I f_I n_E
+thầu 1.0 t_B h_I a_I a_I f_I u_E
+thầy 1.0 t_B h_I a_I a_I f_I y_E
+thẩm 1.0 t_B h_I a_I a_I r_I m_E
+thẩn 1.0 t_B h_I a_I a_I r_I n_E
+thẫm 1.0 t_B h_I a_I a_I x_I m_E
+thẫn 1.0 t_B h_I a_I a_I x_I n_E
+thậm 1.0 t_B h_I a_I a_I j_I m_E
+thận 1.0 t_B h_I a_I a_I j_I n_E
+thập 1.0 t_B h_I a_I a_I j_I p_E
+thật 1.0 t_B h_I a_I a_I j_I t_E
+thắc 1.0 t_B h_I a_I w_I s_I c_E
+thắn 1.0 t_B h_I a_I w_I s_I n_E
+thắng 1.0 t_B h_I a_I w_I s_I n_I g_E
+thắp 1.0 t_B h_I a_I w_I s_I p_E
+thắt 1.0 t_B h_I a_I w_I s_I t_E
+thằn 1.0 t_B h_I a_I w_I f_I n_E
+thằng 1.0 t_B h_I a_I w_I f_I n_I g_E
+thẳm 1.0 t_B h_I a_I w_I r_I m_E
+thẳng 1.0 t_B h_I a_I w_I r_I n_I g_E
+thẻ 1.0 t_B h_I e_I r_E
+thế 1.0 t_B h_I e_I e_I s_E
+thếch 1.0 t_B h_I e_I e_I s_I c_I h_E
+thếp 1.0 t_B h_I e_I e_I s_I p_E
+thề 1.0 t_B h_I e_I e_I f_E
+thềm 1.0 t_B h_I e_I e_I f_I m_E
+thều 1.0 t_B h_I e_I e_I f_I u_E
+thể 1.0 t_B h_I e_I e_I r_E
+thệ 1.0 t_B h_I e_I e_I j_E
+thỉ 1.0 t_B h_I i_I r_E
+thỉnh 1.0 t_B h_I i_I r_I n_I h_E
+thị 1.0 t_B h_I i_I j_E
+thịch 1.0 t_B h_I i_I j_I c_I h_E
+thịnh 1.0 t_B h_I i_I j_I n_I h_E
+thịt 1.0 t_B h_I i_I j_I t_E
+thịu 1.0 t_B h_I i_I j_I u_E
+thọ 1.0 t_B h_I o_I j_E
+thọc 1.0 t_B h_I o_I j_I c_E
+thọt 1.0 t_B h_I o_I j_I t_E
+thỏ 1.0 t_B h_I o_I r_E
+thỏa 1.0 t_B h_I o_I r_I a_E
+thỏi 1.0 t_B h_I o_I r_I i_E
+thỏm 1.0 t_B h_I o_I r_I m_E
+thố 1.0 t_B h_I o_I o_I s_E
+thốc 1.0 t_B h_I o_I o_I s_I c_E
+thối 1.0 t_B h_I o_I o_I s_I i_E
+thốn 1.0 t_B h_I o_I o_I s_I n_E
+thống 1.0 t_B h_I o_I o_I s_I n_I g_E
+thốt 1.0 t_B h_I o_I o_I s_I t_E
+thồ 1.0 t_B h_I o_I o_I f_E
+thồi 1.0 t_B h_I o_I o_I f_I i_E
+thồn 1.0 t_B h_I o_I o_I f_I n_E
+thổ 1.0 t_B h_I o_I o_I r_E
+thổi 1.0 t_B h_I o_I o_I r_I i_E
+thộp 1.0 t_B h_I o_I o_I j_I p_E
+thới 1.0 t_B h_I o_I w_I s_I i_E
+thớt 1.0 t_B h_I o_I w_I s_I t_E
+thờ 1.0 t_B h_I o_I w_I f_E
+thời 1.0 t_B h_I o_I w_I f_I i_E
+thở 1.0 t_B h_I o_I w_I r_E
+thợ 1.0 t_B h_I o_I w_I j_E
+thụ 1.0 t_B h_I u_I j_E
+thục 1.0 t_B h_I u_I j_I c_E
+thụng 1.0 t_B h_I u_I j_I n_I g_E
+thụp 1.0 t_B h_I u_I j_I p_E
+thụt 1.0 t_B h_I u_I j_I t_E
+thụy 1.0 t_B h_I u_I j_I y_E
+thủ 1.0 t_B h_I u_I r_E
+thủa 1.0 t_B h_I u_I r_I a_E
+thủi 1.0 t_B h_I u_I r_I i_E
+thủng 1.0 t_B h_I u_I r_I n_I g_E
+thủy 1.0 t_B h_I u_I r_I y_E
+thứ 1.0 t_B h_I u_I w_I s_E
+thức 1.0 t_B h_I u_I w_I s_I c_E
+thừ 1.0 t_B h_I u_I w_I f_E
+thừa 1.0 t_B h_I u_I w_I f_I a_E
+thừng 1.0 t_B h_I u_I w_I f_I n_I g_E
+thử 1.0 t_B h_I u_I w_I r_E
+thửa 1.0 t_B h_I u_I w_I r_I a_E
+thững 1.0 t_B h_I u_I w_I x_I n_I g_E
+thự 1.0 t_B h_I u_I w_I j_E
+thực 1.0 t_B h_I u_I w_I j_I c_E
+ti 1.0 t_B i_E
+tia 1.0 t_B i_I a_E
+tim 1.0 t_B i_I m_E
+tin 1.0 t_B i_I n_E
+tinh 1.0 t_B i_I n_I h_E
+tiu 1.0 t_B i_I u_E
+tiêm 1.0 t_B i_I e_I e_I m_E
+tiên 1.0 t_B i_I e_I e_I n_E
+tiêu 1.0 t_B i_I e_I e_I u_E
+tiếc 1.0 t_B i_I e_I e_I s_I c_E
+tiếm 1.0 t_B i_I e_I e_I s_I m_E
+tiến 1.0 t_B i_I e_I e_I s_I n_E
+tiếng 1.0 t_B i_I e_I e_I s_I n_I g_E
+tiếp 1.0 t_B i_I e_I e_I s_I p_E
+tiết 1.0 t_B i_I e_I e_I s_I t_E
+tiếu 1.0 t_B i_I e_I e_I s_I u_E
+tiềm 1.0 t_B i_I e_I e_I f_I m_E
+tiền 1.0 t_B i_I e_I e_I f_I n_E
+tiểu 1.0 t_B i_I e_I e_I r_I u_E
+tiễn 1.0 t_B i_I e_I e_I x_I n_E
+tiễu 1.0 t_B i_I e_I e_I x_I u_E
+tiệc 1.0 t_B i_I e_I e_I j_I c_E
+tiệm 1.0 t_B i_I e_I e_I j_I m_E
+tiện 1.0 t_B i_I e_I e_I j_I n_E
+to 1.0 t_B o_E
+toa 1.0 t_B o_I a_E
+toan 1.0 t_B o_I a_I n_E
+toanh 1.0 t_B o_I a_I n_I h_E
+toe 1.0 t_B o_I e_E
+tong 1.0 t_B o_I n_I g_E
+top 1.0 t_B o_I p_E
+toà 1.0 t_B o_I a_I f_E
+toài 1.0 t_B o_I a_I f_I i_E
+toàn 1.0 t_B o_I a_I f_I n_E
+toái 1.0 t_B o_I a_I s_I i_E
+toán 1.0 t_B o_I a_I s_I n_E
+toát 1.0 t_B o_I a_I s_I t_E
+toét 1.0 t_B o_I e_I s_I t_E
+toạc 1.0 t_B o_I a_I j_I c_E
+toả 1.0 t_B o_I a_I r_E
+toản 1.0 t_B o_I a_I r_I n_E
+toẹt 1.0 t_B o_I e_I j_I t_E
+tra 1.0 t_B r_I a_E
+trai 1.0 t_B r_I a_I i_E
+trang 1.0 t_B r_I a_I n_I g_E
+tranh 1.0 t_B r_I a_I n_I h_E
+trao 1.0 t_B r_I a_I o_E
+trau 1.0 t_B r_I a_I u_E
+tre 1.0 t_B r_I e_E
+treo 1.0 t_B r_I e_I o_E
+tri 1.0 t_B r_I i_E
+trinh 1.0 t_B r_I i_I n_I h_E
+triêng 1.0 t_B r_I i_I e_I e_I n_I g_E
+triết 1.0 t_B r_I i_I e_I e_I s_I t_E
+triền 1.0 t_B r_I i_I e_I e_I f_I n_E
+triềng 1.0 t_B r_I i_I e_I e_I f_I n_I g_E
+triều 1.0 t_B r_I i_I e_I e_I f_I u_E
+triển 1.0 t_B r_I i_I e_I e_I r_I n_E
+triệng 1.0 t_B r_I i_I e_I e_I j_I n_I g_E
+triệt 1.0 t_B r_I i_I e_I e_I j_I t_E
+triệu 1.0 t_B r_I i_I e_I e_I j_I u_E
+tro 1.0 t_B r_I o_E
+trong 1.0 t_B r_I o_I n_I g_E
+tru 1.0 t_B r_I u_E
+trung 1.0 t_B r_I u_I n_I g_E
+truy 1.0 t_B r_I u_I y_E
+truyền 1.0 t_B r_I u_I y_I e_I e_I f_I n_E
+truyện 1.0 t_B r_I u_I y_I e_I e_I j_I n_E
+truân 1.0 t_B r_I u_I a_I a_I n_E
+truật 1.0 t_B r_I u_I a_I a_I j_I t_E
+truồng 1.0 t_B r_I u_I o_I o_I f_I n_I g_E
+trà 1.0 t_B r_I a_I f_E
+trài 1.0 t_B r_I a_I f_I i_E
+tràm 1.0 t_B r_I a_I f_I m_E
+tràn 1.0 t_B r_I a_I f_I n_E
+tràng 1.0 t_B r_I a_I f_I n_I g_E
+trành 1.0 t_B r_I a_I f_I n_I h_E
+trào 1.0 t_B r_I a_I f_I o_E
+trá 1.0 t_B r_I a_I s_E
+trách 1.0 t_B r_I a_I s_I c_I h_E
+trái 1.0 t_B r_I a_I s_I i_E
+trám 1.0 t_B r_I a_I s_I m_E
+trán 1.0 t_B r_I a_I s_I n_E
+tráng 1.0 t_B r_I a_I s_I n_I g_E
+tránh 1.0 t_B r_I a_I s_I n_I h_E
+tráo 1.0 t_B r_I a_I s_I o_E
+tráp 1.0 t_B r_I a_I s_I p_E
+trát 1.0 t_B r_I a_I s_I t_E
+trâm 1.0 t_B r_I a_I a_I m_E
+trân 1.0 t_B r_I a_I a_I n_E
+trâu 1.0 t_B r_I a_I a_I u_E
+trã 1.0 t_B r_I a_I x_E
+trãi 1.0 t_B r_I a_I x_I i_E
+trèo 1.0 t_B r_I e_I f_I o_E
+trém 1.0 t_B r_I e_I s_I m_E
+tréo 1.0 t_B r_I e_I s_I o_E
+trê 1.0 t_B r_I e_I e_E
+trên 1.0 t_B r_I e_I e_I n_E
+trêu 1.0 t_B r_I e_I e_I u_E
+trì 1.0 t_B r_I i_I f_E
+trình 1.0 t_B r_I i_I f_I n_I h_E
+trìu 1.0 t_B r_I i_I f_I u_E
+trí 1.0 t_B r_I i_I s_E
+trích 1.0 t_B r_I i_I s_I c_I h_E
+trò 1.0 t_B r_I o_I f_E
+tròn 1.0 t_B r_I o_I f_I n_E
+tròng 1.0 t_B r_I o_I f_I n_I g_E
+tróc 1.0 t_B r_I o_I s_I c_E
+tróng 1.0 t_B r_I o_I s_I n_I g_E
+trót 1.0 t_B r_I o_I s_I t_E
+trôi 1.0 t_B r_I o_I o_I i_E
+trôm 1.0 t_B r_I o_I o_I m_E
+trông 1.0 t_B r_I o_I o_I n_I g_E
+trõn 1.0 t_B r_I o_I x_I n_E
+trù 1.0 t_B r_I u_I f_E
+trùi 1.0 t_B r_I u_I f_I i_E
+trùm 1.0 t_B r_I u_I f_I m_E
+trùn 1.0 t_B r_I u_I f_I n_E
+trùng 1.0 t_B r_I u_I f_I n_I g_E
+trú 1.0 t_B r_I u_I s_E
+trúc 1.0 t_B r_I u_I s_I c_E
+trúm 1.0 t_B r_I u_I s_I m_E
+trúng 1.0 t_B r_I u_I s_I n_I g_E
+trút 1.0 t_B r_I u_I s_I t_E
+trăm 1.0 t_B r_I a_I w_I m_E
+trăn 1.0 t_B r_I a_I w_I n_E
+trăng 1.0 t_B r_I a_I w_I n_I g_E
+trĩ 1.0 t_B r_I i_I x_E
+trĩu 1.0 t_B r_I i_I x_I u_E
+trũng 1.0 t_B r_I u_I x_I n_I g_E
+trơ 1.0 t_B r_I o_I w_E
+trơi 1.0 t_B r_I o_I w_I i_E
+trơn 1.0 t_B r_I o_I w_I n_E
+trư 1.0 t_B r_I u_I w_E
+trưa 1.0 t_B r_I u_I w_I a_E
+trưng 1.0 t_B r_I u_I w_I n_I g_E
+trương 1.0 t_B r_I u_I w_I o_I w_I n_I g_E
+trước 1.0 t_B r_I u_I w_I o_I w_I s_I c_E
+trướng 1.0 t_B r_I u_I w_I o_I w_I s_I n_I g_E
+trường 1.0 t_B r_I u_I w_I o_I w_I f_I n_I g_E
+trưởng 1.0 t_B r_I u_I w_I o_I w_I r_I n_I g_E
+trưỡng 1.0 t_B r_I u_I w_I o_I w_I x_I n_I g_E
+trượt 1.0 t_B r_I u_I w_I o_I w_I j_I t_E
+trạc 1.0 t_B r_I a_I j_I c_E
+trại 1.0 t_B r_I a_I j_I i_E
+trạm 1.0 t_B r_I a_I j_I m_E
+trạng 1.0 t_B r_I a_I j_I n_I g_E
+trả 1.0 t_B r_I a_I r_E
+trải 1.0 t_B r_I a_I r_I i_E
+trảo 1.0 t_B r_I a_I r_I o_E
+trảu 1.0 t_B r_I a_I r_I u_E
+trấn 1.0 t_B r_I a_I a_I s_I n_E
+trấu 1.0 t_B r_I a_I a_I s_I u_E
+trầm 1.0 t_B r_I a_I a_I f_I m_E
+trần 1.0 t_B r_I a_I a_I f_I n_E
+trầu 1.0 t_B r_I a_I a_I f_I u_E
+trầy 1.0 t_B r_I a_I a_I f_I y_E
+trẫm 1.0 t_B r_I a_I a_I x_I m_E
+trận 1.0 t_B r_I a_I a_I j_I n_E
+trật 1.0 t_B r_I a_I a_I j_I t_E
+trắc 1.0 t_B r_I a_I w_I s_I c_E
+trắng 1.0 t_B r_I a_I w_I s_I n_I g_E
+trằn 1.0 t_B r_I a_I w_I f_I n_E
+trặc 1.0 t_B r_I a_I w_I j_I c_E
+trặn 1.0 t_B r_I a_I w_I j_I n_E
+trẹo 1.0 t_B r_I e_I j_I o_E
+trẻ 1.0 t_B r_I e_I r_E
+trẽn 1.0 t_B r_I e_I x_I n_E
+trếch 1.0 t_B r_I e_I e_I s_I c_I h_E
+trề 1.0 t_B r_I e_I e_I f_E
+trễ 1.0 t_B r_I e_I e_I x_E
+trệ 1.0 t_B r_I e_I e_I j_E
+trệt 1.0 t_B r_I e_I e_I j_I t_E
+trị 1.0 t_B r_I i_I j_E
+trịa 1.0 t_B r_I i_I j_I a_E
+trịch 1.0 t_B r_I i_I j_I c_I h_E
+trịnh 1.0 t_B r_I i_I j_I n_I h_E
+trịt 1.0 t_B r_I i_I j_I t_E
+trọ 1.0 t_B r_I o_I j_E
+trọc 1.0 t_B r_I o_I j_I c_E
+trọi 1.0 t_B r_I o_I j_I i_E
+trọn 1.0 t_B r_I o_I j_I n_E
+trọng 1.0 t_B r_I o_I j_I n_I g_E
+trọt 1.0 t_B r_I o_I j_I t_E
+trỏ 1.0 t_B r_I o_I r_E
+trốn 1.0 t_B r_I o_I o_I s_I n_E
+trống 1.0 t_B r_I o_I o_I s_I n_I g_E
+trồ 1.0 t_B r_I o_I o_I f_E
+trồi 1.0 t_B r_I o_I o_I f_I i_E
+trồng 1.0 t_B r_I o_I o_I f_I n_I g_E
+trổ 1.0 t_B r_I o_I o_I r_E
+trộ 1.0 t_B r_I o_I o_I j_E
+trộm 1.0 t_B r_I o_I o_I j_I m_E
+trộn 1.0 t_B r_I o_I o_I j_I n_E
+trớ 1.0 t_B r_I o_I w_I s_E
+trớn 1.0 t_B r_I o_I w_I s_I n_E
+trớt 1.0 t_B r_I o_I w_I s_I t_E
+trờ 1.0 t_B r_I o_I w_I f_E
+trời 1.0 t_B r_I o_I w_I f_I i_E
+trở 1.0 t_B r_I o_I w_I r_E
+trợ 1.0 t_B r_I o_I w_I j_E
+trợn 1.0 t_B r_I o_I w_I j_I n_E
+trợt 1.0 t_B r_I o_I w_I j_I t_E
+trụ 1.0 t_B r_I u_I j_E
+trụa 1.0 t_B r_I u_I j_I a_E
+trục 1.0 t_B r_I u_I j_I c_E
+trụi 1.0 t_B r_I u_I j_I i_E
+trụt 1.0 t_B r_I u_I j_I t_E
+trụy 1.0 t_B r_I u_I j_I y_E
+trứ 1.0 t_B r_I u_I w_I s_E
+trứng 1.0 t_B r_I u_I w_I s_I n_I g_E
+trừ 1.0 t_B r_I u_I w_I f_E
+trừng 1.0 t_B r_I u_I w_I f_I n_I g_E
+trửng 1.0 t_B r_I u_I w_I r_I n_I g_E
+trữ 1.0 t_B r_I u_I w_I x_E
+trực 1.0 t_B r_I u_I w_I j_I c_E
+tu 1.0 t_B u_E
+tua 1.0 t_B u_I a_E
+tui 1.0 t_B u_I i_E
+tum 1.0 t_B u_I m_E
+tung 1.0 t_B u_I n_I g_E
+tuy 1.0 t_B u_I y_E
+tuyên 1.0 t_B u_I y_I e_I e_I n_E
+tuyến 1.0 t_B u_I y_I e_I e_I s_I n_E
+tuyết 1.0 t_B u_I y_I e_I e_I s_I t_E
+tuyền 1.0 t_B u_I y_I e_I e_I f_I n_E
+tuyển 1.0 t_B u_I y_I e_I e_I r_I n_E
+tuyệt 1.0 t_B u_I y_I e_I e_I j_I t_E
+tuân 1.0 t_B u_I a_I a_I n_E
+tuôn 1.0 t_B u_I o_I o_I n_E
+tuông 1.0 t_B u_I o_I o_I n_I g_E
+tuấn 1.0 t_B u_I a_I a_I s_I n_E
+tuần 1.0 t_B u_I a_I a_I f_I n_E
+tuế 1.0 t_B u_I e_I e_I s_E
+tuệ 1.0 t_B u_I e_I e_I j_E
+tuệch 1.0 t_B u_I e_I e_I j_I c_I h_E
+tuốt 1.0 t_B u_I o_I o_I s_I t_E
+tuồn 1.0 t_B u_I o_I o_I f_I n_E
+tuồng 1.0 t_B u_I o_I o_I f_I n_I g_E
+tuổi 1.0 t_B u_I o_I o_I r_I i_E
+tuột 1.0 t_B u_I o_I o_I j_I t_E
+tuỳ 1.0 t_B u_I y_I f_E
+ty 1.0 t_B y_E
+tà 1.0 t_B a_I f_E
+tài 1.0 t_B a_I f_I i_E
+tàn 1.0 t_B a_I f_I n_E
+tàng 1.0 t_B a_I f_I n_I g_E
+tành 1.0 t_B a_I f_I n_I h_E
+tào 1.0 t_B a_I f_I o_E
+tàu 1.0 t_B a_I f_I u_E
+tày 1.0 t_B a_I f_I y_E
+tá 1.0 t_B a_I s_E
+tác 1.0 t_B a_I s_I c_E
+tách 1.0 t_B a_I s_I c_I h_E
+tái 1.0 t_B a_I s_I i_E
+tám 1.0 t_B a_I s_I m_E
+tán 1.0 t_B a_I s_I n_E
+táng 1.0 t_B a_I s_I n_I g_E
+tánh 1.0 t_B a_I s_I n_I h_E
+táo 1.0 t_B a_I s_I o_E
+táp 1.0 t_B a_I s_I p_E
+tát 1.0 t_B a_I s_I t_E
+táy 1.0 t_B a_I s_I y_E
+tâm 1.0 t_B a_I a_I m_E
+tân 1.0 t_B a_I a_I n_E
+tây 1.0 t_B a_I a_I y_E
+tã 1.0 t_B a_I x_E
+tãi 1.0 t_B a_I x_I i_E
+tè 1.0 t_B e_I f_E
+tèn 1.0 t_B e_I f_I n_E
+té 1.0 t_B e_I s_E
+téc 1.0 t_B e_I s_I c_E
+tém 1.0 t_B e_I s_I m_E
+tén 1.0 t_B e_I s_I n_E
+tép 1.0 t_B e_I s_I p_E
+tét 1.0 t_B e_I s_I t_E
+tê 1.0 t_B e_I e_E
+tên 1.0 t_B e_I e_I n_E
+tì 1.0 t_B i_I f_E
+tìm 1.0 t_B i_I f_I m_E
+tình 1.0 t_B i_I f_I n_I h_E
+tí 1.0 t_B i_I s_E
+tía 1.0 t_B i_I s_I a_E
+tích 1.0 t_B i_I s_I c_I h_E
+tím 1.0 t_B i_I s_I m_E
+tín 1.0 t_B i_I s_I n_E
+tính 1.0 t_B i_I s_I n_I h_E
+típ 1.0 t_B i_I s_I p_E
+tít 1.0 t_B i_I s_I t_E
+tíu 1.0 t_B i_I s_I u_E
+tò 1.0 t_B o_I f_E
+tòa 1.0 t_B o_I f_I a_E
+tòe 1.0 t_B o_I f_I e_E
+tòi 1.0 t_B o_I f_I i_E
+tòm 1.0 t_B o_I f_I m_E
+tòng 1.0 t_B o_I f_I n_I g_E
+tóc 1.0 t_B o_I s_I c_E
+tóe 1.0 t_B o_I s_I e_E
+tóm 1.0 t_B o_I s_I m_E
+tóp 1.0 t_B o_I s_I p_E
+tô 1.0 t_B o_I o_E
+tôi 1.0 t_B o_I o_I i_E
+tôm 1.0 t_B o_I o_I m_E
+tôn 1.0 t_B o_I o_I n_E
+tông 1.0 t_B o_I o_I n_I g_E
+tù 1.0 t_B u_I f_E
+tùa 1.0 t_B u_I f_I a_E
+tùng 1.0 t_B u_I f_I n_I g_E
+tùy 1.0 t_B u_I f_I y_E
+tú 1.0 t_B u_I s_E
+túc 1.0 t_B u_I s_I c_E
+túi 1.0 t_B u_I s_I i_E
+túm 1.0 t_B u_I s_I m_E
+túng 1.0 t_B u_I s_I n_I g_E
+tút 1.0 t_B u_I s_I t_E
+túy 1.0 t_B u_I s_I y_E
+tý 1.0 t_B y_I s_E
+tăm 1.0 t_B a_I w_I m_E
+tăn 1.0 t_B a_I w_I n_E
+tăng 1.0 t_B a_I w_I n_I g_E
+tĩnh 1.0 t_B i_I x_I n_I h_E
+tũm 1.0 t_B u_I x_I m_E
+tơ 1.0 t_B o_I w_E
+tơi 1.0 t_B o_I w_I i_E
+tư 1.0 t_B u_I w_E
+tưa 1.0 t_B u_I w_I a_E
+tưng 1.0 t_B u_I w_I n_I g_E
+tươi 1.0 t_B u_I w_I o_I w_I i_E
+tươm 1.0 t_B u_I w_I o_I w_I m_E
+tương 1.0 t_B u_I w_I o_I w_I n_I g_E
+tước 1.0 t_B u_I w_I o_I w_I s_I c_E
+tưới 1.0 t_B u_I w_I o_I w_I s_I i_E
+tướng 1.0 t_B u_I w_I o_I w_I s_I n_I g_E
+tườm 1.0 t_B u_I w_I o_I w_I f_I m_E
+tường 1.0 t_B u_I w_I o_I w_I f_I n_I g_E
+tườu 1.0 t_B u_I w_I o_I w_I f_I u_E
+tưởi 1.0 t_B u_I w_I o_I w_I r_I i_E
+tưởng 1.0 t_B u_I w_I o_I w_I r_I n_I g_E
+tượng 1.0 t_B u_I w_I o_I w_I j_I n_I g_E
+tượp 1.0 t_B u_I w_I o_I w_I j_I p_E
+tạ 1.0 t_B a_I j_E
+tạch 1.0 t_B a_I j_I c_I h_E
+tại 1.0 t_B a_I j_I i_E
+tạm 1.0 t_B a_I j_I m_E
+tạng 1.0 t_B a_I j_I n_I g_E
+tạo 1.0 t_B a_I j_I o_E
+tạp 1.0 t_B a_I j_I p_E
+tạt 1.0 t_B a_I j_I t_E
+tả 1.0 t_B a_I r_E
+tải 1.0 t_B a_I r_I i_E
+tản 1.0 t_B a_I r_I n_E
+tảng 1.0 t_B a_I r_I n_I g_E
+tảo 1.0 t_B a_I r_I o_E
+tấc 1.0 t_B a_I a_I s_I c_E
+tấm 1.0 t_B a_I a_I s_I m_E
+tấn 1.0 t_B a_I a_I s_I n_E
+tấp 1.0 t_B a_I a_I s_I p_E
+tất 1.0 t_B a_I a_I s_I t_E
+tấu 1.0 t_B a_I a_I s_I u_E
+tấy 1.0 t_B a_I a_I s_I y_E
+tầm 1.0 t_B a_I a_I f_I m_E
+tần 1.0 t_B a_I a_I f_I n_E
+tầng 1.0 t_B a_I a_I f_I n_I g_E
+tầy 1.0 t_B a_I a_I f_I y_E
+tẩm 1.0 t_B a_I a_I r_I m_E
+tẩn 1.0 t_B a_I a_I r_I n_E
+tẩy 1.0 t_B a_I a_I r_I y_E
+tậm 1.0 t_B a_I a_I j_I m_E
+tận 1.0 t_B a_I a_I j_I n_E
+tập 1.0 t_B a_I a_I j_I p_E
+tật 1.0 t_B a_I a_I j_I t_E
+tắc 1.0 t_B a_I w_I s_I c_E
+tắm 1.0 t_B a_I w_I s_I m_E
+tắn 1.0 t_B a_I w_I s_I n_E
+tắt 1.0 t_B a_I w_I s_I t_E
+tằm 1.0 t_B a_I w_I f_I m_E
+tẳn 1.0 t_B a_I w_I r_I n_E
+tặc 1.0 t_B a_I w_I j_I c_E
+tặng 1.0 t_B a_I w_I j_I n_I g_E
+tẹo 1.0 t_B e_I j_I o_E
+tẹp 1.0 t_B e_I j_I p_E
+tẻ 1.0 t_B e_I r_E
+tế 1.0 t_B e_I e_I s_E
+tết 1.0 t_B e_I e_I s_I t_E
+tếu 1.0 t_B e_I e_I s_I u_E
+tể 1.0 t_B e_I e_I r_E
+tễ 1.0 t_B e_I e_I x_E
+tễnh 1.0 t_B e_I e_I x_I n_I h_E
+tệ 1.0 t_B e_I e_I j_E
+tệp 1.0 t_B e_I e_I j_I p_E
+tỉ 1.0 t_B i_I r_E
+tỉa 1.0 t_B i_I r_I a_E
+tỉm 1.0 t_B i_I r_I m_E
+tỉnh 1.0 t_B i_I r_I n_I h_E
+tị 1.0 t_B i_I j_E
+tịch 1.0 t_B i_I j_I c_I h_E
+tịnh 1.0 t_B i_I j_I n_I h_E
+tọa 1.0 t_B o_I j_I a_E
+tọc 1.0 t_B o_I j_I c_E
+tọp 1.0 t_B o_I j_I p_E
+tỏ 1.0 t_B o_I r_E
+tỏa 1.0 t_B o_I r_I a_E
+tỏi 1.0 t_B o_I r_I i_E
+tố 1.0 t_B o_I o_I s_E
+tốc 1.0 t_B o_I o_I s_I c_E
+tối 1.0 t_B o_I o_I s_I i_E
+tốn 1.0 t_B o_I o_I s_I n_E
+tống 1.0 t_B o_I o_I s_I n_I g_E
+tốp 1.0 t_B o_I o_I s_I p_E
+tốt 1.0 t_B o_I o_I s_I t_E
+tồi 1.0 t_B o_I o_I f_I i_E
+tồn 1.0 t_B o_I o_I f_I n_E
+tổ 1.0 t_B o_I o_I r_E
+tổn 1.0 t_B o_I o_I r_I n_E
+tổng 1.0 t_B o_I o_I r_I n_I g_E
+tộc 1.0 t_B o_I o_I j_I c_E
+tội 1.0 t_B o_I o_I j_I i_E
+tột 1.0 t_B o_I o_I j_I t_E
+tớ 1.0 t_B o_I w_I s_E
+tới 1.0 t_B o_I w_I s_I i_E
+tớn 1.0 t_B o_I w_I s_I n_E
+tờ 1.0 t_B o_I w_I f_E
+tởm 1.0 t_B o_I w_I r_I m_E
+tợ 1.0 t_B o_I w_I j_E
+tợp 1.0 t_B o_I w_I j_I p_E
+tụ 1.0 t_B u_I j_E
+tục 1.0 t_B u_I j_I c_E
+tụi 1.0 t_B u_I j_I i_E
+tụm 1.0 t_B u_I j_I m_E
+tụng 1.0 t_B u_I j_I n_I g_E
+tụt 1.0 t_B u_I j_I t_E
+tụy 1.0 t_B u_I j_I y_E
+tủ 1.0 t_B u_I r_E
+tủi 1.0 t_B u_I r_I i_E
+tủm 1.0 t_B u_I r_I m_E
+tủn 1.0 t_B u_I r_I n_E
+tủy 1.0 t_B u_I r_I y_E
+tứ 1.0 t_B u_I w_I s_E
+tức 1.0 t_B u_I w_I s_I c_E
+từ 1.0 t_B u_I w_I f_E
+từng 1.0 t_B u_I w_I f_I n_I g_E
+tử 1.0 t_B u_I w_I r_E
+tửa 1.0 t_B u_I w_I r_I a_E
+tửu 1.0 t_B u_I w_I r_I u_E
+tự 1.0 t_B u_I w_I j_E
+tựa 1.0 t_B u_I w_I j_I a_E
+tựu 1.0 t_B u_I w_I j_I u_E
+tỵ 1.0 t_B y_I j_E
+tỷ 1.0 t_B y_I r_E
+u 1.0 u_S
+ung 1.0 u_B n_I g_E
+uy 1.0 u_B y_E
+uyên 1.0 u_B y_I e_I e_I n_E
+uyển 1.0 u_B y_I e_I e_I r_I n_E
+uất 1.0 u_B a_I a_I s_I t_E
+uế 1.0 u_B e_I e_I s_E
+uể 1.0 u_B e_I e_I r_E
+uốn 1.0 u_B o_I o_I s_I n_E
+uống 1.0 u_B o_I o_I s_I n_I g_E
+uột 1.0 u_B o_I o_I j_I t_E
+uỵch 1.0 u_B y_I j_I c_I h_E
+uỷ 1.0 u_B y_I r_E
+v 1.0 v_S
+va 1.0 v_B a_E
+vai 1.0 v_B a_I i_E
+van 1.0 v_B a_I n_E
+vang 1.0 v_B a_I n_I g_E
+vanh 1.0 v_B a_I n_I h_E
+vao 1.0 v_B a_I o_E
+vay 1.0 v_B a_I y_E
+ve 1.0 v_B e_E
+ven 1.0 v_B e_I n_E
+veo 1.0 v_B e_I o_E
+vi 1.0 v_B i_E
+vinh 1.0 v_B i_I n_I h_E
+viêm 1.0 v_B i_I e_I e_I m_E
+viên 1.0 v_B i_I e_I e_I n_E
+viếng 1.0 v_B i_I e_I e_I s_I n_I g_E
+viết 1.0 v_B i_I e_I e_I s_I t_E
+viền 1.0 v_B i_I e_I e_I f_I n_E
+viển 1.0 v_B i_I e_I e_I r_I n_E
+viễn 1.0 v_B i_I e_I e_I x_I n_E
+việc 1.0 v_B i_I e_I e_I j_I c_E
+viện 1.0 v_B i_I e_I e_I j_I n_E
+việt 1.0 v_B i_I e_I e_I j_I t_E
+vo 1.0 v_B o_E
+voi 1.0 v_B o_I i_E
+von 1.0 v_B o_I n_E
+vong 1.0 v_B o_I n_I g_E
+vu 1.0 v_B u_E
+vua 1.0 v_B u_I a_E
+vui 1.0 v_B u_I i_E
+vun 1.0 v_B u_I n_E
+vung 1.0 v_B u_I n_I g_E
+vuông 1.0 v_B u_I o_I o_I n_I g_E
+vuốt 1.0 v_B u_I o_I o_I s_I t_E
+vuột 1.0 v_B u_I o_I o_I j_I t_E
+vy 1.0 v_B y_E
+và 1.0 v_B a_I f_E
+vài 1.0 v_B a_I f_I i_E
+vàn 1.0 v_B a_I f_I n_E
+vàng 1.0 v_B a_I f_I n_I g_E
+vành 1.0 v_B a_I f_I n_I h_E
+vào 1.0 v_B a_I f_I o_E
+vày 1.0 v_B a_I f_I y_E
+vá 1.0 v_B a_I s_E
+vác 1.0 v_B a_I s_I c_E
+vách 1.0 v_B a_I s_I c_I h_E
+vái 1.0 v_B a_I s_I i_E
+ván 1.0 v_B a_I s_I n_E
+váng 1.0 v_B a_I s_I n_I g_E
+vánh 1.0 v_B a_I s_I n_I h_E
+vát 1.0 v_B a_I s_I t_E
+váy 1.0 v_B a_I s_I y_E
+vân 1.0 v_B a_I a_I n_E
+vâng 1.0 v_B a_I a_I n_I g_E
+vây 1.0 v_B a_I a_I y_E
+vã 1.0 v_B a_I x_E
+vãi 1.0 v_B a_I x_I i_E
+vãnh 1.0 v_B a_I x_I n_I h_E
+vèo 1.0 v_B e_I f_I o_E
+vé 1.0 v_B e_I s_E
+vén 1.0 v_B e_I s_I n_E
+vét 1.0 v_B e_I s_I t_E
+vê 1.0 v_B e_I e_E
+vên 1.0 v_B e_I e_I n_E
+vênh 1.0 v_B e_I e_I n_I h_E
+vì 1.0 v_B i_I f_E
+ví 1.0 v_B i_I s_E
+vía 1.0 v_B i_I s_I a_E
+vít 1.0 v_B i_I s_I t_E
+víu 1.0 v_B i_I s_I u_E
+vò 1.0 v_B o_I f_E
+vòi 1.0 v_B o_I f_I i_E
+vòm 1.0 v_B o_I f_I m_E
+vòng 1.0 v_B o_I f_I n_I g_E
+vó 1.0 v_B o_I s_E
+vóc 1.0 v_B o_I s_I c_E
+vót 1.0 v_B o_I s_I t_E
+vô 1.0 v_B o_I o_E
+vôi 1.0 v_B o_I o_I i_E
+vông 1.0 v_B o_I o_I n_I g_E
+võ 1.0 v_B o_I x_E
+võng 1.0 v_B o_I x_I n_I g_E
+vù 1.0 v_B u_I f_E
+vùi 1.0 v_B u_I f_I i_E
+vùn 1.0 v_B u_I f_I n_E
+vùng 1.0 v_B u_I f_I n_I g_E
+vú 1.0 v_B u_I s_E
+vút 1.0 v_B u_I s_I t_E
+văn 1.0 v_B a_I w_I n_E
+văng 1.0 v_B a_I w_I n_I g_E
+vĩ 1.0 v_B i_I x_E
+vĩnh 1.0 v_B i_I x_I n_I h_E
+vũ 1.0 v_B u_I x_E
+vũng 1.0 v_B u_I x_I n_I g_E
+vơ 1.0 v_B o_I w_E
+vươn 1.0 v_B u_I w_I o_I w_I n_E
+vương 1.0 v_B u_I w_I o_I w_I n_I g_E
+vướng 1.0 v_B u_I w_I o_I w_I s_I n_I g_E
+vườn 1.0 v_B u_I w_I o_I w_I f_I n_E
+vưởng 1.0 v_B u_I w_I o_I w_I r_I n_I g_E
+vượng 1.0 v_B u_I w_I o_I w_I j_I n_I g_E
+vượt 1.0 v_B u_I w_I o_I w_I j_I t_E
+vạ 1.0 v_B a_I j_E
+vạc 1.0 v_B a_I j_I c_E
+vạch 1.0 v_B a_I j_I c_I h_E
+vại 1.0 v_B a_I j_I i_E
+vạm 1.0 v_B a_I j_I m_E
+vạn 1.0 v_B a_I j_I n_E
+vạt 1.0 v_B a_I j_I t_E
+vả 1.0 v_B a_I r_E
+vải 1.0 v_B a_I r_I i_E
+vảng 1.0 v_B a_I r_I n_I g_E
+vảy 1.0 v_B a_I r_I y_E
+vấn 1.0 v_B a_I a_I s_I n_E
+vấp 1.0 v_B a_I a_I s_I p_E
+vất 1.0 v_B a_I a_I s_I t_E
+vấu 1.0 v_B a_I a_I s_I u_E
+vấy 1.0 v_B a_I a_I s_I y_E
+vần 1.0 v_B a_I a_I f_I n_E
+vầng 1.0 v_B a_I a_I f_I n_I g_E
+vầy 1.0 v_B a_I a_I f_I y_E
+vẩn 1.0 v_B a_I a_I r_I n_E
+vẩy 1.0 v_B a_I a_I r_I y_E
+vẫn 1.0 v_B a_I a_I x_I n_E
+vẫy 1.0 v_B a_I a_I x_I y_E
+vận 1.0 v_B a_I a_I j_I n_E
+vật 1.0 v_B a_I a_I j_I t_E
+vậy 1.0 v_B a_I a_I j_I y_E
+vắc 1.0 v_B a_I w_I s_I c_E
+vắn 1.0 v_B a_I w_I s_I n_E
+vắng 1.0 v_B a_I w_I s_I n_I g_E
+vắt 1.0 v_B a_I w_I s_I t_E
+vằn 1.0 v_B a_I w_I f_I n_E
+vằng 1.0 v_B a_I w_I f_I n_I g_E
+vẳng 1.0 v_B a_I w_I r_I n_I g_E
+vặc 1.0 v_B a_I w_I j_I c_E
+vặn 1.0 v_B a_I w_I j_I n_E
+vặt 1.0 v_B a_I w_I j_I t_E
+vẹn 1.0 v_B e_I j_I n_E
+vẹo 1.0 v_B e_I j_I o_E
+vẹt 1.0 v_B e_I j_I t_E
+vẻ 1.0 v_B e_I r_E
+vẽ 1.0 v_B e_I x_E
+vế 1.0 v_B e_I e_I s_E
+vếch 1.0 v_B e_I e_I s_I c_I h_E
+vết 1.0 v_B e_I e_I s_I t_E
+về 1.0 v_B e_I e_I f_E
+vệ 1.0 v_B e_I e_I j_E
+vện 1.0 v_B e_I e_I j_I n_E
+vệt 1.0 v_B e_I e_I j_I t_E
+vỉ 1.0 v_B i_I r_E
+vỉa 1.0 v_B i_I r_I a_E
+vị 1.0 v_B i_I j_E
+vịm 1.0 v_B i_I j_I m_E
+vịn 1.0 v_B i_I j_I n_E
+vịnh 1.0 v_B i_I j_I n_I h_E
+vịt 1.0 v_B i_I j_I t_E
+vọng 1.0 v_B o_I j_I n_I g_E
+vọt 1.0 v_B o_I j_I t_E
+vỏ 1.0 v_B o_I r_E
+vỏn 1.0 v_B o_I r_I n_E
+vốn 1.0 v_B o_I o_I s_I n_E
+vồng 1.0 v_B o_I o_I f_I n_I g_E
+vỗ 1.0 v_B o_I o_I x_E
+vội 1.0 v_B o_I o_I j_I i_E
+vớ 1.0 v_B o_I w_I s_E
+với 1.0 v_B o_I w_I s_I i_E
+vớt 1.0 v_B o_I w_I s_I t_E
+vờ 1.0 v_B o_I w_I f_E
+vời 1.0 v_B o_I w_I f_I i_E
+vờn 1.0 v_B o_I w_I f_I n_E
+vở 1.0 v_B o_I w_I r_E
+vởn 1.0 v_B o_I w_I r_I n_E
+vỡ 1.0 v_B o_I w_I x_E
+vợ 1.0 v_B o_I w_I j_E
+vợi 1.0 v_B o_I w_I j_I i_E
+vợt 1.0 v_B o_I w_I j_I t_E
+vụ 1.0 v_B u_I j_E
+vụn 1.0 v_B u_I j_I n_E
+vụng 1.0 v_B u_I j_I n_I g_E
+vụt 1.0 v_B u_I j_I t_E
+vứt 1.0 v_B u_I w_I s_I t_E
+vừa 1.0 v_B u_I w_I f_I a_E
+vừng 1.0 v_B u_I w_I f_I n_I g_E
+vửng 1.0 v_B u_I w_I r_I n_I g_E
+vữa 1.0 v_B u_I w_I x_I a_E
+vững 1.0 v_B u_I w_I x_I n_I g_E
+vực 1.0 v_B u_I w_I j_I c_E
+x 1.0 x_S
+xa 1.0 x_B a_E
+xang 1.0 x_B a_I n_I g_E
+xanh 1.0 x_B a_I n_I h_E
+xao 1.0 x_B a_I o_E
+xay 1.0 x_B a_I y_E
+xe 1.0 x_B e_E
+xem 1.0 x_B e_I m_E
+xen 1.0 x_B e_I n_E
+xeo 1.0 x_B e_I o_E
+xi 1.0 x_B i_E
+xia 1.0 x_B i_I a_E
+xin 1.0 x_B i_I n_E
+xinh 1.0 x_B i_I n_I h_E
+xiêm 1.0 x_B i_I e_I e_I m_E
+xiêu 1.0 x_B i_I e_I e_I u_E
+xiếc 1.0 x_B i_I e_I e_I s_I c_E
+xiết 1.0 x_B i_I e_I e_I s_I t_E
+xiềng 1.0 x_B i_I e_I e_I f_I n_I g_E
+xoa 1.0 x_B o_I a_E
+xoan 1.0 x_B o_I a_I n_E
+xoang 1.0 x_B o_I a_I n_I g_E
+xoay 1.0 x_B o_I a_I y_E
+xoe 1.0 x_B o_I e_E
+xoen 1.0 x_B o_I e_I n_E
+xoi 1.0 x_B o_I i_E
+xom 1.0 x_B o_I m_E
+xon 1.0 x_B o_I n_E
+xong 1.0 x_B o_I n_I g_E
+xoài 1.0 x_B o_I a_I f_I i_E
+xoàn 1.0 x_B o_I a_I f_I n_E
+xoàng 1.0 x_B o_I a_I f_I n_I g_E
+xoá 1.0 x_B o_I a_I s_E
+xoáy 1.0 x_B o_I a_I s_I y_E
+xoè 1.0 x_B o_I e_I f_E
+xoèn 1.0 x_B o_I e_I f_I n_E
+xoét 1.0 x_B o_I e_I s_I t_E
+xoăn 1.0 x_B o_I a_I w_I n_E
+xoạc 1.0 x_B o_I a_I j_I c_E
+xoảng 1.0 x_B o_I a_I r_I n_I g_E
+xoắn 1.0 x_B o_I a_I w_I s_I n_E
+xoẹt 1.0 x_B o_I e_I j_I t_E
+xu 1.0 x_B u_E
+xua 1.0 x_B u_I a_E
+xui 1.0 x_B u_I i_E
+xum 1.0 x_B u_I m_E
+xung 1.0 x_B u_I n_I g_E
+xuyên 1.0 x_B u_I y_I e_I e_I n_E
+xuyến 1.0 x_B u_I y_I e_I e_I s_I n_E
+xuân 1.0 x_B u_I a_I a_I n_E
+xuê 1.0 x_B u_I e_I e_E
+xuôi 1.0 x_B u_I o_I o_I i_E
+xuất 1.0 x_B u_I a_I a_I s_I t_E
+xuẩn 1.0 x_B u_I a_I a_I r_I n_E
+xuể 1.0 x_B u_I e_I e_I r_E
+xuống 1.0 x_B u_I o_I o_I s_I n_I g_E
+xuồng 1.0 x_B u_I o_I o_I f_I n_I g_E
+xy 1.0 x_B y_E
+xà 1.0 x_B a_I f_E
+xài 1.0 x_B a_I f_I i_E
+xàm 1.0 x_B a_I f_I m_E
+xàng 1.0 x_B a_I f_I n_I g_E
+xào 1.0 x_B a_I f_I o_E
+xá 1.0 x_B a_I s_E
+xác 1.0 x_B a_I s_I c_E
+xách 1.0 x_B a_I s_I c_I h_E
+xám 1.0 x_B a_I s_I m_E
+xán 1.0 x_B a_I s_I n_E
+xáo 1.0 x_B a_I s_I o_E
+xát 1.0 x_B a_I s_I t_E
+xâm 1.0 x_B a_I a_I m_E
+xâu 1.0 x_B a_I a_I u_E
+xây 1.0 x_B a_I a_I y_E
+xã 1.0 x_B a_I x_E
+xè 1.0 x_B e_I f_E
+xèng 1.0 x_B e_I f_I n_I g_E
+xèo 1.0 x_B e_I f_I o_E
+xé 1.0 x_B e_I s_E
+xét 1.0 x_B e_I s_I t_E
+xê 1.0 x_B e_I e_E
+xênh 1.0 x_B e_I e_I n_I h_E
+xì 1.0 x_B i_I f_E
+xình 1.0 x_B i_I f_I n_I h_E
+xìu 1.0 x_B i_I f_I u_E
+xí 1.0 x_B i_I s_E
+xích 1.0 x_B i_I s_I c_I h_E
+xính 1.0 x_B i_I s_I n_I h_E
+xít 1.0 x_B i_I s_I t_E
+xíu 1.0 x_B i_I s_I u_E
+xòa 1.0 x_B o_I f_I a_E
+xòng 1.0 x_B o_I f_I n_I g_E
+xó 1.0 x_B o_I s_E
+xóa 1.0 x_B o_I s_I a_E
+xóc 1.0 x_B o_I s_I c_E
+xóm 1.0 x_B o_I s_I m_E
+xót 1.0 x_B o_I s_I t_E
+xô 1.0 x_B o_I o_E
+xôi 1.0 x_B o_I o_I i_E
+xôm 1.0 x_B o_I o_I m_E
+xôn 1.0 x_B o_I o_I n_E
+xông 1.0 x_B o_I o_I n_I g_E
+xõa 1.0 x_B o_I x_I a_E
+xù 1.0 x_B u_I f_E
+xùm 1.0 x_B u_I f_I m_E
+xúc 1.0 x_B u_I s_I c_E
+xúm 1.0 x_B u_I s_I m_E
+xúng 1.0 x_B u_I s_I n_I g_E
+xăm 1.0 x_B a_I w_I m_E
+xăng 1.0 x_B a_I w_I n_I g_E
+xơ 1.0 x_B o_I w_E
+xơi 1.0 x_B o_I w_I i_E
+xưa 1.0 x_B u_I w_I a_E
+xưng 1.0 x_B u_I w_I n_I g_E
+xương 1.0 x_B u_I w_I o_I w_I n_I g_E
+xướng 1.0 x_B u_I w_I o_I w_I s_I n_I g_E
+xưởng 1.0 x_B u_I w_I o_I w_I r_I n_I g_E
+xạ 1.0 x_B a_I j_E
+xạc 1.0 x_B a_I j_I c_E
+xạch 1.0 x_B a_I j_I c_I h_E
+xạo 1.0 x_B a_I j_I o_E
+xạp 1.0 x_B a_I j_I p_E
+xả 1.0 x_B a_I r_E
+xảm 1.0 x_B a_I r_I m_E
+xảo 1.0 x_B a_I r_I o_E
+xảy 1.0 x_B a_I r_I y_E
+xấu 1.0 x_B a_I a_I s_I u_E
+xẩm 1.0 x_B a_I a_I r_I m_E
+xẩy 1.0 x_B a_I a_I r_I y_E
+xắc 1.0 x_B a_I w_I s_I c_E
+xắn 1.0 x_B a_I w_I s_I n_E
+xắp 1.0 x_B a_I w_I s_I p_E
+xắt 1.0 x_B a_I w_I s_I t_E
+xẵng 1.0 x_B a_I w_I x_I n_I g_E
+xẹo 1.0 x_B e_I j_I o_E
+xẹp 1.0 x_B e_I j_I p_E
+xẻ 1.0 x_B e_I r_E
+xẻng 1.0 x_B e_I r_I n_I g_E
+xế 1.0 x_B e_I e_I s_E
+xếch 1.0 x_B e_I e_I s_I c_I h_E
+xếp 1.0 x_B e_I e_I s_I p_E
+xềnh 1.0 x_B e_I e_I f_I n_I h_E
+xể 1.0 x_B e_I e_I r_E
+xệch 1.0 x_B e_I e_I j_I c_I h_E
+xỉ 1.0 x_B i_I r_E
+xỉa 1.0 x_B i_I r_I a_E
+xỉn 1.0 x_B i_I r_I n_E
+xỉnh 1.0 x_B i_I r_I n_I h_E
+xỉu 1.0 x_B i_I r_I u_E
+xị 1.0 x_B i_I j_E
+xịch 1.0 x_B i_I j_I c_I h_E
+xịt 1.0 x_B i_I j_I t_E
+xọc 1.0 x_B o_I j_I c_E
+xọp 1.0 x_B o_I j_I p_E
+xỏ 1.0 x_B o_I r_E
+xốc 1.0 x_B o_I o_I s_I c_E
+xối 1.0 x_B o_I o_I s_I i_E
+xốn 1.0 x_B o_I o_I s_I n_E
+xống 1.0 x_B o_I o_I s_I n_I g_E
+xốp 1.0 x_B o_I o_I s_I p_E
+xồng 1.0 x_B o_I o_I f_I n_I g_E
+xổ 1.0 x_B o_I o_I r_E
+xổi 1.0 x_B o_I o_I r_I i_E
+xổm 1.0 x_B o_I o_I r_I m_E
+xổng 1.0 x_B o_I o_I r_I n_I g_E
+xộc 1.0 x_B o_I o_I j_I c_E
+xộn 1.0 x_B o_I o_I j_I n_E
+xới 1.0 x_B o_I w_I s_I i_E
+xớt 1.0 x_B o_I w_I s_I t_E
+xở 1.0 x_B o_I w_I r_E
+xởi 1.0 x_B o_I w_I r_I i_E
+xợt 1.0 x_B o_I w_I j_I t_E
+xụ 1.0 x_B u_I j_E
+xục 1.0 x_B u_I j_I c_E
+xụi 1.0 x_B u_I j_I i_E
+xụp 1.0 x_B u_I j_I p_E
+xứ 1.0 x_B u_I w_I s_E
+xứng 1.0 x_B u_I w_I s_I n_I g_E
+xử 1.0 x_B u_I w_I r_E
+xửa 1.0 x_B u_I w_I r_I a_E
+xửng 1.0 x_B u_I w_I r_I n_I g_E
+y 1.0 y_S
+yên 1.0 y_B e_I e_I n_E
+yêng 1.0 y_B e_I e_I n_I g_E
+yêu 1.0 y_B e_I e_I u_E
+yếm 1.0 y_B e_I e_I s_I m_E
+yến 1.0 y_B e_I e_I s_I n_E
+yếu 1.0 y_B e_I e_I s_I u_E
+yểm 1.0 y_B e_I e_I r_I m_E
+à 1.0 a_B f_E
+ào 1.0 a_B f_I o_E
+á 1.0 a_B s_E
+ác 1.0 a_B s_I c_E
+ách 1.0 a_B s_I c_I h_E
+ái 1.0 a_B s_I i_E
+ám 1.0 a_B s_I m_E
+án 1.0 a_B s_I n_E
+áng 1.0 a_B s_I n_I g_E
+ánh 1.0 a_B s_I n_I h_E
+áo 1.0 a_B s_I o_E
+áp 1.0 a_B s_I p_E
+át 1.0 a_B s_I t_E
+áy 1.0 a_B s_I y_E
+âm 1.0 a_B a_I m_E
+ân 1.0 a_B a_I n_E
+âu 1.0 a_B a_I u_E
+ây 1.0 a_B a_I y_E
+ã 1.0 a_B x_E
+è 1.0 e_B f_E
+èo 1.0 e_B f_I o_E
+é 1.0 e_B s_E
+én 1.0 e_B s_I n_E
+éo 1.0 e_B s_I o_E
+ép 1.0 e_B s_I p_E
+ê 1.0 e_B e_E
+êm 1.0 e_B e_I m_E
+ì 1.0 i_B f_E
+í 1.0 i_B s_E
+ích 1.0 i_B s_I c_I h_E
+ít 1.0 i_B s_I t_E
+òa 1.0 o_B f_I a_E
+òng 1.0 o_B f_I n_I g_E
+óc 1.0 o_B s_I c_E
+óe 1.0 o_B s_I e_E
+ói 1.0 o_B s_I i_E
+óng 1.0 o_B s_I n_I g_E
+ô 1.0 o_B o_E
+ôi 1.0 o_B o_I i_E
+ôm 1.0 o_B o_I m_E
+ôn 1.0 o_B o_I n_E
+ông 1.0 o_B o_I n_I g_E
+ù 1.0 u_B f_E
+ùa 1.0 u_B f_I a_E
+ùn 1.0 u_B f_I n_E
+ú 1.0 u_B s_E
+úa 1.0 u_B s_I a_E
+úm 1.0 u_B s_I m_E
+úng 1.0 u_B s_I n_I g_E
+úp 1.0 u_B s_I p_E
+út 1.0 u_B s_I t_E
+úy 1.0 u_B s_I y_E
+ý 1.0 y_B s_E
+ăm 1.0 a_B w_I m_E
+ăn 1.0 a_B w_I n_E
+đa 1.0 d_B d_I a_E
+đai 1.0 d_B d_I a_I i_E
+đam 1.0 d_B d_I a_I m_E
+đan 1.0 d_B d_I a_I n_E
+đang 1.0 d_B d_I a_I n_I g_E
+đanh 1.0 d_B d_I a_I n_I h_E
+đao 1.0 d_B d_I a_I o_E
+đau 1.0 d_B d_I a_I u_E
+đay 1.0 d_B d_I a_I y_E
+đe 1.0 d_B d_I e_E
+đem 1.0 d_B d_I e_I m_E
+đen 1.0 d_B d_I e_I n_E
+đeo 1.0 d_B d_I e_I o_E
+đi 1.0 d_B d_I i_E
+đia 1.0 d_B d_I i_I a_E
+đinh 1.0 d_B d_I i_I n_I h_E
+điên 1.0 d_B d_I i_I e_I e_I n_E
+điêu 1.0 d_B d_I i_I e_I e_I u_E
+điếc 1.0 d_B d_I i_I e_I e_I s_I c_E
+điếm 1.0 d_B d_I i_I e_I e_I s_I m_E
+điếu 1.0 d_B d_I i_I e_I e_I s_I u_E
+điềm 1.0 d_B d_I i_I e_I e_I f_I m_E
+điền 1.0 d_B d_I i_I e_I e_I f_I n_E
+điều 1.0 d_B d_I i_I e_I e_I f_I u_E
+điểm 1.0 d_B d_I i_I e_I e_I r_I m_E
+điển 1.0 d_B d_I i_I e_I e_I r_I n_E
+điểu 1.0 d_B d_I i_I e_I e_I r_I u_E
+điệm 1.0 d_B d_I i_I e_I e_I j_I m_E
+điện 1.0 d_B d_I i_I e_I e_I j_I n_E
+điệp 1.0 d_B d_I i_I e_I e_I j_I p_E
+điệu 1.0 d_B d_I i_I e_I e_I j_I u_E
+đo 1.0 d_B d_I o_E
+đoan 1.0 d_B d_I o_I a_I n_E
+đom 1.0 d_B d_I o_I m_E
+đong 1.0 d_B d_I o_I n_I g_E
+đoài 1.0 d_B d_I o_I a_I f_I i_E
+đoàn 1.0 d_B d_I o_I a_I f_I n_E
+đoàng 1.0 d_B d_I o_I a_I f_I n_I g_E
+đoán 1.0 d_B d_I o_I a_I s_I n_E
+đoạn 1.0 d_B d_I o_I a_I j_I n_E
+đoạt 1.0 d_B d_I o_I a_I j_I t_E
+đoảng 1.0 d_B d_I o_I a_I r_I n_I g_E
+đu 1.0 d_B d_I u_E
+đua 1.0 d_B d_I u_I a_E
+đui 1.0 d_B d_I u_I i_E
+đun 1.0 d_B d_I u_I n_E
+đung 1.0 d_B d_I u_I n_I g_E
+đuôi 1.0 d_B d_I u_I o_I o_I i_E
+đuốc 1.0 d_B d_I u_I o_I o_I s_I c_E
+đuối 1.0 d_B d_I u_I o_I o_I s_I i_E
+đuổi 1.0 d_B d_I u_I o_I o_I r_I i_E
+đuột 1.0 d_B d_I u_I o_I o_I j_I t_E
+đà 1.0 d_B d_I a_I f_E
+đài 1.0 d_B d_I a_I f_I i_E
+đàm 1.0 d_B d_I a_I f_I m_E
+đàn 1.0 d_B d_I a_I f_I n_E
+đàng 1.0 d_B d_I a_I f_I n_I g_E
+đành 1.0 d_B d_I a_I f_I n_I h_E
+đào 1.0 d_B d_I a_I f_I o_E
+đá 1.0 d_B d_I a_I s_E
+đác 1.0 d_B d_I a_I s_I c_E
+đái 1.0 d_B d_I a_I s_I i_E
+đám 1.0 d_B d_I a_I s_I m_E
+đáng 1.0 d_B d_I a_I s_I n_I g_E
+đánh 1.0 d_B d_I a_I s_I n_I h_E
+đáo 1.0 d_B d_I a_I s_I o_E
+đáp 1.0 d_B d_I a_I s_I p_E
+đáy 1.0 d_B d_I a_I s_I y_E
+đâm 1.0 d_B d_I a_I a_I m_E
+đâu 1.0 d_B d_I a_I a_I u_E
+đây 1.0 d_B d_I a_I a_I y_E
+đã 1.0 d_B d_I a_I x_E
+đãi 1.0 d_B d_I a_I x_I i_E
+đãng 1.0 d_B d_I a_I x_I n_I g_E
+đè 1.0 d_B d_I e_I f_E
+đèn 1.0 d_B d_I e_I f_I n_E
+đèo 1.0 d_B d_I e_I f_I o_E
+đéc 1.0 d_B d_I e_I s_I c_E
+đéo 1.0 d_B d_I e_I s_I o_E
+đê 1.0 d_B d_I e_I e_E
+đêm 1.0 d_B d_I e_I e_I m_E
+đênh 1.0 d_B d_I e_I e_I n_I h_E
+đêu 1.0 d_B d_I e_I e_I u_E
+đìa 1.0 d_B d_I i_I f_I a_E
+đình 1.0 d_B d_I i_I f_I n_I h_E
+đìu 1.0 d_B d_I i_I f_I u_E
+đích 1.0 d_B d_I i_I s_I c_I h_E
+đính 1.0 d_B d_I i_I s_I n_I h_E
+đít 1.0 d_B d_I i_I s_I t_E
+đò 1.0 d_B d_I o_I f_E
+đòi 1.0 d_B d_I o_I f_I i_E
+đòm 1.0 d_B d_I o_I f_I m_E
+đòn 1.0 d_B d_I o_I f_I n_E
+đòng 1.0 d_B d_I o_I f_I n_I g_E
+đó 1.0 d_B d_I o_I s_E
+đóa 1.0 d_B d_I o_I s_I a_E
+đói 1.0 d_B d_I o_I s_I i_E
+đóm 1.0 d_B d_I o_I s_I m_E
+đón 1.0 d_B d_I o_I s_I n_E
+đóng 1.0 d_B d_I o_I s_I n_I g_E
+đô 1.0 d_B d_I o_I o_E
+đôi 1.0 d_B d_I o_I o_I i_E
+đôn 1.0 d_B d_I o_I o_I n_E
+đông 1.0 d_B d_I o_I o_I n_I g_E
+đùa 1.0 d_B d_I u_I f_I a_E
+đùi 1.0 d_B d_I u_I f_I i_E
+đùm 1.0 d_B d_I u_I f_I m_E
+đùng 1.0 d_B d_I u_I f_I n_I g_E
+đú 1.0 d_B d_I u_I s_E
+đúc 1.0 d_B d_I u_I s_I c_E
+đúm 1.0 d_B d_I u_I s_I m_E
+đúng 1.0 d_B d_I u_I s_I n_I g_E
+đúp 1.0 d_B d_I u_I s_I p_E
+đút 1.0 d_B d_I u_I s_I t_E
+đăng 1.0 d_B d_I a_I w_I n_I g_E
+đĩ 1.0 d_B d_I i_I x_E
+đĩa 1.0 d_B d_I i_I x_I a_E
+đũa 1.0 d_B d_I u_I x_I a_E
+đũng 1.0 d_B d_I u_I x_I n_I g_E
+đơ 1.0 d_B d_I o_I w_E
+đơm 1.0 d_B d_I o_I w_I m_E
+đơn 1.0 d_B d_I o_I w_I n_E
+đưa 1.0 d_B d_I u_I w_I a_E
+đương 1.0 d_B d_I u_I w_I o_I w_I n_I g_E
+đước 1.0 d_B d_I u_I w_I o_I w_I s_I c_E
+đường 1.0 d_B d_I u_I w_I o_I w_I f_I n_I g_E
+được 1.0 d_B d_I u_I w_I o_I w_I j_I c_E
+đạc 1.0 d_B d_I a_I j_I c_E
+đạch 1.0 d_B d_I a_I j_I c_I h_E
+đại 1.0 d_B d_I a_I j_I i_E
+đạm 1.0 d_B d_I a_I j_I m_E
+đạn 1.0 d_B d_I a_I j_I n_E
+đạo 1.0 d_B d_I a_I j_I o_E
+đạp 1.0 d_B d_I a_I j_I p_E
+đạt 1.0 d_B d_I a_I j_I t_E
+đả 1.0 d_B d_I a_I r_E
+đảm 1.0 d_B d_I a_I r_I m_E
+đản 1.0 d_B d_I a_I r_I n_E
+đảng 1.0 d_B d_I a_I r_I n_I g_E
+đảo 1.0 d_B d_I a_I r_I o_E
+đấm 1.0 d_B d_I a_I a_I s_I m_E
+đất 1.0 d_B d_I a_I a_I s_I t_E
+đấu 1.0 d_B d_I a_I a_I s_I u_E
+đấy 1.0 d_B d_I a_I a_I s_I y_E
+đầm 1.0 d_B d_I a_I a_I f_I m_E
+đầu 1.0 d_B d_I a_I a_I f_I u_E
+đầy 1.0 d_B d_I a_I a_I f_I y_E
+đẩu 1.0 d_B d_I a_I a_I r_I u_E
+đẩy 1.0 d_B d_I a_I a_I r_I y_E
+đẫm 1.0 d_B d_I a_I a_I x_I m_E
+đẫy 1.0 d_B d_I a_I a_I x_I y_E
+đậm 1.0 d_B d_I a_I a_I j_I m_E
+đận 1.0 d_B d_I a_I a_I j_I n_E
+đập 1.0 d_B d_I a_I a_I j_I p_E
+đật 1.0 d_B d_I a_I a_I j_I t_E
+đậu 1.0 d_B d_I a_I a_I j_I u_E
+đậy 1.0 d_B d_I a_I a_I j_I y_E
+đắc 1.0 d_B d_I a_I w_I s_I c_E
+đắm 1.0 d_B d_I a_I w_I s_I m_E
+đắn 1.0 d_B d_I a_I w_I s_I n_E
+đắng 1.0 d_B d_I a_I w_I s_I n_I g_E
+đắp 1.0 d_B d_I a_I w_I s_I p_E
+đắt 1.0 d_B d_I a_I w_I s_I t_E
+đằm 1.0 d_B d_I a_I w_I f_I m_E
+đằng 1.0 d_B d_I a_I w_I f_I n_I g_E
+đẳng 1.0 d_B d_I a_I w_I r_I n_I g_E
+đặc 1.0 d_B d_I a_I w_I j_I c_E
+đặn 1.0 d_B d_I a_I w_I j_I n_E
+đặng 1.0 d_B d_I a_I w_I j_I n_I g_E
+đặt 1.0 d_B d_I a_I w_I j_I t_E
+đẹp 1.0 d_B d_I e_I j_I p_E
+đẻ 1.0 d_B d_I e_I r_E
+đẽ 1.0 d_B d_I e_I x_E
+đẽo 1.0 d_B d_I e_I x_I o_E
+đế 1.0 d_B d_I e_I e_I s_E
+đếm 1.0 d_B d_I e_I e_I s_I m_E
+đến 1.0 d_B d_I e_I e_I s_I n_E
+đề 1.0 d_B d_I e_I e_I f_E
+đềm 1.0 d_B d_I e_I e_I f_I m_E
+đền 1.0 d_B d_I e_I e_I f_I n_E
+đềnh 1.0 d_B d_I e_I e_I f_I n_I h_E
+đều 1.0 d_B d_I e_I e_I f_I u_E
+để 1.0 d_B d_I e_I e_I r_E
+đểnh 1.0 d_B d_I e_I e_I r_I n_I h_E
+đểu 1.0 d_B d_I e_I e_I r_I u_E
+đễnh 1.0 d_B d_I e_I e_I x_I n_I h_E
+đệ 1.0 d_B d_I e_I e_I j_E
+đệm 1.0 d_B d_I e_I e_I j_I m_E
+đỉnh 1.0 d_B d_I i_I r_I n_I h_E
+địa 1.0 d_B d_I i_I j_I a_E
+địch 1.0 d_B d_I i_I j_I c_I h_E
+định 1.0 d_B d_I i_I j_I n_I h_E
+địu 1.0 d_B d_I i_I j_I u_E
+đọ 1.0 d_B d_I o_I j_E
+đọc 1.0 d_B d_I o_I j_I c_E
+đọng 1.0 d_B d_I o_I j_I n_I g_E
+đỏ 1.0 d_B d_I o_I r_E
+đố 1.0 d_B d_I o_I o_I s_E
+đốc 1.0 d_B d_I o_I o_I s_I c_E
+đối 1.0 d_B d_I o_I o_I s_I i_E
+đốm 1.0 d_B d_I o_I o_I s_I m_E
+đốn 1.0 d_B d_I o_I o_I s_I n_E
+đống 1.0 d_B d_I o_I o_I s_I n_I g_E
+đốt 1.0 d_B d_I o_I o_I s_I t_E
+đồ 1.0 d_B d_I o_I o_I f_E
+đồi 1.0 d_B d_I o_I o_I f_I i_E
+đồn 1.0 d_B d_I o_I o_I f_I n_E
+đồng 1.0 d_B d_I o_I o_I f_I n_I g_E
+đổ 1.0 d_B d_I o_I o_I r_E
+đổi 1.0 d_B d_I o_I o_I r_I i_E
+đổng 1.0 d_B d_I o_I o_I r_I n_I g_E
+đỗ 1.0 d_B d_I o_I o_I x_E
+đỗi 1.0 d_B d_I o_I o_I x_I i_E
+độ 1.0 d_B d_I o_I o_I j_E
+độc 1.0 d_B d_I o_I o_I j_I c_E
+đội 1.0 d_B d_I o_I o_I j_I i_E
+độn 1.0 d_B d_I o_I o_I j_I n_E
+động 1.0 d_B d_I o_I o_I j_I n_I g_E
+độp 1.0 d_B d_I o_I o_I j_I p_E
+đột 1.0 d_B d_I o_I o_I j_I t_E
+đới 1.0 d_B d_I o_I w_I s_I i_E
+đớn 1.0 d_B d_I o_I w_I s_I n_E
+đờ 1.0 d_B d_I o_I w_I f_E
+đời 1.0 d_B d_I o_I w_I f_I i_E
+đờm 1.0 d_B d_I o_I w_I f_I m_E
+đờn 1.0 d_B d_I o_I w_I f_I n_E
+đỡ 1.0 d_B d_I o_I w_I x_E
+đợi 1.0 d_B d_I o_I w_I j_I i_E
+đợp 1.0 d_B d_I o_I w_I j_I p_E
+đợt 1.0 d_B d_I o_I w_I j_I t_E
+đục 1.0 d_B d_I u_I j_I c_E
+đụn 1.0 d_B d_I u_I j_I n_E
+đụng 1.0 d_B d_I u_I j_I n_I g_E
+đủ 1.0 d_B d_I u_I r_E
+đứa 1.0 d_B d_I u_I w_I s_I a_E
+đức 1.0 d_B d_I u_I w_I s_I c_E
+đứng 1.0 d_B d_I u_I w_I s_I n_I g_E
+đứt 1.0 d_B d_I u_I w_I s_I t_E
+đừng 1.0 d_B d_I u_I w_I f_I n_I g_E
+đựng 1.0 d_B d_I u_I w_I j_I n_I g_E
+ĩ 1.0 i_B x_E
+ơ 1.0 o_B w_E
+ơi 1.0 o_B w_I i_E
+ơn 1.0 o_B w_I n_E
+ư 1.0 u_B w_E
+ưa 1.0 u_B w_I a_E
+ưng 1.0 u_B w_I n_I g_E
+ưu 1.0 u_B w_I u_E
+ươm 1.0 u_B w_I o_I w_I m_E
+ương 1.0 u_B w_I o_I w_I n_I g_E
+ước 1.0 u_B w_I o_I w_I s_I c_E
+ướp 1.0 u_B w_I o_I w_I s_I p_E
+ướt 1.0 u_B w_I o_I w_I s_I t_E
+ạ 1.0 a_B j_E
+ạch 1.0 a_B j_I c_I h_E
+ạt 1.0 a_B j_I t_E
+ả 1.0 a_B r_E
+ảm 1.0 a_B r_I m_E
+ảnh 1.0 a_B r_I n_I h_E
+ảo 1.0 a_B r_I o_E
+ấm 1.0 a_B a_I s_I m_E
+ấn 1.0 a_B a_I s_I n_E
+ấp 1.0 a_B a_I s_I p_E
+ấu 1.0 a_B a_I s_I u_E
+ấy 1.0 a_B a_I s_I y_E
+ầm 1.0 a_B a_I f_I m_E
+ầu 1.0 a_B a_I f_I u_E
+ẩm 1.0 a_B a_I r_I m_E
+ẩn 1.0 a_B a_I r_I n_E
+ẩu 1.0 a_B a_I r_I u_E
+ậm 1.0 a_B a_I j_I m_E
+ập 1.0 a_B a_I j_I p_E
+ắp 1.0 a_B w_I s_I p_E
+ắt 1.0 a_B w_I s_I t_E
+ằng 1.0 a_B w_I f_I n_I g_E
+ẵm 1.0 a_B w_I x_I m_E
+ặc 1.0 a_B w_I j_I c_E
+ẻn 1.0 e_B r_I n_E
+ế 1.0 e_B e_I s_E
+ếch 1.0 e_B e_I s_I c_I h_E
+ềnh 1.0 e_B e_I f_I n_I h_E
+ệch 1.0 e_B e_I j_I c_I h_E
+ện 1.0 e_B e_I j_I n_E
+ỉa 1.0 i_B r_I a_E
+ỉm 1.0 i_B r_I m_E
+ỉn 1.0 i_B r_I n_E
+ỉu 1.0 i_B r_I u_E
+ịch 1.0 i_B j_I c_I h_E
+ọc 1.0 o_B j_I c_E
+ọe 1.0 o_B j_I e_E
+ỏi 1.0 o_B r_I i_E
+ỏn 1.0 o_B r_I n_E
+ỏng 1.0 o_B r_I n_I g_E
+ố 1.0 o_B o_I s_E
+ốc 1.0 o_B o_I s_I c_E
+ốm 1.0 o_B o_I s_I m_E
+ống 1.0 o_B o_I s_I n_I g_E
+ốp 1.0 o_B o_I s_I p_E
+ồ 1.0 o_B o_I f_E
+ồn 1.0 o_B o_I f_I n_E
+ồng 1.0 o_B o_I f_I n_I g_E
+ổ 1.0 o_B o_I r_E
+ổi 1.0 o_B o_I r_I i_E
+ổn 1.0 o_B o_I r_I n_E
+ổng 1.0 o_B o_I r_I n_I g_E
+ộc 1.0 o_B o_I j_I c_E
+ộn 1.0 o_B o_I j_I n_E
+ộp 1.0 o_B o_I j_I p_E
+ớ 1.0 o_B w_I s_E
+ới 1.0 o_B w_I s_I i_E
+ớn 1.0 o_B w_I s_I n_E
+ớt 1.0 o_B w_I s_I t_E
+ờ 1.0 o_B w_I f_E
+ở 1.0 o_B w_I r_E
+ợ 1.0 o_B w_I j_E
+ụ 1.0 u_B j_E
+ục 1.0 u_B j_I c_E
+ủ 1.0 u_B r_E
+ủa 1.0 u_B r_I a_E
+ủi 1.0 u_B r_I i_E
+ủn 1.0 u_B r_I n_E
+ủng 1.0 u_B r_I n_I g_E
+ủy 1.0 u_B r_I y_E
+ứ 1.0 u_B w_I s_E
+ứa 1.0 u_B w_I s_I a_E
+ức 1.0 u_B w_I s_I c_E
+ứng 1.0 u_B w_I s_I n_I g_E
+ừ 1.0 u_B w_I f_E
+ửng 1.0 u_B w_I r_I n_I g_E
+ỷ 1.0 y_B r_E

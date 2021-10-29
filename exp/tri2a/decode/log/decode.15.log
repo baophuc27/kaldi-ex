@@ -1,0 +1,92 @@
+# gmm-latgen-faster --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/tri2a/graph/words.txt exp/tri2a/final.mdl exp/tri2a/graph/HCLG.fst "ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split16/15/utt2spk scp:data/test/split16/15/cmvn.scp scp:data/test/split16/15/feats.scp ark:- | add-deltas  ark:- ark:- |" "ark:|gzip -c > exp/tri2a/decode/lat.15.gz" 
+# Started at Fri Oct 29 08:11:29 +07 2021
+#
+gmm-latgen-faster --max-active=7000 --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.083333 --allow-partial=true --word-symbol-table=exp/tri2a/graph/words.txt exp/tri2a/final.mdl exp/tri2a/graph/HCLG.fst 'ark,s,cs:apply-cmvn  --utt2spk=ark:data/test/split16/15/utt2spk scp:data/test/split16/15/cmvn.scp scp:data/test/split16/15/feats.scp ark:- | add-deltas  ark:- ark:- |' 'ark:|gzip -c > exp/tri2a/decode/lat.15.gz' 
+apply-cmvn --utt2spk=ark:data/test/split16/15/utt2spk scp:data/test/split16/15/cmvn.scp scp:data/test/split16/15/feats.scp ark:- 
+add-deltas ark:- ark:- 
+VIVOSDEV18-006 không nên chỉ dựa vào bài viết của bạn việc kết nên thêm 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-006 is -8.67065 over 323 frames.
+VIVOSDEV18-012 và đã chục con người trở thành kiến chị như 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-012 is -8.94669 over 257 frames.
+VIVOSDEV18-017 nhìn hoạt động này chỉ có giá trị trong những này bình thường 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-017 is -8.9161 over 279 frames.
+VIVOSDEV18-021 vấn đề đặt ra đây là làm thế nào để 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-021 is -8.48484 over 254 frames.
+VIVOSDEV18-051 nhưng những khắc định thay các phòng khi lên đến đời 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-051 is -8.78752 over 285 frames.
+VIVOSDEV18-056 sẽ mặt ai cũng cọ khăn tay khẩu trang che miệng 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-056 is -8.75959 over 298 frames.
+VIVOSDEV18-060 cả ngày nên càng nhiều việc công việc đánh giá 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-060 is -8.69673 over 232 frames.
+VIVOSDEV18-064 tất nhiên hoa đến tiếng nước cũng kèm theo luôn khoản tiền 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-064 is -8.85971 over 289 frames.
+VIVOSDEV18-065 bạn đọc có thật nhiều thời gian thư giãn thoải mà 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-065 is -8.85774 over 232 frames.
+VIVOSDEV18-082 thang trên mày đen và sát không lẫn vào đâu được 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-082 is -8.97389 over 260 frames.
+VIVOSDEV18-102 ngày trời không nắng gió lạnh nên thưa vắng chu khác 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-102 is -8.74371 over 276 frames.
+VIVOSDEV18-114 để khác của công việc ấy là một nỗ lực rất lớn 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-114 is -9.02313 over 301 frames.
+VIVOSDEV18-118 vợ anh xin thưa bà ngày thường thì bà cho gì cũng được 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-118 is -8.5715 over 360 frames.
+VIVOSDEV18-120 bạn không bao giờ ra ngoài mà không dùng kem lót 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-120 is -8.92641 over 242 frames.
+VIVOSDEV18-126 đây là chuyện làm tranh tượng không lời như thế hạnh sẽ nhận ra 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-126 is -8.67582 over 442 frames.
+VIVOSDEV18-155 người đàn ông trên giường thình lình rên lên vụ kiện rồi mở mắt 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-155 is -8.84896 over 392 frames.
+VIVOSDEV18-171 từ có người ta đến bắt tôi giữa đêm không khuya khoắt 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-171 is -8.59022 over 348 frames.
+VIVOSDEV18-183 họ thằng thằng quyết nó bắt con gà sống nâu mà thịt 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-183 is -9.06483 over 292 frames.
+VIVOSDEV18-191 kỹ bác sĩ hiền lành ấy có những vị thích trồng cây thích thú vị 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-191 is -8.73186 over 398 frames.
+VIVOSDEV18-192 kiểu vết thương mà trẻ cần mang theo có thể là gì 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-192 is -8.57836 over 317 frames.
+VIVOSDEV18-194 xin về mẹ cho đi cai tập trung sau một năm bạn trở về nhà 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-194 is -8.70046 over 345 frames.
+VIVOSDEV18-195 chỉ là một tấm âm bản sau đó mời định trong bản 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-195 is -8.79444 over 273 frames.
+VIVOSDEV18-198 hay nay chúng tôi đã tịch thu được hàng như gà chết 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-198 is -8.75957 over 279 frames.
+VIVOSDEV18-199 nhưng không ai mua sách chỉ bên cạnh một người như vậy 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-199 is -8.87034 over 289 frames.
+VIVOSDEV18-211 hình ảnh phần tạo được mất điện tử đức công ty 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-211 is -8.33392 over 407 frames.
+VIVOSDEV18-214 kiểu hài dung tục vẫn cứ lềnh khênh ở một số tụ điểm 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-214 is -8.69818 over 373 frames.
+VIVOSDEV18-240 mời tham dự cuộc thi các ngành một giờ không điện 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-240 is -8.60224 over 348 frames.
+VIVOSDEV18-250 linh được tiến một nhân viên người việt thách thức việc tác nghiệp của tôi 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-250 is -8.49997 over 451 frames.
+VIVOSDEV18-252 lúc đó chị tưởng làm như vậy cũng là má vui 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-252 is -8.41306 over 314 frames.
+VIVOSDEV18-257 ngồi nghe tiếng biển và thư thả đếm từng giọt đen rơi 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-257 is -8.6584 over 348 frames.
+VIVOSDEV18-259 mọi công nhận ngay pha bóng ấy thì phải sửa luật 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-259 is -8.5381 over 342 frames.
+VIVOSDEV18-263 quản lý nhà nước vì giao thông vận tải đô thị 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-263 is -8.17929 over 335 frames.
+VIVOSDEV18-265 sau đó họ lại là xanh trời rồi đánh cắp đứa bé 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-265 is -8.32372 over 398 frames.
+LOG (apply-cmvn[5.5.987~1-eb8d0]:main():apply-cmvn.cc:162) Applied cepstral mean normalization to 40 utterances, errors on 0
+VIVOSDEV18-272 anh nhơn bảo tôi việc chức còn anh đi theo cô gái 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-272 is -8.43217 over 310 frames.
+VIVOSDEV18-273 chúc các bạn cần tìm hiểu thông tin quy hoạch khu đất 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-273 is -8.76361 over 332 frames.
+VIVOSDEV18-279 những sản phẩm giúp nở ngực và tan mỡ cấp các anh diên định kiến trên 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-279 is -8.68342 over 407 frames.
+VIVOSDEV18-280 phóng sự ảnh những màn biểu diễn ngoạn mục trên bầu trời 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-280 is -8.73456 over 292 frames.
+VIVOSDEV18-282 qui cũng chẳng ai chịu nổi cả tính ham vui của tôi 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-282 is -8.82095 over 323 frames.
+VIVOSDEV18-293 cha trung tâm này công anh đã bắt dự cưới 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-293 is -8.80011 over 245 frames.
+VIVOSDEV18-297 khác vùng vịnh ở trời trong tiếng ve xao xác khôn nguôi 
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:375) Log-like per frame for utterance VIVOSDEV18-297 is -8.90035 over 326 frames.
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:main():gmm-latgen-faster.cc:176) Time taken 40.1068s: real-time factor assuming 100 frames/sec is 0.312992
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:main():gmm-latgen-faster.cc:179) Done 40 utterances, failed for 0
+LOG (gmm-latgen-faster[5.5.987~1-eb8d0]:main():gmm-latgen-faster.cc:181) Overall log-likelihood per frame is -8.68966 over 12814 frames.
+# Accounting: time=40 threads=1
+# Ended (code 0) at Fri Oct 29 08:12:09 +07 2021, elapsed time 40 seconds
